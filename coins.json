@@ -100,7 +100,9 @@
     "repo": "https://github.com/aeonix/aeon",
     "website": "http://www.aeon.cash",
     "forkedFrom": "xmr-monero",
-    "diffTarget": 240
+    "diffTarget": 240, 
+    "icon": "https://www.aeon.cash/img/aeon.png", 
+    "logo": "https://www.aeon.cash/img/aeon.png"
   },
   "bsm-bitsum": {
     "coin": "BSM",
@@ -259,7 +261,9 @@
     "algorithm": "Cryptonight Lite v1",
     "bitcointalkAnn": null,
     "repo": "https://github.com/athena-network/athena",
-    "diffTarget": 3600
+    "diffTarget": 3600, 
+    "icon": "http://athx.org/assets/img/logo.png", 
+    "logo": "http://athx.org/assets/img/logo.png"
   },
   "b2b-b2bcoin": {
     "coin": "B2B",
