@@ -6,6 +6,8 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=583449.0",
     "repo": "https://github.com/monero-project/monero",
     "website": "https://getmonero.org",
+    "icon": "https://getmonero.org/press-kit/symbols/monero-symbol-480.png",
+    "logo": "https://getmonero.org/press-kit/logos/monero-logo-480.png",
     "diffTarget": 120
   },
   "xao-alloy": {
@@ -126,6 +128,8 @@
     "repo": "https://github.com/turtlecoin/turtlecoin",
     "website": "https://turtlecoin.lol",
     "forkedFrom": ["xmr-monero", "bcn-bytecoin"],
+    "icon": "https://raw.githubusercontent.com/turtlecoin/brand/master/logo/web/symbol/turtlecoin_symbol_color.png",
+    "logo": "https://raw.githubusercontent.com/turtlecoin/brand/master/logo/web/wordmark/turtlecoin_wordmark_color.png",
     "diffTarget": 30
   },
   "xun-ultranote": {
@@ -1399,22 +1403,22 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3761715.0",
     "repo": "https://github.com/zuccbucc-project",
     "diffTarget": 120
-  }, 
+  },
   "xnv-nerva": {
-    "coin": "XNV", 
-    "name": "Nerva", 
-    "algorithm": "Cryptonight Adaptive", 
+    "coin": "XNV",
+    "name": "Nerva",
+    "algorithm": "Cryptonight Adaptive",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4312695.0",
-    "repo": "https://bitbucket.org/nerva-project/nerva/src", 
+    "repo": "https://bitbucket.org/nerva-project/nerva/src",
     "forkedFrom": "msr-masari"
-  }, 
-  "blur-blur": { 
-    "coin": "BLUR", 
-    "name": "Blur", 
-    "algorithm": "Cryptonight Adaptive", 
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4577361", 
-    "repo": "https://github.com/blur-network/blur", 
-    "forkedFrom": "xnv-nerva", 
+  },
+  "blur-blur": {
+    "coin": "BLUR",
+    "name": "Blur",
+    "algorithm": "Cryptonight Adaptive",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4577361",
+    "repo": "https://github.com/blur-network/blur",
+    "forkedFrom": "xnv-nerva",
     "website": "https://blur.cash/"
   }
 }
