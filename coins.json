@@ -1399,5 +1399,22 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3761715.0",
     "repo": "https://github.com/zuccbucc-project",
     "diffTarget": 120
+  }, 
+  "xnv-nerva": {
+    "coin": "XNV", 
+    "name": "Nerva", 
+    "algorithm": "Cryptonight Adaptive", 
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4312695.0",
+    "repo": "https://bitbucket.org/nerva-project/nerva/src", 
+    "forkedFrom": "msr-masari"
+  }, 
+  "blur-blur": { 
+    "coin": "BLUR", 
+    "name": "Blur", 
+    "algorithm": "Cryptonight Adaptive", 
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4577361", 
+    "repo": "https://github.com/blur-network/blur", 
+    "forkedFrom": "xnv-nerva", 
+    "website": "https://blur.cash/"
   }
 }
