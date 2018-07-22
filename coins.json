@@ -1410,7 +1410,10 @@
     "algorithm": "Cryptonight Adaptive",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4312695.0",
     "repo": "https://bitbucket.org/nerva-project/nerva/src",
-    "forkedFrom": "msr-masari"
+    "forkedFrom": "msr-masari", 
+    "website": "http://getnerva.org/", 
+    "icon": "http://getnerva.org/content/NERVA-Logo.png", 
+    "logo": "http://getnerva.org/content/NERVA-Logo.png"
   },
   "blur-blur": {
     "coin": "BLUR",
@@ -1419,6 +1422,8 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4577361",
     "repo": "https://github.com/blur-network/blur",
     "forkedFrom": "xnv-nerva",
-    "website": "https://blur.cash/"
+    "website": "https://blur.cash/", 
+    "icon": "https://blur.cash/wp-content/uploads/blur-logo-256.png", 
+    "logo": "https://blur.cash/wp-content/uploads/blur-logo-256.png"
   }
 }
