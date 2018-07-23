@@ -201,7 +201,9 @@
     "repo": "https://github.com/sumoprojects/sumokoin",
     "website": "https://www.sumokoin.org",
     "forkedFrom": "xmr-monero",
-    "diffTarget": 240
+    "diffTarget": 240, 
+    "icon": "https://github.com/sumoprojects/SumoGUIWallet/blob/master/Resources/icons/sumokoin_icon_64.png?raw=true", 
+    "logo": "https://github.com/sumoprojects/SumoGUIWallet/blob/master/Resources/icons/sumokoin_icon_64.png?raw=true"
   },
   "krb-karbo": {
     "coin": "KRB",
@@ -209,7 +211,7 @@
     "algorithm": "Cryptonight",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1491747",
     "repo": "https://github.com/seredat/karbowanec",
-    "website": "http://karbowanec.com",
+    "website": "https://karbo.io/",
     "diffTarget": 240
   },
   "dcy-dinasty": {
@@ -887,8 +889,11 @@
     "name": "Monero Classic",
     "algorithm": "Cryptonight",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=583449.0",
-    "repo": null,
-    "diffTarget": 120
+    "repo": "https://github.com/monero-classic",
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "http://monero-classic.org/img/logo.png", 
+    "logo": "http://monero-classic.org/img/logo-name.png"
   },
   "xmv-monerov": {
     "coin": "XMV",
@@ -896,7 +901,10 @@
     "algorithm": "Cryptonight v7",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2947912",
     "repo": "https://github.com/monerov",
-    "diffTarget": 120
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://monerov.org/files/2018/01/monerov-e1516193898247-560x560.png", 
+    "logo": "https://monerov.org/files/2018/01/XMV-logo.png"
   },
   "mtip-monkeytips": {
     "coin": "MTIP",
@@ -904,7 +912,10 @@
     "algorithm": "Cryptonight Lite v1",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4595900.0",
     "repo": "https://github.com/monkeytips/monkeytips",
-    "diffTarget": 45
+    "diffTarget": 45, 
+    "website": "http://monkeytips.top/", 
+    "icon": "https://raw.githubusercontent.com/monkeytips/monkeytips.top/master/img/mtip.jpg", 
+    "logo": "https://raw.githubusercontent.com/monkeytips/monkeytips.top/master/img/mtip.jpg"
   },
   "xmx-mutex": {
     "coin": "XMX",
@@ -928,7 +939,8 @@
     "algorithm": "Cryptonight v7",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4445339",
     "repo": "https://github.com/myztic-project/myztic",
-    "diffTarget": 120
+    "diffTarget": 120, 
+    "website": "https://www.myztic.cash/"
   },
   "naza-nazacoin": {
     "coin": "NAZA",
@@ -1032,7 +1044,8 @@
     "algorithm": "Cryptonight",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2723196.0",
     "repo": "https://github.com/Jachi84/pinkstarcoin",
-    "diffTarget": 60
+    "diffTarget": 60, 
+    "forkedFrom" "trtl-turtlecoin"
   },
   "pstar-pinkstarcoinv2": {
     "coin": "PSTAR",
@@ -1040,7 +1053,8 @@
     "algorithm": "Cryptonight Lite v1",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2723196.0",
     "repo": "https://github.com/Jachi84/pinkstarcoin",
-    "diffTarget": 240
+    "diffTarget": 240, 
+    "forkedFrom" "trtl-turtlecoin"
   },
   "plura-pluracoin": {
     "coin": "PLURA",
