@@ -1045,7 +1045,7 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2723196.0",
     "repo": "https://github.com/Jachi84/pinkstarcoin",
     "diffTarget": 60, 
-    "forkedFrom" "trtl-turtlecoin"
+    "forkedFrom": "trtl-turtlecoin"
   },
   "pstar-pinkstarcoinv2": {
     "coin": "PSTAR",
@@ -1054,7 +1054,7 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2723196.0",
     "repo": "https://github.com/Jachi84/pinkstarcoin",
     "diffTarget": 240, 
-    "forkedFrom" "trtl-turtlecoin"
+    "forkedFrom": "trtl-turtlecoin"
   },
   "plura-pluracoin": {
     "coin": "PLURA",
