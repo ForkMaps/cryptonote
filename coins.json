@@ -242,7 +242,8 @@
     "algorithm": "Cryptonight",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2525508.0",
     "repo": "https://github.com/deroproject/derosuite",
-    "diffTarget": 120
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero"
   },
   "arq-arqma": {
     "coin": "ARQ",
@@ -1368,7 +1369,8 @@
     "algorithm": "Cryptonight v7",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3088712.0",
     "repo": "https://github.com/wownero/wownero",
-    "diffTarget": 300
+    "diffTarget": 300, 
+    "forkedFrom": "xmr-monero"
   },
   "wrkz-wrkzcoin": {
     "coin": "WRKZ",
