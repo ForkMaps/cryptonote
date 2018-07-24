@@ -8,7 +8,9 @@
     "website": "https://getmonero.org",
     "icon": "https://getmonero.org/press-kit/symbols/monero-symbol-480.png",
     "logo": "https://getmonero.org/press-kit/logos/monero-logo-480.png",
-    "diffTarget": 120
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "startDate": "04.2014"
   },
   "xao-alloy": {
     "coin": "XAO",
@@ -191,7 +193,8 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=512747.0",
     "repo": "https://github.com/bcndev/bytecoin",
     "website": "https://bytecoin.org",
-    "diffTarget": 120
+    "diffTarget": 120, 
+    "startDate": "07.2014"
   },
   "sumo-sumocoin": {
     "coin": "SUMO",
@@ -385,7 +388,8 @@
     "algorithm": "wild_keccak",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=577267.0",
     "repo": null,
-    "diffTarget": 120
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin"
   },
   "bzk-brazukcoin": {
     "coin": "BZK",
