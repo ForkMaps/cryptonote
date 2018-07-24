@@ -907,9 +907,7 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2947912",
     "repo": "https://github.com/monerov",
     "diffTarget": 120, 
-    "forkedFrom": "xmr-monero", 
-    "icon": "https://monerov.org/files/2018/01/monerov-e1516193898247-560x560.png", 
-    "logo": "https://monerov.org/files/2018/01/XMV-logo.png"
+    "forkedFrom": "xmr-monero"
   },
   "mtip-monkeytips": {
     "coin": "MTIP",
