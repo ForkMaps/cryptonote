@@ -133,7 +133,7 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2872287.0",
     "repo": "https://github.com/turtlecoin/turtlecoin",
     "website": "https://turtlecoin.lol",
-    "forkedFrom": ["xmr-monero", "bcn-bytecoin"],
+    "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/turtlecoin/brand/master/logo/web/symbol/turtlecoin_symbol_color.png",
     "logo": "https://raw.githubusercontent.com/turtlecoin/brand/master/logo/web/wordmark/turtlecoin_wordmark_color.png",
     "diffTarget": 30
