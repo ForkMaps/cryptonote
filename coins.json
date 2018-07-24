@@ -9,6 +9,7 @@
         "logo": "https://www.aeon.cash/img/aeon.png",
         "name": "AEON",
         "repo": "https://github.com/aeonix/aeon",
+        "startDate": "06.2014",
         "website": "http://www.aeon.cash"
     },
     "arq-arqma": {
@@ -1131,6 +1132,7 @@
         "logo": "https://raw.githubusercontent.com/turtlecoin/brand/master/logo/web/wordmark/turtlecoin_wordmark_color.png",
         "name": "Turtlecoin",
         "repo": "https://github.com/turtlecoin/turtlecoin",
+        "startDate": "12.2017",
         "website": "https://turtlecoin.lol"
     },
     "tube-bittube": {
