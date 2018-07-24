@@ -1,5 +1,5 @@
-# forknote-tree-json
-JSON file for [forknote-tree](https://github.com/jerme404/forknote-tree) data.
+# cryptonote-tree-json
+JSON file for [cryptonote-tree](https://github.com/jerme404/cryptonote-tree) data.
 
 ## Contributing
 All of the coin data is maintained by community contributors.
