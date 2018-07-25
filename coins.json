@@ -18,7 +18,7 @@
         "coin": "ARQ",
         "diffTarget": 240, 
         "forkedFrom": "xmr-monero",
-        "icon" : "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/arqma-icon.png?raw=true",
+        "icon" : "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/arqma-icon-fixed.png?raw=true",
         "name": "ArQmA",
         "repo": "https://github.com/arqma"
     },
