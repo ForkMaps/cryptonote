@@ -18,8 +18,7 @@
         "coin": "ARQ",
         "diffTarget": 240, 
         "forkedFrom": "xmr-monero",
-        "icon" : "https://arqma.com/wp-content/uploads/2018/05/white_logo_transparent_background-512x512.png", 
-        "logo": "https://arqma.com/wp-content/uploads/2018/05/white_logo_transparent_background-250x93.png",
+        "icon" : "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/arqma-icon.png?raw=true",
         "name": "ArQmA",
         "repo": "https://github.com/arqma"
     },
@@ -784,6 +783,7 @@
         "coin": "MTIP",
         "diffTarget": 45,
         "forkedFrom": "trtl-turtlecoin",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/monkeytips-icon.png?raw=true",
         "name": "Monkeytips",
         "repo": "https://github.com/monkeytips/monkeytips",
         "website": "http://monkeytips.top/"
