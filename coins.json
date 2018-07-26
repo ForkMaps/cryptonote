@@ -113,6 +113,7 @@
         "coin": "BKC",
         "diffTarget": 30,
         "forkedFrom": "krb-karbo",
+        "icon": "https://github.com/zlatkomajstor/balkancoin-faucet/blob/master/images/balkancoin.png?raw=true",
         "name": "Balkancoin",
         "repo": "https://github.com/zlatkomajstor/balkancoin",
         "website": "https://www.balkancoin.org"
@@ -269,6 +270,7 @@
         "coin": "DCY",
         "diffTarget": 120,
         "forkedFrom": "bcn-bytecoin",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/dinastycoin-icon.png?raw=true",
         "name": "Dinasty",
         "repo": "https://github.com/dinastyoffreedom/dinastycoin",
         "website": "http://www.dinastycoin.com"
@@ -279,8 +281,10 @@
         "coin": "DERO",
         "diffTarget": 120,
         "forkedFrom": "xmr-monero",
+        "icon": "https://github.com/deroproject/website/blob/master/src/img/logo_big_transparent.png?raw=true",
         "name": "Dero",
-        "repo": "https://github.com/deroproject/derosuite"
+        "repo": "https://github.com/deroproject/derosuite", 
+        "website": "https://dero.io/"
     },
     "deut-deuter": {
         "algorithm": "Cryptonight",
@@ -368,6 +372,7 @@
         "coin": "ETN",
         "diffTarget": 60,
         "forkedFrom": "xmr-monero",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/etn-icon.png?raw=true",
         "name": "Electroneum",
         "repo": "https://github.com/electroneum/electroneum",
         "website": "https://electroneum.com"
@@ -377,6 +382,8 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4602598.0",
         "coin": "ETNC",
         "diffTarget": 60,
+        "forkedFrom": "etn-electroneum", 
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/etn-classic-icon.png?raw=true",
         "name": "Electroneum-Classic",
         "repo": "https://github.com/electroneumclassic/electroneum-classic"
     },
@@ -386,6 +393,7 @@
         "coin": "ETNX",
         "diffTarget": 60,
         "forkedFrom": "etn-electroneum",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/etnx-icon.png?raw=true",
         "name": "Electronero",
         "repo": "https://github.com/electronero/electronero"
     },
@@ -765,6 +773,7 @@
         "coin": "MSR",
         "diffTarget": 120,
         "forkedFrom": "xmr-monero",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/masari-icon.png?raw=true",
         "name": "Masari",
         "repo": "https://github.com/masari-project/masari",
         "website": "https://www.getmasari.org"
