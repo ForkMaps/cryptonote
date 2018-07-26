@@ -1331,7 +1331,7 @@
         "coin": "XMR",
         "diffTarget": 120,
         "forkedFrom": "bcn-bytecoin",
-        "icon": "https://getmonero.org/press-kit/symbols/monero-symbol-480.png",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/monero-icon.png?raw=true",
         "logo": "https://getmonero.org/press-kit/logos/monero-logo-480.png",
         "name": "Monero",
         "repo": "https://github.com/monero-project/monero",
@@ -1344,6 +1344,7 @@
         "coin": "XMV",
         "diffTarget": 120,
         "forkedFrom": "xmr-monero",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/monerov-icon.png?raw=true",
         "name": "MoneroV",
         "repo": "https://github.com/monerov"
     },
@@ -1360,8 +1361,7 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4312695.0",
         "coin": "XNV",
         "forkedFrom": "msr-masari",
-        "icon": "http://getnerva.org/content/NERVA-Logo.png",
-        "logo": "http://getnerva.org/content/NERVA-Logo.png",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/nerva-icon.png?raw=true",
         "name": "Nerva",
         "repo": "https://bitbucket.org/nerva-project/nerva/src",
         "website": "http://getnerva.org/"
@@ -1432,6 +1432,8 @@
             "msr-masari",
             "xmr-monero"
         ],
+        "icon": "https://github.com/stellitecoin/stellitecoin.github.io/blob/master/assets/img/logo/stellite-app-icon@2x.png?raw=true", 
+        "logo": "https://github.com/stellitecoin/stellitecoin.github.io/blob/master/assets/img/logo/stellite-logo.png?raw=true",
         "name": "Stellite",
         "repo": "https://github.com/stellitecoin/Stellite",
         "website": "https://stellite.cash"
