@@ -1494,6 +1494,8 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2357930.0",
         "coin": "XUN",
         "diffTarget": 240,
+        "forkedFrom": "xdn-digitalnote",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/ultranote-icon.png?raw=true",
         "name": "Ultranote",
         "repo": "https://github.com/xun-project/UltraNote",
         "website": "https://ultranote.org"
