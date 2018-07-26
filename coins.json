@@ -1,4 +1,12 @@
 {
+    "42-fourtytwo": {
+        "algorithm": "Cryptonight Lite v1",
+        "coin": "42",
+        "forkedFrom": "trtl-turtlecoin",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/42-icon.png?raw=true",
+        "name": "FourtyTwo",
+        "repo": "https://github.com/FourtyTwo"
+    },
     "aeon-aeon": {
         "algorithm": "Cryptonight Lite v1",
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=641696.0",
