@@ -1022,8 +1022,11 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4413010",
         "coin": "RYO",
         "diffTarget": 240,
+        "forkedFrom": "sumo-sumocoin",
+        "icon": "https://github.com/ryo-currency/ryo-gui-wallet/blob/master/Resources/icons/ryo-1024.png?raw=true",
         "name": "Ryo",
-        "repo": "https://github.com/ryo-currency"
+        "repo": "https://github.com/ryo-currency",
+        "website": "https://ryo-currency.com/"
     },
     "sdi-soldi": {
         "algorithm": "Cryptonight",
