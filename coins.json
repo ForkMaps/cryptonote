@@ -159,6 +159,7 @@
         "coin": "BSM",
         "diffTarget": 120,
         "forkedFrom": "bcn-bytecoin",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/bitsum-icon.png?raw=true",
         "name": "Bitsum",
         "repo": "https://github.com/BitsumFoundation/bitsum_core",
         "website": "https://bitsum.money"
