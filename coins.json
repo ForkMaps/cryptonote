@@ -649,6 +649,7 @@
         "coin": "KRB",
         "diffTarget": 240,
         "forkedFrom": "bcn-bytecoin",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/karbo-icon.png?raw=true",
         "name": "Karbo",
         "repo": "https://github.com/seredat/karbowanec",
         "website": "https://karbo.io/"
@@ -915,7 +916,6 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2723196.0",
         "coin": "PNKS",
         "diffTarget": 60,
-        "forkedFrom": "trtl-turtlecoin",
         "name": "Pinkstarcoin",
         "repo": "https://github.com/Jachi84/pinkstarcoin"
     },
@@ -1219,8 +1219,10 @@
         "coin": "WOW",
         "diffTarget": 300,
         "forkedFrom": "xmr-monero",
+        "icon": "https://github.com/wownero/wownero-gui/blob/master/images/wowneroIcon-trans84x84.png?raw=true",
         "name": "Wownero",
-        "repo": "https://github.com/wownero/wownero"
+        "repo": "https://github.com/wownero/wownero", 
+        "website": "http://wownero.org/"
     },
     "wrkz-wrkzcoin": {
         "algorithm": "Cryptonight Lite v1",
@@ -1235,8 +1237,11 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3086019.0",
         "coin": "WTIP",
         "diffTarget": 120,
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/worktips-icon.png?raw=true",
+        "forkedFrom": "trtl-turtlecoin",
         "name": "Worktips",
-        "repo": "https://github.com/Vordas/worktips"
+        "repo": "https://github.com/Vordas/worktips", 
+        "website": "http://worktips.info/"
     },
     "x12-x12": {
         "algorithm": "Cryptonight",
@@ -1260,6 +1265,7 @@
         "coin": "XAO",
         "diffTarget": 180,
         "forkedFrom": "bcn-bytecoin",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/alloy-icon.png?raw=true",
         "name": "Alloy",
         "repo": "https://github.com/alloyproject/alloy",
         "website": "https://alloyproject.org"
@@ -1277,6 +1283,8 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4451957",
         "coin": "XDN",
         "diffTarget": 240,
+        "forkedFrom": "bcn-bytecoin",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/xdn-icon.jpg?raw=true",
         "name": "DigitalNote",
         "repo": "https://github.com/digitalnotexdn"
     },
@@ -1302,6 +1310,7 @@
         "coin": "XHV",
         "diffTarget": 120,
         "forkedFrom": "xmr-monero",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/haven-icon.png?raw=true",
         "name": "Haven Protocol",
         "repo": "https://github.com/havenprotocol/haven",
         "website": "https://havenprotocol.com"
