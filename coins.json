@@ -46,8 +46,10 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2098163.0",
         "coin": "B2B",
         "diffTarget": 120,
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/b2bcoin-icon.png?raw=true",
         "name": "B2BCoin",
-        "repo": "https://github.com/oliviersinnaeve/b2bcoin-wallet"
+        "repo": "https://github.com/oliviersinnaeve/b2bcoin-wallet",
+        "website": "https://b2bcoin.xyz/"
     },
     "b2n-bitcoin2network": {
         "algorithm": "Cryptonight b2n",
@@ -131,8 +133,11 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4108831.0",
         "coin": "BLOC",
         "diffTarget": 120,
+        "forkedFrom": "bcn-bytecoin",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/bloc-icon.png?raw=true",
         "name": "BLOC",
-        "repo": "https://github.com/furiousteam/BLOC"
+        "repo": "https://github.com/furiousteam/BLOC", 
+        "website": "https://bloc.money/"
     },
     "blur-blur": {
         "algorithm": "Cryptonight Adaptive",
@@ -241,6 +246,9 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1635047.0",
         "coin": "COAL",
         "diffTarget": 90,
+        "icon": "https://github.com/bitcoal/bitcoal/raw/master/bitcoal.png",
+        "forkedFrom": "bcn-bytecoin",
+        "forknote": true,
         "name": "Bitcoal",
         "repo": "https://github.com/bitcoal/bitcoal",
         "website": "http://getbitcoal.org"
@@ -1002,8 +1010,12 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2932583.0",
         "coin": "RTO",
         "diffTarget": 90,
+        "forkedFrom": "krb-karbo",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/arto-icon.png?raw=true",
+        "logo": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/arto-logo.png?raw=true",
         "name": "Arto",
-        "repo": "https://github.com/artocash/arto"
+        "repo": "https://github.com/artocash/arto", 
+        "website": "https://www.arto.cash/"
     },
     "ryo-ryo": {
         "algorithm": "Cryptonight Heavy",
