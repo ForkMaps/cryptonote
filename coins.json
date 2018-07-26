@@ -78,21 +78,16 @@
         "repo": "https://github.com/cryptozoidberg/boolberry/", 
         "website": "https://boolberry.com/"
     },
-    "bbrc-blood": {
-        "algorithm": "Cryptonight",
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2986524.0",
-        "coin": "BBRC",
-        "diffTarget": 120,
-        "name": "Blood Donation Coin",
-        "repo": "https://github.com/MatheusGrijo/BloodDonationCoinCore"
-    },
     "bbrc-blood-heavy": {
         "algorithm": "Cryptonight Heavy",
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4627133.0",
         "coin": "BBRC",
         "diffTarget": 240,
+        "forkedFrom": "loki-loki",
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/blood-heavy-icon.png?raw=true",
         "name": "Blood Donation Coin",
-        "repo": "https://github.com/blooddonationcoin/"
+        "repo": "https://github.com/blooddonationcoin/", 
+        "website": "http://blooddonationcoin.org/"
     },
     "bbs-bbs": {
         "algorithm": "Cryptonight v7",
