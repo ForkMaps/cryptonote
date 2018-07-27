@@ -1039,6 +1039,14 @@
         "name": "Sadomi",
         "repo": "https://github.com/sadomi/sadomi"
     },
+    "seth-canarycoin": {
+        "algorithm": "Cryptonight Lite v1",
+        "coin": "SETH",
+        "forkedFrom": "trtl-turtlecoin",
+        "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/canary-icon.png",
+        "name": "Canarycoin",
+        "repo": "https://github.com/54V4NT/canarycoin"
+    },
     "shg-shang": {
         "algorithm": "Cryptonight",
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2991596.0",
@@ -1165,7 +1173,6 @@
         "logo": "https://raw.githubusercontent.com/turtlecoin/brand/master/logo/web/wordmark/turtlecoin_wordmark_color.png",
         "name": "Turtlecoin",
         "repo": "https://github.com/turtlecoin/turtlecoin",
-        "startDate": "12.2017",
         "website": "https://turtlecoin.lol"
     },
     "tube-bittube": {
