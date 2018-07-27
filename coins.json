@@ -145,6 +145,13 @@
         "repo": "https://github.com/blur-network/blur",
         "website": "https://blur.cash/"
     },
+    "bmr-bitmonero": {
+        "coin": "BMR",
+        "forkedFrom": "bcn-bytecoin",
+        "name": "BitMonero",
+        "repo": "https://github.com/bitmonero-project/bitmonero",
+        "website": "http://bitmonero.org/"
+    },
     "bold-bold": {
         "algorithm": "Cryptonight",
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4587224.0",
@@ -432,6 +439,14 @@
         "diffTarget": 120,
         "name": "Firstcryptobank",
         "repo": null
+    },
+    "fcn-fantomcoin": {
+        "coin": "FCN",
+        "forkedFrom": "bmr-bitmonero",
+        "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/fantomcoin-icon.png",
+        "name": "FantomCoin",
+        "repo": "https://github.com/amphibia/fantomcoin", 
+        "website": "http://fantomcoin.org/"
     },
     "fest-festival": {
         "algorithm": "Cryptonight v7",
@@ -767,6 +782,13 @@
         "diffTarget": 60,
         "name": "MapleCoin",
         "repo": "https://github.com/Maple-Coin/MapleCoin"
+    },
+    "mcn-monetaverde": {
+        "coin": "MCN", 
+        "forkedFrom": "fcn-fantomcoin", 
+        "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/mcn-icon.jpg",
+        "name": "MonetaVerde",
+        "repo": "https://github.com/cryptomidnight/monetaverde"
     },
     "megn-egano": {
         "algorithm": "Cryptonight",
