@@ -1416,7 +1416,7 @@
         "coin": "XMR",
         "diffTarget": 120,
         "forkedFrom": "bcn-bytecoin",
-        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/monero-icon.png?raw=true",
+        "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/monero-icon.png",
         "logo": "https://getmonero.org/press-kit/logos/monero-logo-480.png",
         "name": "Monero",
         "repo": "https://github.com/monero-project/monero",
