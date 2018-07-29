@@ -359,8 +359,10 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4556718.0",
         "coin": "DROP",
         "diffTarget": 120,
+        "forkedFrom": "trtl-turtlecoin",
         "name": "xDrop",
-        "repo": "https://github.com/xDropProject/xDrop"
+        "repo": "https://github.com/xDropProject/xDrop", 
+        "website": "https://xdrop.io/"
     },
     "edl-edollar": {
         "algorithm": "Cryptonight",
@@ -1534,14 +1536,19 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4625226.0",
         "coin": "ZBK",
         "diffTarget": 120,
+        "forkedFrom": "xmr-monero",
+        "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/zbucks-icon.png",
         "name": "Zbucks",
-        "repo": "https://github.com/zbucks-project/zbucks"
+        "repo": "https://github.com/zbucks-project/zbucks", 
+        "website": "https://www.zbucks.org/"
     },
     "zep-zephyr": {
         "algorithm": "Cryptonight",
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3756568",
         "coin": "ZEP",
         "diffTarget": 90,
+        "forkedFrom": "xmr-monero", 
+        "icon": "https://raw.githubusercontent.com/zephyr-protocol/zephyr-gui/master/Resources/icons/zephyr_icon_64.png",
         "name": "Zephyr Protocol",
         "repo": "https://github.com/zephyr-protocol"
     },
