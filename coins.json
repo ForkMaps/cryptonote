@@ -558,21 +558,15 @@
         "name": "Humanitary Coin",
         "repo": "https://github.com/humanitarycoin/hcn"
     },
-    "hlc-halykcoin": {
-        "algorithm": "Cryptonight",
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3076077.0",
-        "coin": "HLC",
-        "diffTarget": 60,
-        "name": "Halykcoin",
-        "repo": null
-    },
     "hype-hypecoin": {
         "algorithm": "Cryptonight",
         "bitcointalkAnn": null,
         "coin": "HYPE",
         "diffTarget": 30,
+        "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/hype-icon.png",
         "name": "HypeCoin",
-        "repo": "https://github.com/HazeDevelopment/HypeCoin"
+        "repo": "https://github.com/HazeDevelopment/HypeCoin", 
+        "website": "http://hypecoin.foundation/"
     },
     "inc-incognito": {
         "algorithm": "Cryptonight",
@@ -595,8 +589,11 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2150442.0",
         "coin": "IRD",
         "diffTarget": 175,
+        "forkedFrom": "bcn-bytecoin",
+        "icon": "https://raw.githubusercontent.com/iridiumdev/iridium-graphics/master/logo%20and%20icons/128x128.png",
         "name": "Iridium",
-        "repo": "https://github.com/iridiumdev/iridium"
+        "repo": "https://github.com/iridiumdev/iridium", 
+        "website": "https://ird.cash/"
     },
     "ita-italocoin": {
         "algorithm": "Cryptonight Heavy",
