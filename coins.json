@@ -974,7 +974,8 @@
         "coin": "PURK",
         "diffTarget": 90,
         "name": "Purkcoin",
-        "repo": "https://github.com/purkproject/purk"
+        "repo": "https://github.com/purkproject/purk", 
+        "website": "https://purkproject.com/"
     },
     "pyx-pyrexcoin": {
         "algorithm": "Cryptonight Heavy",
