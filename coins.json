@@ -73,7 +73,8 @@
         "coin": "BBR",
         "diffTarget": 120,
         "forkedFrom": "bcn-bytecoin",
-        "logo": "https://github.com/cryptozoidberg/boolberry/blob/master/resources/big_logo.png?raw=true",
+        "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/bbr-icon.png",
+        "logo": "https://raw.githubusercontent.com/cryptozoidberg/boolberry/master/resources/big_logo.png",
         "name": "Boolberry",
         "repo": "https://github.com/cryptozoidberg/boolberry/", 
         "website": "https://boolberry.com/"
@@ -945,8 +946,10 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3081442.0",
         "coin": "PLURA",
         "diffTarget": 120,
+        "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/plura-icon.png?raw=true",
         "name": "Pluracoin",
-        "repo": "https://github.com/pluracoin/pluracoin"
+        "repo": "https://github.com/pluracoin/pluracoin", 
+        "website": "https://pluracoin.org/"
     },
     "pnks-pinkstarcoin": {
         "algorithm": "Cryptonight",
@@ -994,8 +997,11 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2881418.0",
         "coin": "QWC",
         "diffTarget": 120,
+        "forkedFrom": ["krb-karbo", "xmr-monero", "xdn-digitalnote"],
+        "icon": "https://github.com/qwertycoin-org/qwertycoin-gui/blob/master/src/images/qwertycoinz.png?raw=true",
         "name": "Qwertycoin",
-        "repo": "https://github.com/qwertycoin-org/qwertycoin"
+        "repo": "https://github.com/qwertycoin-org/qwertycoin", 
+        "website": "https://qwertycoin.org/"
     },
     "rd-redwind": {
         "algorithm": "Cryptonight",
@@ -1445,8 +1451,11 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4496100",
         "coin": "XPP",
         "diffTarget": 120,
+        "forkedFrom": "msr-masari",
+        "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/privatepay-icon.png",
         "name": "PrivatePay",
-        "repo": "https://github.com/GoPrivatePay"
+        "repo": "https://github.com/GoPrivatePay", 
+        "website": "https://goprivatepay.com/"
     },
     "xpr-prosus": {
         "algorithm": "Cryptonight",
