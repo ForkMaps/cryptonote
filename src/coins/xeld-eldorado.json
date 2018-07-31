@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3334828.0",
+    "coin": "XELD",
+    "diffTarget": 120,
+    "name": "Eldorado",
+    "repo": "https://github.com/eldoradocash/eldorado-node"
+}

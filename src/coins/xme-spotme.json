@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight Lite v1",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2701367",
+    "coin": "XME",
+    "diffTarget": 120,
+    "name": "SPOTme Coin",
+    "repo": "https://github.com/spotme-main/"
+}

@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2821734.0",
+    "coin": "BKC",
+    "diffTarget": 30,
+    "forkedFrom": "krb-karbo",
+    "icon": "https://github.com/zlatkomajstor/balkancoin-faucet/blob/master/images/balkancoin.png?raw=true",
+    "name": "Balkancoin",
+    "repo": "https://github.com/zlatkomajstor/balkancoin",
+    "website": "https://www.balkancoin.org"
+}

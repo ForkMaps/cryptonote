@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight Heavy",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4667297.0",
+    "coin": "KSN",
+    "diffTarget": 120,
+    "name": "Koson",
+    "repo": "https://github.com/kosonproject/koson/"
+}

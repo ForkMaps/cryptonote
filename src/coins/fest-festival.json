@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3683049.0",
+    "coin": "FEST",
+    "diffTarget": 60,
+    "name": "Festival",
+    "repo": "https://github.com/FESTIVALCOINDEV/festival"
+}

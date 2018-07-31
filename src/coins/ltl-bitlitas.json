@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3262692.0",
+    "coin": "LTL",
+    "diffTarget": 60,
+    "name": "BitLitas",
+    "repo": "https://github.com/Bitlitas/bitlitas"
+}

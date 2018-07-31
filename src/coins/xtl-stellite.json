@@ -1,0 +1,16 @@
+{
+    "algorithm": "Cryptonight Stellite",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2813261.0",
+    "coin": "XTL",
+    "diffTarget": 60,
+    "forkedFrom": [
+        "etn-electroneum",
+        "msr-masari",
+        "xmr-monero"
+    ],
+    "icon": "https://github.com/stellitecoin/stellitecoin.github.io/blob/master/assets/img/logo/stellite-app-icon@2x.png?raw=true",
+    "logo": "https://github.com/stellitecoin/stellitecoin.github.io/blob/master/assets/img/logo/stellite-logo.png?raw=true",
+    "name": "Stellite",
+    "repo": "https://github.com/stellitecoin/Stellite",
+    "website": "https://stellite.cash"
+}

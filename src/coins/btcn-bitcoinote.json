@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2660296.0",
+    "coin": "BTCN",
+    "diffTarget": 120,
+    "name": "BitcoiNote",
+    "repo": "https://github.com/Bitcoinote/Bitcoinote-Core"
+}

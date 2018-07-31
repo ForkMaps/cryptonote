@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2788264.0",
+    "coin": "JIM",
+    "diffTarget": 120,
+    "name": "Jim",
+    "repo": "https://github.com/Rob-Otman/JimCoinCLI"
+}

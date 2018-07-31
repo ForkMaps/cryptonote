@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1491747",
+    "coin": "KRB",
+    "diffTarget": 240,
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/karbo-icon.png",
+    "name": "Karbo",
+    "repo": "https://github.com/seredat/karbowanec",
+    "website": "https://karbo.io/"
+}

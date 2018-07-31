@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3783719",
+    "coin": "PK",
+    "diffTarget": 180,
+    "name": "Pennykoin",
+    "repo": "https://github.com/Pennykoin"
+}

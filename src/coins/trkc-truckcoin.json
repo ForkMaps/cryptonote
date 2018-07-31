@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2257104.0",
+    "coin": "TRKC",
+    "diffTarget": 240,
+    "name": "Truckcoin",
+    "repo": "https://github.com/truckit/Truckcoin"
+}

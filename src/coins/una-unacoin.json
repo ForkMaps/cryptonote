@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2289043.0",
+    "coin": "UNA",
+    "diffTarget": 90,
+    "name": "Unacoin",
+    "repo": "https://github.com/TheUnAProject/UnA"
+}

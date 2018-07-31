@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight Heavy",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2881418.0",
+    "coin": "QWC",
+    "diffTarget": 120,
+    "forkedFrom": ["krb-karbo", "xmr-monero", "xdn-digitalnote"],
+    "icon": "https://github.com/qwertycoin-org/qwertycoin-gui/blob/master/src/images/qwertycoinz.png?raw=true",
+    "name": "Qwertycoin",
+    "repo": "https://github.com/qwertycoin-org/qwertycoin",
+    "website": "https://qwertycoin.org/"
+}

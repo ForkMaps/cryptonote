@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2870436.0",
+    "coin": "SPES",
+    "diffTarget": 100,
+    "name": "SpesCoin",
+    "repo": "https://github.com/SpesCoin/spescoin"
+}

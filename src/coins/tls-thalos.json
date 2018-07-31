@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4626657.0",
+    "coin": "TLS",
+    "diffTarget": 100,
+    "name": "Thalos",
+    "repo": "https://github.com/thalosorg/thalos"
+}

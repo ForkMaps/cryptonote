@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4557266.0",
+    "coin": "BUZ",
+    "diffTarget": 42,
+    "name": "Bukz",
+    "repo": "https://github.com/bukzmatter/bukz/"
+}

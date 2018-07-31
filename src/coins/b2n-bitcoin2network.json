@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight b2n",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4311333.0",
+    "coin": "B2N",
+    "diffTarget": 90,
+    "name": "bitcoin2network",
+    "repo": "https://github.com/b2n-project/bitcoin2network"
+}

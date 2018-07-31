@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1847322.0",
+    "coin": "XLC",
+    "diffTarget": 60,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://github.com/leviarcoin/leviarcoin-gui-wallet/blob/master/images/appicons/256x256.png?raw=true",
+    "name": "Leviarcoin",
+    "repo": "https://github.com/leviarcoin/leviarcoin-src",
+    "website": "https://leviarcoin.org/"
+}

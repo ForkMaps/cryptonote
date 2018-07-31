@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2684213.0",
+    "coin": "BZK",
+    "diffTarget": 240,
+    "name": "Brazukcoin",
+    "repo": "https://github.com/brazukcoin/brazukcoin"
+}

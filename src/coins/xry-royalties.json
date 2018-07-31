@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2046563.0",
+    "coin": "XRY",
+    "diffTarget": 120,
+    "name": "Royalties",
+    "repo": "https://github.com/Vetro7/RoyaltiesCLI"
+}

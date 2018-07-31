@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4410584",
+    "coin": "EXN",
+    "diffTarget": 120,
+    "name": "Ex Nihilo Coin",
+    "repo": "https://github.com/Ex-Nihilo-Concept/Principium/"
+}

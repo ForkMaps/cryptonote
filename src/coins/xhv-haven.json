@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight Haven",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2989487.0",
+    "coin": "XHV",
+    "diffTarget": 120,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/haven-icon.png",
+    "name": "Haven Protocol",
+    "repo": "https://github.com/havenprotocol/haven",
+    "website": "https://havenprotocol.com"
+}

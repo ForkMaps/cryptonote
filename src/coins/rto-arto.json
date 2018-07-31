@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight arto",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2932583.0",
+    "coin": "RTO",
+    "diffTarget": 90,
+    "forkedFrom": "krb-karbo",
+    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/arto-icon.png",
+    "name": "Arto",
+    "repo": "https://github.com/artocash/arto",
+    "website": "https://www.arto.cash/"
+}

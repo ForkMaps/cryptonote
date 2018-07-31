@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2115188",
+    "coin": "GRFT",
+    "diffTarget": 120,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://github.com/graft-project/GraftMobile/blob/master/GraftMobileClient/resources/imgs/g-max.png?raw=true",
+    "name": "Graft",
+    "repo": "https://github.com/graft-project/GraftNetwork",
+    "website": "https://www.graft.network"
+}

@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2910750.0",
+    "coin": "TYC",
+    "diffTarget": 120,
+    "name": "Tychecash",
+    "repo": "https://github.com/blockchain-next/TycheCash"
+}

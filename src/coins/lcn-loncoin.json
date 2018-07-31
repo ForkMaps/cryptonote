@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2986921.0",
+    "coin": "LCN",
+    "diffTarget": 140,
+    "name": "Loncoin",
+    "repo": "https://github.com/Lennaft/Loncoin"
+}

@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2088169.0",
+    "coin": "SUP",
+    "diffTarget": 120,
+    "name": "Superior Coin",
+    "repo": "https://github.com/TheSuperiorCoin/TheSuperiorCoin"
+}

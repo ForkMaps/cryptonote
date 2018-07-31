@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1905086.0",
+    "coin": "SUMO",
+    "diffTarget": 240,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://github.com/sumoprojects/SumoGUIWallet/blob/master/Resources/icons/sumokoin_icon_64.png?raw=true",
+    "name": "Sumocoin",
+    "repo": "https://github.com/sumoprojects/sumokoin",
+    "website": "https://www.sumokoin.org"
+}

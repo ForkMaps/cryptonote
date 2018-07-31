@@ -1,0 +1,10 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3756568",
+    "coin": "ZEP",
+    "diffTarget": 90,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/zephyr-protocol/zephyr-gui/master/Resources/icons/zephyr_icon_64.png",
+    "name": "Zephyr Protocol",
+    "repo": "https://github.com/zephyr-protocol"
+}

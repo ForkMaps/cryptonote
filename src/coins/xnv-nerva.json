@@ -1,0 +1,10 @@
+{
+    "algorithm": "Cryptonight Adaptive",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4312695.0",
+    "coin": "XNV",
+    "forkedFrom": ["msr-masari", "xmr-monero"],
+    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/nerva-icon.png",
+    "name": "Nerva",
+    "repo": "https://bitbucket.org/nerva-project/nerva/src",
+    "website": "http://getnerva.org/"
+}

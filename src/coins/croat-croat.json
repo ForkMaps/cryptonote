@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2102443.0",
+    "coin": "CROAT",
+    "diffTarget": 120,
+    "name": "CROAT",
+    "repo": "https://github.com/croatproject/Croat"
+}

@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3225185.0",
+    "coin": "SDI",
+    "diffTarget": 60,
+    "name": "Soldi",
+    "repo": "https://github.com/bitsoldi/soldi"
+}

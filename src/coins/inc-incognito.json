@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3276900.0",
+    "coin": "INC",
+    "diffTarget": 120,
+    "name": "Incognito",
+    "repo": "https://github.com/incognito-currency/incognito"
+}

@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=583449.0",
+    "coin": "XMC",
+    "diffTarget": 120,
+    "forkedFrom": "xmr-monero",
+    "icon": "http://monero-classic.org/img/logo.png",
+    "logo": "http://monero-classic.org/img/logo-name.png",
+    "name": "Monero Classic",
+    "repo": "https://github.com/monero-classic"
+}

@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4415541",
+    "coin": "UNIQ",
+    "diffTarget": 90,
+    "name": "uniQ",
+    "repo": "https://github.com/uniqnetwork/uniq/releases/"
+}

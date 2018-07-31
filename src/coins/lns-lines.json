@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3162385.0",
+    "coin": "LNS",
+    "diffTarget": 120,
+    "name": "Lines",
+    "repo": "https://github.com/linescoin/lines"
+}

@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2712001.0",
+    "coin": "DRGL",
+    "diffTarget": 81,
+    "name": "Dragonglass",
+    "repo": "https://github.com/ZirtysPerzys/DRGL"
+}

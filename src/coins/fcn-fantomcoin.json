@@ -1,0 +1,7 @@
+{
+    "coin": "FCN",
+    "forkedFrom": "bmr-bitmonero",
+    "name": "FantomCoin",
+    "repo": "https://github.com/amphibia/fantomcoin",
+    "website": "http://fantomcoin.org/"
+}

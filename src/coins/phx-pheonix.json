@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3163251.0",
+    "coin": "PHX",
+    "diffTarget": 120,
+    "name": "Pheonix",
+    "repo": null
+}

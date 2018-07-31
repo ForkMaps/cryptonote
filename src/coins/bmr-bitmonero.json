@@ -1,0 +1,7 @@
+{
+    "coin": "BMR",
+    "forkedFrom": "bcn-bytecoin",
+    "name": "BitMonero",
+    "repo": "https://github.com/bitmonero-project/bitmonero",
+    "website": "http://bitmonero.org/"
+}

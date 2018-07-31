@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=791563.0",
+    "coin": "RD",
+    "diffTarget": 120,
+    "name": "Redwind",
+    "repo": null
+}

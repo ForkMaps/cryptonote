@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight Lite v1",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4557309.0",
+    "coin": "SMPL",
+    "diffTarget": 60,
+    "name": "SimpleCoin",
+    "repo": null
+}

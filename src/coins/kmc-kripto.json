@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2335467.0",
+    "coin": "KMC",
+    "diffTarget": 90,
+    "name": "Kripto Marka Coin",
+    "repo": "https://github.com/tr4nscr1pt/kmcoin-2.0"
+}

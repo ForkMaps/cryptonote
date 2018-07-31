@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4693135.0",
+    "coin": "BTCN",
+    "diffTarget": 10,
+    "name": "BitcoinNero",
+    "repo": "https://github.com/bitcoinnero"
+}

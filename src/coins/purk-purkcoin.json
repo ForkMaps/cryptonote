@@ -1,0 +1,9 @@
+{
+    "algorithm": "wild_keccak",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3213127",
+    "coin": "PURK",
+    "diffTarget": 90,
+    "name": "Purkcoin",
+    "repo": "https://github.com/purkproject/purk",
+    "website": "https://purkproject.com/"
+}

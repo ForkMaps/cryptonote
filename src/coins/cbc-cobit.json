@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4547873.msg40952254#msg40952254",
+    "coin": "CBC",
+    "diffTarget": 120,
+    "name": "Cobit Coin",
+    "repo": "https://github.com/CobitCoin/cobitcoin"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "cryptonote-tree-json",
+  "version": "1.0.0",
+  "description": "Coin data for cryptonotetree.com",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerme404/cryptonote-tree-json.git"
+  },
+  "author": "JerMe404",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerme404/cryptonote-tree-json/issues"
+  },
+  "homepage": "http://cryptonotetree.com",
+  "devDependencies": {
+    "ajv": "^6.4.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-add-src": "^0.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-json-concat": "^0.1.1",
+    "run-sequence": "^2.2.1"
+  }
+}

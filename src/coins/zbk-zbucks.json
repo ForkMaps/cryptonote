@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight Heavy",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4625226.0",
+    "coin": "ZBK",
+    "diffTarget": 120,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/zbucks-icon.png",
+    "name": "Zbucks",
+    "repo": "https://github.com/zbucks-project/zbucks",
+    "website": "https://www.zbucks.org/"
+}

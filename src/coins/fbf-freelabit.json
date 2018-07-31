@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2344886",
+    "coin": "FBF",
+    "diffTarget": 120,
+    "name": "Freelabit",
+    "repo": "https://github.com/freelacoin/freelabit"
+}

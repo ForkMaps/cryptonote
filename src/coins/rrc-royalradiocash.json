@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2491607.0",
+    "coin": "RRC",
+    "diffTarget": 60,
+    "name": "RoyalRadioCash",
+    "repo": "https://github.com/royalradiocash/royalradiocash"
+}

@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1730273.0",
+    "coin": "QRL",
+    "diffTarget": 60,
+    "name": "Quantum Resistance Ledger",
+    "repo": "https://github.com/theQRL"
+}

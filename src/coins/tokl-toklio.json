@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4552543.0",
+    "coin": "TOKL",
+    "diffTarget": 120,
+    "name": "Toklio",
+    "repo": "https://github.com/Toklio-project/Toklio"
+}

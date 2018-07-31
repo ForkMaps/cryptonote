@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3118732.0",
+    "coin": "ELYA",
+    "diffTarget": 60,
+    "name": "ELYA",
+    "repo": "https://github.com/elyacoin/elyacoin"
+}

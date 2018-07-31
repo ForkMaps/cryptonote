@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3064367",
+    "coin": "NBX",
+    "diffTarget": 120,
+    "name": "NXboost",
+    "repo": "https://github.com/nxboost/nx"
+}

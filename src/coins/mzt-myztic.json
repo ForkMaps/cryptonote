@@ -1,0 +1,9 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4445339",
+    "coin": "MZT",
+    "diffTarget": 120,
+    "name": "Myztic",
+    "repo": "https://github.com/myztic-project/myztic",
+    "website": "https://www.myztic.cash/"
+}

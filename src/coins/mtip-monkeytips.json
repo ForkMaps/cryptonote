@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight Lite v1",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4595900.0",
+    "coin": "MTIP",
+    "diffTarget": 45,
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/monkeytips-icon.png",
+    "name": "Monkeytips",
+    "repo": "https://github.com/monkeytips/monkeytips",
+    "website": "http://monkeytips.top/"
+}

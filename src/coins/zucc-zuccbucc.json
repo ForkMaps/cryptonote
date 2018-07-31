@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3761715.0",
+    "coin": "ZUCC",
+    "diffTarget": 120,
+    "forkedFrom": "msr-masari",
+    "icon": "https://github.com/zuccbucc-project/zuccbucc-www/blob/master/www/logo2.png?raw=true",
+    "logo": "https://github.com/zuccbucc-project/zuccbucc-www/blob/master/www/logo.png?raw=true",
+    "name": "ZuccBucc",
+    "repo": "https://github.com/zuccbucc-project"
+}

@@ -1,0 +1,12 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2638878.0",
+    "coin": "CREP",
+    "diffTarget": 240,
+    "forkedFrom": "krb-karbo",
+    "icon": "https://crepcoin.org/wp-content/uploads/2018/07/logo.png",
+    "logo": "https://crepcoin.org/wp-content/uploads/2018/07/logo.png",
+    "name": "Crepcoin",
+    "repo": "https://github.com/crepcoin/crepcoin",
+    "website": "https://www.crepcoin.org"
+}

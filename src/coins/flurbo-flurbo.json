@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3119326",
+    "coin": "Flurbo",
+    "diffTarget": 120,
+    "name": "Flurbo",
+    "repo": "https://github.com/iMrPoopybutthole/flurbo"
+}

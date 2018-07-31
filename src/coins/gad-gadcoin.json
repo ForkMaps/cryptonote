@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3339476.0",
+    "coin": "GAD",
+    "diffTarget": 90,
+    "name": "Gadcoin",
+    "repo": "https://github.com/douglashipocreme/gadcoin-node"
+}

@@ -1,0 +1,9 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4447481",
+    "coin": "X3C",
+    "diffTarget": 240,
+    "name": "X3coin",
+    "repo": "https://github.com/x3c/x3coin",
+    "website": "https://x3c.io/"
+}

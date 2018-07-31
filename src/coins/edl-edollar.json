@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2643196.0",
+    "coin": "EDL",
+    "diffTarget": 120,
+    "name": "EDollar",
+    "repo": "https://github.com/edollar-project/edollar"
+}

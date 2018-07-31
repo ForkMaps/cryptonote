@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2595241.0",
+    "coin": "LUK",
+    "diffTarget": 90,
+    "name": "LuKa",
+    "repo": "https://github.com/cryptoluka/cryptoluka"
+}

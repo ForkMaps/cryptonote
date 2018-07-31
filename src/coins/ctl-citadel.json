@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4388936",
+    "coin": "CTL",
+    "diffTarget": 240,
+    "name": "Citadel",
+    "repo": "https://github.com/cntemple/Citadel"
+}

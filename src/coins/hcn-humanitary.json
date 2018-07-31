@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2613592.0",
+    "coin": "HCN",
+    "diffTarget": 90,
+    "name": "Humanitary Coin",
+    "repo": "https://github.com/humanitarycoin/hcn"
+}

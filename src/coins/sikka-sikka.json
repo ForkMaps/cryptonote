@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2197967.0",
+    "coin": "SIKKA",
+    "diffTarget": 120,
+    "name": "Sikka",
+    "repo": "https://github.com/Sikka-Pay/Sikka"
+}

@@ -1,0 +1,9 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2309303.0",
+    "coin": "BTN",
+    "diffTarget": 120,
+    "name": "Bitcoin Nova",
+    "repo": "https://github.com/Bitcoin-N/bitcoinnova/",
+    "website": "http://bitcoinnova.org/"
+}

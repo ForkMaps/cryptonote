@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2991596.0",
+    "coin": "SHG",
+    "diffTarget": 120,
+    "name": "Shang",
+    "repo": null
+}

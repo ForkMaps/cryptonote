@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight Lite v1",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2944793.0",
+    "coin": "TRIT",
+    "diffTarget": 180,
+    "name": "Triton",
+    "repo": "https://github.com/Triton-io/Triton"
+}

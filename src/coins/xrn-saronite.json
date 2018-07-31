@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight Heavy",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4004235",
+    "coin": "XRN",
+    "diffTarget": 60,
+    "name": "Saronite",
+    "repo": "https://github.com/Saronite/saronite"
+}

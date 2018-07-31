@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3271441",
+    "coin": "DEX",
+    "diffTarget": 120,
+    "name": "Cadex",
+    "repo": "https://github.com/cadexdev/cadex"
+}

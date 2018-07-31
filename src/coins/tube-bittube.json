@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight Saber",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2856278.0",
+    "coin": "TUBE",
+    "diffTarget": 120,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/ipbc-dev/bittube-wallet-gui/master/images/bittubeIcon-trans84x84.png",
+    "name": "Bittube",
+    "repo": "https://github.com/ipbc-dev",
+    "website": "https://coin.bit.tube/"
+}

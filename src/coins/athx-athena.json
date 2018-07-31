@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight Lite v1",
+    "bitcointalkAnn": null,
+    "coin": "ATHX",
+    "diffTarget": 3600,
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "http://athx.org/assets/img/logo.png",
+    "logo": "http://athx.org/assets/img/logo.png",
+    "name": "Athena",
+    "repo": "https://github.com/athena-network/athena"
+}

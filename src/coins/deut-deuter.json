@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2776245.0",
+    "coin": "DEUT",
+    "diffTarget": 120,
+    "name": "Deuter",
+    "repo": "https://github.com/servc4/DeuterCoin"
+}

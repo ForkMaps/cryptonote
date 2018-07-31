@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3088712.0",
+    "coin": "WOW",
+    "diffTarget": 300,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://github.com/wownero/wownero-gui/blob/master/images/wowneroIcon-trans84x84.png?raw=true",
+    "name": "Wownero",
+    "repo": "https://github.com/wownero/wownero",
+    "website": "http://wownero.org/"
+}

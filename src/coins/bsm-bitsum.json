@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight Lite v1",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2459792.0",
+    "coin": "BSM",
+    "diffTarget": 120,
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/bitsum-icon.png",
+    "name": "Bitsum",
+    "repo": "https://github.com/BitsumFoundation/bitsum_core",
+    "website": "https://bitsum.money"
+}

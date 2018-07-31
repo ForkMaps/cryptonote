@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight Lite v1",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4490902.0",
+    "coin": "JOR",
+    "diffTarget": 45,
+    "name": "Jormo",
+    "repo": "https://github.com/JormoCoin/JormoCoinV2"
+}

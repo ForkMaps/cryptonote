@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight Heavy",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3297659.0",
+    "coin": "SOLACE",
+    "diffTarget": 60,
+    "name": "Solace Coin",
+    "repo": "https://github.com/schmeckles22/SolaceCoin"
+}

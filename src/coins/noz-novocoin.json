@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3276965.0",
+    "coin": "NOZ",
+    "diffTarget": 140,
+    "name": "Novocoin",
+    "repo": "https://github.com/lilsiz/novocoin-project"
+}

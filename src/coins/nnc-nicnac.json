@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2664158.0",
+    "coin": "NNC",
+    "diffTarget": 60,
+    "name": "Nicnac",
+    "repo": "https://github.com/nicnaccoin/NicNacCoin"
+}

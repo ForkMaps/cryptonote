@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3197995.0",
+    "coin": "MAP",
+    "diffTarget": 60,
+    "name": "MapleCoin",
+    "repo": "https://github.com/Maple-Coin/MapleCoin"
+}

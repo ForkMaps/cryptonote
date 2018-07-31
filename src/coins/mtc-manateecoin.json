@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2232302.0",
+    "coin": "MTC",
+    "diffTarget": 60,
+    "name": "ManateeCoin",
+    "repo": "http://git.mananet.net/manatails/manateecoin"
+}

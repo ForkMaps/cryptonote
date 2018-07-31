@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight Fast",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4496100",
+    "coin": "XPP",
+    "diffTarget": 120,
+    "forkedFrom": "msr-masari",
+    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/privatepay-icon.png",
+    "name": "PrivatePay",
+    "repo": "https://github.com/GoPrivatePay",
+    "website": "https://goprivatepay.com/"
+}

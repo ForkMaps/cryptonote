@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3069548.0",
+    "coin": "DCY",
+    "diffTarget": 120,
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/dinastycoin-icon.png",
+    "name": "Dinasty",
+    "repo": "https://github.com/dinastyoffreedom/dinastycoin",
+    "website": "http://www.dinastycoin.com"
+}

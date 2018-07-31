@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3203967.0",
+    "coin": "XFR",
+    "diffTarget": 60,
+    "name": "Ferro",
+    "repo": "https://github.com/Ferro-Crypto/Ferro-project/"
+}

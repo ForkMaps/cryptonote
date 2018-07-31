@@ -24,7 +24,7 @@
         "algorithm": "Cryptonight Lite v1",
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4474605",
         "coin": "ARQ",
-        "diffTarget": 240, 
+        "diffTarget": 240,
         "forkedFrom": "xmr-monero",
         "icon" : "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/arqma-icon-fixed.png?raw=true",
         "name": "ArQmA",
@@ -76,7 +76,7 @@
         "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/bbr-icon.png",
         "logo": "https://raw.githubusercontent.com/cryptozoidberg/boolberry/master/resources/big_logo.png",
         "name": "Boolberry",
-        "repo": "https://github.com/cryptozoidberg/boolberry/", 
+        "repo": "https://github.com/cryptozoidberg/boolberry/",
         "website": "https://boolberry.com/"
     },
     "bbrc-blood-heavy": {
@@ -87,7 +87,7 @@
         "forkedFrom": "loki-loki",
         "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/blood-heavy-icon.png",
         "name": "Blood Donation Coin",
-        "repo": "https://github.com/blooddonationcoin/", 
+        "repo": "https://github.com/blooddonationcoin/",
         "website": "http://blooddonationcoin.org/"
     },
     "bbs-bbs": {
@@ -95,10 +95,10 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2861067.0",
         "coin": "BBS",
         "diffTarget": 120,
-        "icon": "https://raw.githubusercontent.com/bbscoin/bbscoin.xyz/master/img/logos/logo.png", 
+        "icon": "https://raw.githubusercontent.com/bbscoin/bbscoin.xyz/master/img/logos/logo.png",
         "logo": "https://raw.githubusercontent.com/bbscoin/bbscoin.xyz/master/img/logos/logo.png",
         "name": "BBS",
-        "repo": "https://github.com/bbscoin/bbscoin", 
+        "repo": "https://github.com/bbscoin/bbscoin",
         "website": "https://bbscoin.xyz/"
     },
     "bcn-bytecoin": {
@@ -132,7 +132,7 @@
         "forkedFrom": "bcn-bytecoin",
         "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/bloc-icon.png?raw=true",
         "name": "BLOC",
-        "repo": "https://github.com/furiousteam/BLOC", 
+        "repo": "https://github.com/furiousteam/BLOC",
         "website": "https://bloc.money/"
     },
     "blur-blur": {
@@ -188,7 +188,7 @@
         "name": "BitcoiNote",
         "repo": "https://github.com/Bitcoinote/Bitcoinote-Core"
     },
-    "btn-bitcoin": {
+    "btn-bitcoinnova": {
         "algorithm": "Cryptonight",
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2309303.0",
         "coin": "BTN",
@@ -303,7 +303,7 @@
         "forkedFrom": "xmr-monero",
         "icon": "https://github.com/deroproject/website/blob/master/src/img/logo_big_transparent.png?raw=true",
         "name": "Dero",
-        "repo": "https://github.com/deroproject/derosuite", 
+        "repo": "https://github.com/deroproject/derosuite",
         "website": "https://dero.io/"
     },
     "deut-deuter": {
@@ -362,7 +362,7 @@
         "forkedFrom": "trtl-turtlecoin",
         "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/xdrop-icon.png",
         "name": "xDrop",
-        "repo": "https://github.com/xDropProject/xDrop", 
+        "repo": "https://github.com/xDropProject/xDrop",
         "website": "https://xdrop.io/"
     },
     "edl-edollar": {
@@ -405,7 +405,7 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4602598.0",
         "coin": "ETNC",
         "diffTarget": 60,
-        "forkedFrom": "etn-electroneum", 
+        "forkedFrom": "etn-electroneum",
         "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/etn-classic-icon.png?raw=true",
         "name": "Electroneum-Classic",
         "repo": "https://github.com/electroneumclassic/electroneum-classic"
@@ -448,7 +448,7 @@
         "coin": "FCN",
         "forkedFrom": "bmr-bitmonero",
         "name": "FantomCoin",
-        "repo": "https://github.com/amphibia/fantomcoin", 
+        "repo": "https://github.com/amphibia/fantomcoin",
         "website": "http://fantomcoin.org/"
     },
     "fest-festival": {
@@ -568,7 +568,7 @@
         "diffTarget": 30,
         "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/hype-icon.png",
         "name": "HypeCoin",
-        "repo": "https://github.com/HazeDevelopment/HypeCoin", 
+        "repo": "https://github.com/HazeDevelopment/HypeCoin",
         "website": "http://hypecoin.foundation/"
     },
     "inc-incognito": {
@@ -595,7 +595,7 @@
         "forkedFrom": "bcn-bytecoin",
         "icon": "https://raw.githubusercontent.com/iridiumdev/iridium-graphics/master/logo%20and%20icons/128x128.png",
         "name": "Iridium",
-        "repo": "https://github.com/iridiumdev/iridium", 
+        "repo": "https://github.com/iridiumdev/iridium",
         "website": "https://ird.cash/"
     },
     "ita-italocoin": {
@@ -784,8 +784,8 @@
         "repo": "https://github.com/Maple-Coin/MapleCoin"
     },
     "mcn-monetaverde": {
-        "coin": "MCN", 
-        "forkedFrom": "fcn-fantomcoin", 
+        "coin": "MCN",
+        "forkedFrom": "fcn-fantomcoin",
         "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/mcn-icon.jpg",
         "name": "MonetaVerde",
         "repo": "https://github.com/cryptomidnight/monetaverde"
@@ -948,7 +948,7 @@
         "diffTarget": 120,
         "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/plura-icon.png?raw=true",
         "name": "Pluracoin",
-        "repo": "https://github.com/pluracoin/pluracoin", 
+        "repo": "https://github.com/pluracoin/pluracoin",
         "website": "https://pluracoin.org/"
     },
     "pnks-pinkstarcoin": {
@@ -974,7 +974,7 @@
         "coin": "PURK",
         "diffTarget": 90,
         "name": "Purkcoin",
-        "repo": "https://github.com/purkproject/purk", 
+        "repo": "https://github.com/purkproject/purk",
         "website": "https://purkproject.com/"
     },
     "pyx-pyrexcoin": {
@@ -1001,7 +1001,7 @@
         "forkedFrom": ["krb-karbo", "xmr-monero", "xdn-digitalnote"],
         "icon": "https://github.com/qwertycoin-org/qwertycoin-gui/blob/master/src/images/qwertycoinz.png?raw=true",
         "name": "Qwertycoin",
-        "repo": "https://github.com/qwertycoin-org/qwertycoin", 
+        "repo": "https://github.com/qwertycoin-org/qwertycoin",
         "website": "https://qwertycoin.org/"
     },
     "rd-redwind": {
@@ -1037,7 +1037,7 @@
         "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/arto-icon.png?raw=true",
         "logo": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/arto-logo.png?raw=true",
         "name": "Arto",
-        "repo": "https://github.com/artocash/arto", 
+        "repo": "https://github.com/artocash/arto",
         "website": "https://www.arto.cash/"
     },
     "ryo-ryo": {
@@ -1279,7 +1279,7 @@
         "forkedFrom": "xmr-monero",
         "icon": "https://github.com/wownero/wownero-gui/blob/master/images/wowneroIcon-trans84x84.png?raw=true",
         "name": "Wownero",
-        "repo": "https://github.com/wownero/wownero", 
+        "repo": "https://github.com/wownero/wownero",
         "website": "http://wownero.org/"
     },
     "wrkz-wrkzcoin": {
@@ -1301,7 +1301,7 @@
         "icon": "https://github.com/jerme404/cryptonote-tree-json/blob/master/images/worktips-icon.png?raw=true",
         "forkedFrom": "trtl-turtlecoin",
         "name": "Worktips",
-        "repo": "https://github.com/Vordas/worktips", 
+        "repo": "https://github.com/Vordas/worktips",
         "website": "http://worktips.info/"
     },
     "x12-x12": {
@@ -1312,7 +1312,7 @@
         "forkedFrom": "xmr-monero",
         "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/x12-icon.png",
         "name": "X12",
-        "repo": "https://github.com/x12project/x12-core", 
+        "repo": "https://github.com/x12project/x12-core",
         "website": "http://x12coin.com/"
     },
     "x3c-x3coin": {
@@ -1321,7 +1321,7 @@
         "coin": "X3C",
         "diffTarget": 240,
         "name": "X3coin",
-        "repo": "https://github.com/x3c/x3coin", 
+        "repo": "https://github.com/x3c/x3coin",
         "website": "https://x3c.io/"
     },
     "xao-alloy": {
@@ -1388,7 +1388,7 @@
         "forkedFrom": "xmr-monero",
         "icon": "https://github.com/leviarcoin/leviarcoin-gui-wallet/blob/master/images/appicons/256x256.png?raw=true",
         "name": "Leviarcoin",
-        "repo": "https://github.com/leviarcoin/leviarcoin-src", 
+        "repo": "https://github.com/leviarcoin/leviarcoin-src",
         "website": "https://leviarcoin.org/"
     },
     "xmc-monero": {
@@ -1459,7 +1459,7 @@
         "forkedFrom": "msr-masari",
         "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/privatepay-icon.png",
         "name": "PrivatePay",
-        "repo": "https://github.com/GoPrivatePay", 
+        "repo": "https://github.com/GoPrivatePay",
         "website": "https://goprivatepay.com/"
     },
     "xpr-prosus": {
@@ -1520,7 +1520,7 @@
             "msr-masari",
             "xmr-monero"
         ],
-        "icon": "https://github.com/stellitecoin/stellitecoin.github.io/blob/master/assets/img/logo/stellite-app-icon@2x.png?raw=true", 
+        "icon": "https://github.com/stellitecoin/stellitecoin.github.io/blob/master/assets/img/logo/stellite-app-icon@2x.png?raw=true",
         "logo": "https://github.com/stellitecoin/stellitecoin.github.io/blob/master/assets/img/logo/stellite-logo.png?raw=true",
         "name": "Stellite",
         "repo": "https://github.com/stellitecoin/Stellite",
@@ -1545,7 +1545,7 @@
         "forkedFrom": "xmr-monero",
         "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/images/zbucks-icon.png",
         "name": "Zbucks",
-        "repo": "https://github.com/zbucks-project/zbucks", 
+        "repo": "https://github.com/zbucks-project/zbucks",
         "website": "https://www.zbucks.org/"
     },
     "zep-zephyr": {
@@ -1553,7 +1553,7 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3756568",
         "coin": "ZEP",
         "diffTarget": 90,
-        "forkedFrom": "xmr-monero", 
+        "forkedFrom": "xmr-monero",
         "icon": "https://raw.githubusercontent.com/zephyr-protocol/zephyr-gui/master/Resources/icons/zephyr_icon_64.png",
         "name": "Zephyr Protocol",
         "repo": "https://github.com/zephyr-protocol"
@@ -1563,8 +1563,8 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3761715.0",
         "coin": "ZUCC",
         "diffTarget": 120,
-        "forkedFrom": "msr-masari", 
-        "icon": "https://github.com/zuccbucc-project/zuccbucc-www/blob/master/www/logo2.png?raw=true", 
+        "forkedFrom": "msr-masari",
+        "icon": "https://github.com/zuccbucc-project/zuccbucc-www/blob/master/www/logo2.png?raw=true",
         "logo": "https://github.com/zuccbucc-project/zuccbucc-www/blob/master/www/logo.png?raw=true",
         "name": "ZuccBucc",
         "repo": "https://github.com/zuccbucc-project"

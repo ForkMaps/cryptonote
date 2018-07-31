@@ -1,0 +1,12 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=512747.0",
+    "coin": "BCN",
+    "diffTarget": 120,
+    "icon": "https://raw.githubusercontent.com/bcndev/bytecoin-gui/master/src/images/bytecoin.png",
+    "logo": "https://raw.githubusercontent.com/bcndev/bytecoin-gui/master/src/images/bytecoin.png",
+    "name": "Bytecoin",
+    "repo": "https://github.com/bcndev/bytecoin",
+    "startDate": "07.2014",
+    "website": "https://bytecoin.org"
+}

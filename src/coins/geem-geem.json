@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2659368.0",
+    "coin": "GEEM",
+    "diffTarget": 120,
+    "name": "GEEM",
+    "repo": "https://github.com/geemcoin/"
+}

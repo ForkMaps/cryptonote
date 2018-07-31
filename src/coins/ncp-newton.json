@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3072672.0",
+    "coin": "NCP",
+    "diffTarget": 120,
+    "name": "Newton Coin",
+    "repo": "https://github.com/livenet123/Newton"
+}

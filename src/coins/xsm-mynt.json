@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3310511.0",
+    "coin": "XSM",
+    "diffTarget": 120,
+    "name": "Mynt",
+    "repo": "https://github.com/mynt-project/mynt"
+}

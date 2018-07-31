@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight marketcash",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3019420",
+    "coin": "MKT",
+    "diffTarget": 90,
+    "name": "Marketcash",
+    "repo": "https://github.com/MarketCashME/marketcash"
+}

@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2939250.0",
+    "coin": "VEST",
+    "diffTarget": 60,
+    "name": "Vesta",
+    "repo": "https://github.com/vesta-official/vesta"
+}

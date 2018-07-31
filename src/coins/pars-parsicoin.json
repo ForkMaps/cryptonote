@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3381737.0",
+    "coin": "PARS",
+    "diffTarget": 120,
+    "name": "Parsicoin",
+    "repo": "https://github.com/ParsiCoin/parsicoin"
+}

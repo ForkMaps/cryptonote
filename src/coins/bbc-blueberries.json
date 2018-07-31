@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3039509.0",
+    "coin": "BBC",
+    "diffTarget": 90,
+    "name": "BlueBerries",
+    "repo": "https://github.com/BomberUA/BlueBerries"
+}

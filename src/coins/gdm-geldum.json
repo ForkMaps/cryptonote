@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4413923.0",
+    "coin": "GDM",
+    "diffTarget": 60,
+    "name": "Geldum",
+    "repo": "https://github.com/GeldumProject/geldum"
+}

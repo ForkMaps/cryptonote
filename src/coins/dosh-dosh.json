@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2958573.0",
+    "coin": "DOSH",
+    "diffTarget": 120,
+    "name": "Dosh",
+    "repo": "https://github.com/dosh-project/dosh"
+}

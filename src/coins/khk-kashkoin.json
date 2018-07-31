@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4410872",
+    "coin": "KHK",
+    "diffTarget": 240,
+    "name": "Kashkoin",
+    "repo": "https://github.com/kashkoin-foundation/kashkoin"
+}

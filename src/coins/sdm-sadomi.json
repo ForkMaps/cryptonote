@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": null,
+    "coin": "SDM",
+    "diffTarget": 120,
+    "name": "Sadomi",
+    "repo": "https://github.com/sadomi/sadomi"
+}

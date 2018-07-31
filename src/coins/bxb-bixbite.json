@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight Heavy",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3443277.0",
+    "coin": "BXB",
+    "diffTarget": 100,
+    "name": "Bixbite",
+    "repo": "https://github.com/BixBite-project/bixbite"
+}

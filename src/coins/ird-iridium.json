@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight Lite v1",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2150442.0",
+    "coin": "IRD",
+    "diffTarget": 175,
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/iridiumdev/iridium-graphics/master/logo%20and%20icons/128x128.png",
+    "name": "Iridium",
+    "repo": "https://github.com/iridiumdev/iridium",
+    "website": "https://ird.cash/"
+}

@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3282087.0",
+    "coin": "KEPL",
+    "diffTarget": 120,
+    "name": "Kepl",
+    "repo": "https://github.com/kepldev/kepl"
+}

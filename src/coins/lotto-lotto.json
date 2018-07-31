@@ -1,0 +1,8 @@
+{
+    "algorithm": "Cryptonight Fast",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4518300.0",
+    "coin": "LOTTO",
+    "diffTarget": 120,
+    "name": "Lotto",
+    "repo": "https://github.com/getlotto/lotto/releases"
+}
