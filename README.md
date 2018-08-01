@@ -16,7 +16,7 @@ npm install
 ```
 
 ### Make your changes
-Coin data is in `src/coins`.
+Each coin has its own JSON file in `src/coins`.
 
 ### Build
 A gulp task copies all images in `src/images`, and combines the json files in `src/coins`, using the json file names as object keys.  Output ends up in the `dist` folder.
