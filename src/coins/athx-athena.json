@@ -7,5 +7,6 @@
     "icon": "http://athx.org/assets/img/logo.png",
     "logo": "http://athx.org/assets/img/logo.png",
     "name": "Athena",
-    "repo": "https://github.com/athena-network/athena"
+    "repo": "https://github.com/athena-network/athena",
+    "website": "http://athx.org/"
 }
