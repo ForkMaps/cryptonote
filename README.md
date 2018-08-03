@@ -26,4 +26,4 @@ Build with
 npm run build
 ```
 
-The website pulls coin data from [GitHub](https://github.com/jerme404/forkmaps-json-cryptonote/blob/master/dist/coins.json), so your changes will be live as soon as your PR is merged.
+The website pulls coin data from [GitHub](https://github.com/ForkMaps/cryptonote/blob/master/dist/coins.json), so your changes will be live as soon as your PR is merged.
