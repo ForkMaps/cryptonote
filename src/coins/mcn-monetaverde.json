@@ -1,7 +1,7 @@
 {
     "coin": "MCN",
     "forkedFrom": "fcn-fantomcoin",
-    "icon": "https://raw.githubusercontent.com/jerme404/forkmaps-json-cryptonote/master/dist/images/mcn-icon.jpg",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/mcn-icon.jpg",
     "name": "MonetaVerde",
     "repo": "https://github.com/cryptomidnight/monetaverde"
 }

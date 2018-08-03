@@ -4,7 +4,7 @@
     "coin": "ETNX",
     "diffTarget": 60,
     "forkedFrom": "etn-electroneum",
-    "icon": "https://raw.githubusercontent.com/jerme404/forkmaps-json-cryptonote/master/dist/images/etnx-icon.png",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/etnx-icon.png",
     "name": "Electronero",
     "repo": "https://github.com/electronero/electronero"
 }

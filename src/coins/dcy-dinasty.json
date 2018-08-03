@@ -4,7 +4,7 @@
     "coin": "DCY",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/jerme404/forkmaps-json-cryptonote/master/dist/images/dinastycoin-icon.png",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/dinastycoin-icon.png",
     "name": "Dinasty",
     "repo": "https://github.com/dinastyoffreedom/dinastycoin",
     "website": "http://www.dinastycoin.com"

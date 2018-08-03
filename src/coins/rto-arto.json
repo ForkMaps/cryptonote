@@ -4,7 +4,7 @@
     "coin": "RTO",
     "diffTarget": 90,
     "forkedFrom": "krb-karbo",
-    "icon": "https://raw.githubusercontent.com/jerme404/forkmaps-json-cryptonote/master/dist/images/arto-icon.png",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/arto-icon.png",
     "name": "Arto",
     "repo": "https://github.com/artocash/arto",
     "website": "https://www.arto.cash/"

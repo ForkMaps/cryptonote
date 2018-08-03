@@ -3,7 +3,7 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3081442.0",
     "coin": "PLURA",
     "diffTarget": 120,
-    "icon": "https://raw.githubusercontent.com/jerme404/forkmaps-json-cryptonote/master/dist/images/plura-icon.png",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/plura-icon.png",
     "name": "Pluracoin",
     "repo": "https://github.com/pluracoin/pluracoin",
     "website": "https://pluracoin.org/"
