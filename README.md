@@ -1,5 +1,5 @@
 # cryptonote-tree-json
-JSON data for [cryptonote-tree](https://github.com/jerme404/cryptonote-tree).
+Cryptonote JSON data for [forkmaps.com](https://github.com/jerme404/forkmaps.com).
 
 ## Contributing
 Coin data is maintained by community contributors.  The easiest way to make a correction or update, or to add a coin, is to do it yourself and submit a PR.  
@@ -7,7 +7,7 @@ Coin data is maintained by community contributors.  The easiest way to make a co
 ### Get the project
 Clone the repository.
 ```bash
-git clone https://github.com/jerme404/cryptonote-tree-json
+git clone https://github.com/jerme404/forkmaps-json-cryptonote
 cd cryptonote-tree-json
 ```
 Install dependencies.
@@ -26,4 +26,4 @@ Build with
 npm run build
 ```
 
-The website pulls coin data from [GitHub](https://github.com/jerme404/cryptonote-tree-json/blob/master/dist/coins.json), so your changes will be live as soon as your PR is merged.
+The website pulls coin data from [GitHub](https://github.com/jerme404/forkmaps-json-cryptonote/blob/master/dist/coins.json), so your changes will be live as soon as your PR is merged.
