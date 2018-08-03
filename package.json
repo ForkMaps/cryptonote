@@ -1,19 +1,19 @@
 {
-  "name": "cryptonote-tree-json",
+  "name": "forkmaps-json-cryptonote",
   "version": "1.0.0",
-  "description": "Coin data for cryptonotetree.com",
+  "description": "Coin data for forkmaps.com",
   "main": "gulpfile.js",
   "scripts": {
-    "build": "node ./node_modules/gulp/bin/gulp.js build" 
+    "build": "node ./node_modules/gulp/bin/gulp.js build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jerme404/cryptonote-tree-json.git"
+    "url": "git+https://github.com/jerme404/forkmaps-json-cryptonote.git"
   },
   "author": "JerMe404",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jerme404/cryptonote-tree-json/issues"
+    "url": "https://github.com/jerme404/forkmaps-json-cryptonote/issues"
   },
   "homepage": "http://cryptonotetree.com",
   "devDependencies": {
