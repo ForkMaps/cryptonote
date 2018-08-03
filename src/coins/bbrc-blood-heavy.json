@@ -4,7 +4,7 @@
     "coin": "BBRC",
     "diffTarget": 240,
     "forkedFrom": "loki-loki",
-    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/blood-heavy-icon.png",
+    "icon": "https://raw.githubusercontent.com/jerme404/forkmaps-json-cryptonote/master/dist/images/blood-heavy-icon.png",
     "name": "Blood Donation Coin",
     "repo": "https://github.com/blooddonationcoin/",
     "website": "http://blooddonationcoin.org/"

@@ -4,7 +4,7 @@
     "coin": "ETN",
     "diffTarget": 60,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/etn-icon.png",
+    "icon": "https://raw.githubusercontent.com/jerme404/forkmaps-json-cryptonote/master/dist/images/etn-icon.png",
     "name": "Electroneum",
     "repo": "https://github.com/electroneum/electroneum",
     "website": "https://electroneum.com"

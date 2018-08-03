@@ -4,7 +4,7 @@
     "coin": "DROP",
     "diffTarget": 120,
     "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/xdrop-icon.png",
+    "icon": "https://raw.githubusercontent.com/jerme404/forkmaps-json-cryptonote/master/dist/images/xdrop-icon.png",
     "name": "xDrop",
     "repo": "https://github.com/xDropProject/xDrop",
     "website": "https://xdrop.io/"

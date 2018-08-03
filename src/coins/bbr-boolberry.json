@@ -4,7 +4,7 @@
     "coin": "BBR",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/bbr-icon.png",
+    "icon": "https://raw.githubusercontent.com/jerme404/forkmaps-json-cryptonote/master/dist/images/bbr-icon.png",
     "logo": "https://raw.githubusercontent.com/cryptozoidberg/boolberry/master/resources/big_logo.png",
     "name": "Boolberry",
     "repo": "https://github.com/cryptozoidberg/boolberry/",

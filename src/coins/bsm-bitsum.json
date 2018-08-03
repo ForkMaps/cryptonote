@@ -4,7 +4,7 @@
     "coin": "BSM",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/bitsum-icon.png",
+    "icon": "https://raw.githubusercontent.com/jerme404/forkmaps-json-cryptonote/master/dist/images/bitsum-icon.png",
     "name": "Bitsum",
     "repo": "https://github.com/BitsumFoundation/bitsum_core",
     "website": "https://bitsum.money"

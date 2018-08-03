@@ -3,7 +3,7 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2098163.0",
     "coin": "B2B",
     "diffTarget": 120,
-    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/b2bcoin-icon.png",
+    "icon": "https://raw.githubusercontent.com/jerme404/forkmaps-json-cryptonote/master/dist/images/b2bcoin-icon.png",
     "name": "B2BCoin",
     "repo": "https://github.com/oliviersinnaeve/b2bcoin-wallet",
     "website": "https://b2bcoin.xyz/"

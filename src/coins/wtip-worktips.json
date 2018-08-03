@@ -3,7 +3,7 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3086019.0",
     "coin": "WTIP",
     "diffTarget": 120,
-    "icon": "https://raw.githubusercontent.com/jerme404/cryptonote-tree-json/master/dist/images/worktips-icon.png",
+    "icon": "https://raw.githubusercontent.com/jerme404/forkmaps-json-cryptonote/master/dist/images/worktips-icon.png",
     "forkedFrom": "trtl-turtlecoin",
     "name": "Worktips",
     "repo": "https://github.com/Vordas/worktips",
