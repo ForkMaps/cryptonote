@@ -3,6 +3,11 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2595241.0",
     "coin": "LUK",
     "diffTarget": 90,
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://www.cryptoluka.cl/images/isotipo-luka-original.png",
+    "logo": "https://www.cryptoluka.cl/images/isotipo-luka-original.png",
     "name": "LuKa",
-    "repo": "https://github.com/cryptoluka/cryptoluka"
+    "repo": "https://github.com/cryptoluka/cryptoluka",
+    "startDate": "2018-02",
+    "website": "http://www.cryptoluka.cl"
 }
