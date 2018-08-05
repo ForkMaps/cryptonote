@@ -1,0 +1,10 @@
+{
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=818365",
+    "coin": "DNC",
+    "forkedFrom": "bbr-boolberry",
+    "icon" : "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/dnc-icon.png",
+    "name": "DarkNetCoin",
+    "repo": "https://github.com/CryptoCoinLabs/darknetspace",
+    "startDate": "2014-10-13",
+    "website": "http://darknetspace.org/"
+}

@@ -1,7 +1,10 @@
 {
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=563821",
     "coin": "BMR",
     "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bmr-icon.png",
     "name": "BitMonero",
     "repo": "https://github.com/bitmonero-project/bitmonero",
+    "startDate": "2014-04-18",
     "website": "http://bitmonero.org/"
 }

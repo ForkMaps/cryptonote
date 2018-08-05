@@ -1,0 +1,10 @@
+{
+    "coin": "ZMR",
+    "diffTarget": 120,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/zmr-icon.png",
+    "name": "Monero 0",
+    "repo": "https://github.com/monero0",
+    "startDate": "2018-04-06",
+    "website": "https://monero0.org/"
+}

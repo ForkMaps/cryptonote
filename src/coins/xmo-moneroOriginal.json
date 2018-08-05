@@ -1,0 +1,10 @@
+{
+    "coin": "XMO",
+    "diffTarget": 120,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/XmanXU/monero-gui/master/images/appicons/256x256.png",
+    "name": "Monero Original",
+    "repo": "https://github.com/XmanXU/monero-original",
+    "startDate": "2018-04-06",
+    "website": "https://monero-original.org/"
+}

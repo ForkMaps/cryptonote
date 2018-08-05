@@ -1,7 +1,10 @@
 {
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=598823",
     "coin": "FCN",
     "forkedFrom": "bmr-bitmonero",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/fcn-icon.png",
     "name": "FantomCoin",
     "repo": "https://github.com/amphibia/fantomcoin",
+    "startDate": "2014-05-06",
     "website": "http://fantomcoin.org/"
 }
