@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight Lite v1",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4832535",
+    "coin": "LMO",
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://raw.githubusercontent.com/lumeneo-network/lumeneo-network.github.io/master/assets/img/logo.png",
+    "name": "Lumeneo",
+    "repo": "https://github.com/lumeneo-network",
+    "startDate": "2018-08-06",
+    "website": "http://lumeneo.network/"
+}
