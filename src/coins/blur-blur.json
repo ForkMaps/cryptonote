@@ -3,8 +3,7 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4577361",
     "coin": "BLUR",
     "forkedFrom": "xnv-nerva",
-    "icon": "https://blur.cash/wp-content/uploads/blur-logo-256.png",
-    "logo": "https://blur.cash/wp-content/uploads/blur-logo-256.png",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/blur-icon.png",
     "name": "Blur",
     "repo": "https://github.com/blur-network/blur",
     "website": "https://blur.cash/"
