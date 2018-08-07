@@ -3,6 +3,10 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4004235",
     "coin": "XRN",
     "diffTarget": 60,
+    "forkedFrom": "sumo-sumocoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/saronite-icon.png",
+    "logo": "https://raw.githubusercontent.com/Saronite/saronite-gui-wallet/master/Resources/icons/saronite_icon_64.png",
     "name": "Saronite",
-    "repo": "https://github.com/Saronite/saronite"
+    "repo": "https://github.com/Saronite/saronite",
+    "website": "https://saronite.io/"
 }

@@ -1,8 +1,11 @@
 {
     "algorithm": "Cryptonight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2046563.0",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2046563",
     "coin": "XRY",
     "diffTarget": 120,
+    "forkedFrom": "xdn-digitalnote",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xry-icon.png",
     "name": "Royalties",
-    "repo": "https://github.com/Vetro7/RoyaltiesCLI"
+    "repo": "https://github.com/Vetro7/RoyaltiesCLI",
+    "website": "https://xry.io/"
 }

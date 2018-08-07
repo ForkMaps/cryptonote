@@ -3,6 +3,10 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3297659.0",
     "coin": "SOLACE",
     "diffTarget": 60,
+    "forkedFrom": "sumo-sumocoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/solace-icon.png",
+    "logo": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/solace-logo.png",
     "name": "Solace Coin",
-    "repo": "https://github.com/schmeckles22/SolaceCoin"
+    "repo": "https://github.com/schmeckles22/SolaceCoin",
+    "website": "https://www.solace-coin.com/"
 }
