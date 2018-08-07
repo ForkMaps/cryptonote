@@ -3,7 +3,7 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4312695.0",
     "coin": "XNV",
     "forkedFrom": ["msr-masari", "xmr-monero"],
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/nerva-icon-round.png",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/nerva-test-icon.png",
     "name": "Nerva",
     "repo": "https://bitbucket.org/nerva-project/nerva/src",
     "website": "http://getnerva.org/"
