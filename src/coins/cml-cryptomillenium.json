@@ -1,8 +1,9 @@
 {
     "algorithm": "Cryptonight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3094542.0",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3094542",
     "coin": "CML",
     "diffTarget": 60,
     "name": "CryptoMillenium",
-    "repo": "https://sourceforge.net/projects/cryptomillenium"
+    "repo": "https://sourceforge.net/projects/cryptomillenium",
+    "website": "https://github.com/milenium8612/"
 }

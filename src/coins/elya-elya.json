@@ -1,8 +1,11 @@
 {
     "algorithm": "Cryptonight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3118732.0",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3118732",
     "coin": "ELYA",
     "diffTarget": 60,
+    "forkedFrom": "krb-karbo",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/elya-icon.png",
     "name": "ELYA",
-    "repo": "https://github.com/elyacoin/elyacoin"
+    "repo": "https://github.com/elyacoin/elyacoin",
+    "website": "https://elya.io/"
 }

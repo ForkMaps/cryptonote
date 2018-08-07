@@ -1,6 +1,6 @@
 {
     "algorithm": "Cryptonight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4553663.0",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4553663",
     "coin": "DPR",
     "diffTarget": 60,
     "name": "Doppler",
