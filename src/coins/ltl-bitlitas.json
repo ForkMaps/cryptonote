@@ -1,8 +1,11 @@
 {
     "algorithm": "Cryptonight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3262692.0",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3262692",
     "coin": "LTL",
     "diffTarget": 60,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ltl-icon.png",
     "name": "BitLitas",
-    "repo": "https://github.com/Bitlitas/bitlitas"
+    "repo": "https://github.com/Bitlitas/bitlitas",
+    "website": "https://bitlitas.lt/"
 }

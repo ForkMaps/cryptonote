@@ -1,0 +1,11 @@
+{
+    "algorithm": "Cryptonight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4693135",
+    "coin": "NERO",
+    "diffTarget": 10,
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bitcoinnero-icon.png",
+    "name": "BitcoinNero",
+    "repo": "https://github.com/bitcoinnero",
+    "website": "http://btcnero.org/"
+}
