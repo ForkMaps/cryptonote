@@ -1,8 +1,9 @@
 {
-    "algorithm": "wild_keccak",
+    "algorithm": "Wild Keccak",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3213127",
     "coin": "PURK",
-    "diffTarget": 90,
+    "forkedFrom": "bbr-boolberry",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/purk-icon.png",
     "name": "Purkcoin",
     "repo": "https://github.com/purkproject/purk",
     "website": "https://purkproject.com/"
