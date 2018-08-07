@@ -1,8 +1,11 @@
 {
     "algorithm": "Cryptonight b2n",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4311333.0",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4311333",
     "coin": "B2N",
     "diffTarget": 90,
+    "forkedFrom": "xao-alloy",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/b2n-icon.png",
     "name": "bitcoin2network",
-    "repo": "https://github.com/b2n-project/bitcoin2network"
+    "repo": "https://github.com/b2n-project/bitcoin2network",
+    "website": "https://bitcoin2.network/"
 }
