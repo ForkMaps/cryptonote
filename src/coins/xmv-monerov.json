@@ -6,5 +6,6 @@
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/monerov-icon.png",
     "name": "MoneroV",
-    "repo": "https://github.com/monerov"
+    "repo": "https://github.com/monerov",
+    "website": "https://monero.org/forks/"
 }

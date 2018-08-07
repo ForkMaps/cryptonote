@@ -1,0 +1,9 @@
+{
+    "algorithm": "Cryptonight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4781246",
+    "coin": "XCA",
+    "forkedFrom": "xmr-monero",
+    "name": "X-CASH",
+    "repo": "https://github.com/X-CASH-official/X-CASH",
+    "website": "https://x-cash.org/"
+}

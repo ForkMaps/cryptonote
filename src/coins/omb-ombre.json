@@ -3,6 +3,9 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3063727.0",
     "coin": "OMB",
     "diffTarget": 60,
+    "forkedFrom": "sumo-sumocoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ombre-icon.png",
     "name": "Ombre",
-    "repo": "https://github.com/ombre-projects/ombre"
+    "repo": "https://github.com/ombre-projects/ombre",
+    "website": "https://www.ombre.io/"
 }
