@@ -1,7 +1,7 @@
 {
     "algorithm": "Cryptonight v7",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3064367",
-    "coin": "NBX",
+    "coin": "NXB",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/nxb-icon.png",
