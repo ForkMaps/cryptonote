@@ -4,7 +4,7 @@
     "coin": "RYO",
     "diffTarget": 240,
     "forkedFrom": "sumo-sumocoin",
-    "icon": "https://github.com/ryo-currency/ryo-gui-wallet/blob/master/Resources/icons/ryo-1024.png?raw=true",
+    "icon" : "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ryo-icon.png",
     "name": "Ryo",
     "repo": "https://github.com/ryo-currency",
     "website": "https://ryo-currency.com/"
