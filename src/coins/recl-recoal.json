@@ -4,5 +4,6 @@
     "coin": "RECL",
     "diffTarget": 120,
     "name": "ReCoal",
-    "repo": "https://github.com/ReCoal/recoal"
+    "repo": "https://github.com/ReCoal/recoal",
+    "website": "https://www.recoal.org/"
 }
