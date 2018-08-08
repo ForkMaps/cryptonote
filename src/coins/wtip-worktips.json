@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight Lite v1",
+    "algorithm": "CryptoNight Lite v1",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3086019.0",
     "coin": "WTIP",
     "diffTarget": 120,

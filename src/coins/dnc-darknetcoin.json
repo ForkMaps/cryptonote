@@ -1,4 +1,5 @@
 {
+    "algorithm": "Wild Keccak",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=818365",
     "coin": "DNC",
     "forkedFrom": "bbr-boolberry",

@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight",
+    "algorithm": "CryptoNight",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3394028.0",
     "coin": "INTU",
     "diffTarget": 120,

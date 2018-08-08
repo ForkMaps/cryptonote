@@ -1,8 +1,8 @@
 {
-    "algorithm": "Cryptonight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4485387.new",
+    "algorithm": "CryptoNight v7",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4485387",
     "coin": "XAT",
     "diffTarget": 120,
     "name": "Catalyst",
-    "repo": "https://github.com/CatalystCash/Catalyst-Cash/releases"
+    "repo": "https://github.com/CatalystCash"
 }

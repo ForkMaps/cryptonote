@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight b2n",
+    "algorithm": "CryptoNight b2n",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4311333",
     "coin": "B2N",
     "diffTarget": 90,

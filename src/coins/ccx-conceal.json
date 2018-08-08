@@ -1,8 +1,11 @@
 {
-    "algorithm": "Cryptonight Fast",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4515873.0",
+    "algorithm": "CryptoNight Fast",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4515873",
     "coin": "CCX",
     "diffTarget": 120,
+    "forkedFrom": "msr-masari",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ccx-icon.png",
     "name": "Conceal",
-    "repo": null
+    "repo": "https://github.com/TheCircleFoundation/",
+    "website": "https://conceal.network/"
 }

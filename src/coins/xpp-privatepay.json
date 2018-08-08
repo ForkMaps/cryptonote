@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight Fast",
+    "algorithm": "CryptoNight Fast",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4496100",
     "coin": "XPP",
     "diffTarget": 120,

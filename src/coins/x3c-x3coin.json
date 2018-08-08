@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight",
+    "algorithm": "CryptoNight",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4447481",
     "coin": "X3C",
     "diffTarget": 240,

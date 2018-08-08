@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight",
+    "algorithm": "CryptoNight",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2986871.0",
     "coin": "M0RK",
     "diffTarget": 120,

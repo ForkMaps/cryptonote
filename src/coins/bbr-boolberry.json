@@ -1,5 +1,5 @@
 {
-    "algorithm": "wild_keccak",
+    "algorithm": "Wild Keccak",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=577267.0",
     "coin": "BBR",
     "diffTarget": 120,

@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight alloy",
+    "algorithm": "CryptoNight Heavy Alloy",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3002653.0",
     "coin": "XAO",
     "diffTarget": 180,

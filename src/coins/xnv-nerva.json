@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight Adaptive",
+    "algorithm": "CryptoNight Adaptive",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4312695.0",
     "coin": "XNV",
     "forkedFrom": ["msr-masari", "xmr-monero"],

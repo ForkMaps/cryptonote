@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight v7",
+    "algorithm": "CryptoNight v7",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1847322.0",
     "coin": "XLC",
     "diffTarget": 60,

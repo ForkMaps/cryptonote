@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight Heavy",
+    "algorithm": "CryptoNight Heavy",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3443277",
     "coin": "BXB",
     "diffTarget": 100,

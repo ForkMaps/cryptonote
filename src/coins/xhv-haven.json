@@ -1,6 +1,6 @@
 {
-    "algorithm": "Cryptonight Haven",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2989487.0",
+    "algorithm": "CryptoNight Heavy Haven",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2989487",
     "coin": "XHV",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",

@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight v7",
+    "algorithm": "CryptoNight v7",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2861067.0",
     "coin": "BBS",
     "diffTarget": 120,

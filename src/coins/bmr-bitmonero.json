@@ -1,4 +1,5 @@
 {
+    "algorithm": "CryptoNight",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=563821",
     "coin": "BMR",
     "forkedFrom": "bcn-bytecoin",

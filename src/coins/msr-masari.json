@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight Fast",
+    "algorithm": "CryptoNight Fast",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2159114.0",
     "coin": "MSR",
     "diffTarget": 120,

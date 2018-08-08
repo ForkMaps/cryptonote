@@ -1,4 +1,5 @@
 {
+    "algorithm": "CryptoNight",
     "coin": "MCN",
     "forkedFrom": "fcn-fantomcoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/mcn-icon.jpg",

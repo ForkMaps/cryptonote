@@ -1,4 +1,5 @@
 {
+    "algorithm": "CryptoNight",
     "coin": "XMO",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",

@@ -1,4 +1,5 @@
 {
+    "algorithm": "CryptoNight",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=600658",
     "coin": "QCN",
     "forkedFrom": "bcn-bytecoin",

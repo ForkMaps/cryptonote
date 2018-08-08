@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight Adaptive",
+    "algorithm": "CryptoNight Adaptive",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4577361",
     "coin": "BLUR",
     "forkedFrom": "xnv-nerva",

@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight Lite v1",
+    "algorithm": "CryptoNight Lite v1",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4389341.0",
     "coin": "LCH",
     "diffTarget": 120,

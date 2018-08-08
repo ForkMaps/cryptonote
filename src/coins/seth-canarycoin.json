@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight Lite v1",
+    "algorithm": "CryptoNight Lite v1",
     "coin": "SETH",
     "forkedFrom": "trtl-turtlecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/canary-icon.png",

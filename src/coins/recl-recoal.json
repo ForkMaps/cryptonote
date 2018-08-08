@@ -1,5 +1,5 @@
 {
-    "algorithm": "Cryptonight v7",
+    "algorithm": "CryptoNight v7",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4429386.0",
     "coin": "RECL",
     "diffTarget": 120,

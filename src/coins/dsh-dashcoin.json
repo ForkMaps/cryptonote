@@ -1,4 +1,5 @@
 {
+    "algorithm": "CryptoNight",
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=678232",
     "coin": "DSH",
     "forkedFrom": "bcn-bytecoin",
