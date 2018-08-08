@@ -1,8 +1,12 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3203967.0",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3203967",
     "coin": "XFR",
     "diffTarget": 60,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xfr-icon.png",
     "name": "Ferro",
-    "repo": "https://github.com/Ferro-Crypto/Ferro-project/"
+    "repo": "https://github.com/Ferro-Crypto/Ferro-project/",
+    "startDate": "2018-03-27",
+    "website": "https://ferro.cash/"
 }
