@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight Lite v1",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4582673.0",
-    "coin": "NAZA",
-    "diffTarget": 60,
-    "name": "Nazacoin",
-    "repo": "https://github.com/AndersonIAm/"
-}
