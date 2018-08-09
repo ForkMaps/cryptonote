@@ -5,7 +5,6 @@
     "diffTarget": 90,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/luka-icon.png",
-    "logo": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/luka-icon.png",
     "name": "LuKa",
     "repo": "https://github.com/cryptoluka/cryptoluka",
     "startDate": "2018-02",
