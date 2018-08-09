@@ -1,0 +1,13 @@
+{
+    "algorithm": "CryptoNight",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4587224",
+    "coin": "BOLD",
+    "diffTarget": 90,
+    "forkedFrom": "luk-luka", // Built from LUKA 1.3.0 by encrypter
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bold-icon.png",
+    "logo": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bold-icon.png",
+    "name": "Bold",
+    "repo": "https://github.com/theboldtoken/bold",
+    "website": "https://www.boldprivate.network/",
+    "startDate": "2018-07"
+}

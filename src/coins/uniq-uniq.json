@@ -3,9 +3,11 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4415541",
     "coin": "UNIQ",
     "diffTarget": 90,
-    "forkedFrom": "itns-intensecoin",
+    "forkedFrom": "luk-luka", // Built from LUKA 1.2.3 by Arieru & encrypter
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/uniq-icon.png",
     "name": "uniQ",
-    "repo": "https://github.com/uniqnetwork/uniq/releases/",
-    "website": "https://www.uniqnetwork.io/"
+    "repo": "https://github.com/uniqnetwork/uniq/",
+    "website": "https://www.uniqnetwork.io/",
+    "startDate": "2018-04",
+    "endDate": "2018-05" // Spanish Core decided close project -> No support
 }
