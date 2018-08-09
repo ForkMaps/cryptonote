@@ -3,6 +3,7 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4781246",
     "coin": "XCA",
     "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xcash-icon.png",
     "name": "X-CASH",
     "repo": "https://github.com/X-CASH-official/X-CASH",
     "website": "https://x-cash.org/"
