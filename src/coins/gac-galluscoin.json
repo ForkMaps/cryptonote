@@ -1,0 +1,10 @@
+{
+    "algorithm": "CryptoNight Heavy",
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4315296.0",
+    "coin": "GAC",
+    "forkedFrom": "sumo-sumocoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/gac-icon.png",
+    "name": "Galluscoin",
+    "repo": "https://github.com/projekgallus/galluscoin",
+    "website": "https://galluscoin.com/"
+}
