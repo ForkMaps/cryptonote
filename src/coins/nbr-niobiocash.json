@@ -6,6 +6,6 @@
     "forkedFrom": "krb-karbo",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/nbr-icon.png",
     "name": "Niobiocash",
-    "repo": "https://github.com/niobio-cash/niobio-node-daemon",
+    "repo": "https://github.com/niobio-cash",
     "website": "https://niobiocash.org/"
 }
