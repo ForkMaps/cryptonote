@@ -3,6 +3,8 @@
     "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4388936",
     "coin": "CTL",
     "diffTarget": 240,
+    "forkedFrom": "bxc-bitcedi",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ctl-icon.png",
     "name": "Citadel",
     "repo": "https://github.com/cntemple/Citadel"
 }
