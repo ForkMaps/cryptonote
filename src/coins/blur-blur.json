@@ -1,11 +1,16 @@
 {
     "algorithm": "CryptoNight Adaptive",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4577361",
     "coin": "BLUR",
     "forkedFrom": "xnv-nerva",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/blur-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4577361",
+        "discord": "https://discord.gg/dMWaqVW",
+        "repo": "https://github.com/blur-network/blur",
+        "telegram": "https://t.me/theblurnetwork",
+        "twitter": "https://twitter.com/blur_network",
+        "website": "https://blur.cash/"
+    },
     "name": "Blur",
-    "repo": "https://github.com/blur-network/blur",
-    "startDate": "2018-06-01",
-    "website": "https://blur.cash/"
+    "startDate": "2018-06-01"
 }

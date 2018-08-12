@@ -1,11 +1,14 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3442318",
     "coin": "FRANK",
     "diffTarget": 120,
+    "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/frank-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3442318",
+        "repo": "https://github.com/befrank-project",
+        "website": "http://www.getfrank.be/"
+    },
     "name": "BeFrank",
-    "repo": "https://github.com/befrank-project",
-    "startDate": "2018-06-01",
-    "website": "http://www.getfrank.be/"
+    "startDate": "2018-06-01"
 }

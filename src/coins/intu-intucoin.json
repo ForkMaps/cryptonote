@@ -1,8 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3394028.0",
     "coin": "INTU",
     "diffTarget": 120,
-    "name": "Intucoin",
-    "repo": "https://github.com/intucoin/INTUcoin"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/intu-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3394028.0",
+        "discord": "https://discord.gg/QG9aGwU",
+        "facebook": "https://www.facebook.com/intu.coin.7",
+        "repo": "https://github.com/intucoin/INTUcoin",
+        "telegram": "https://t.me/INTUcoin",
+        "twitter": "https://twitter.com/INTUcoin/",
+        "website": "http://www.intucoin.com/"
+    },
+    "name": "Intucoin"
 }

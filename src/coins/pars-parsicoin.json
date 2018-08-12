@@ -1,11 +1,16 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3381737.0",
     "coin": "PARS",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/pars-icon.png",
-    "name": "Parsicoin",
-    "repo": "https://github.com/ParsiCoin/parsicoin",
-    "website": "https://parsicoin.net/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3381737.0",
+        "discord": "https://discord.gg/QpSsa97",
+        "repo": "https://github.com/ParsiCoin/parsicoin",
+        "telegram": "https://t.me/parsicoin",
+        "twitter": "https://twitter.com/parsicoin",
+        "website": "https://parsicoin.net/"
+    },
+    "name": "Parsicoin"
 }

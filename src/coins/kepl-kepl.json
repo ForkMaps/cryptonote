@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3282087.0",
     "coin": "KEPL",
     "diffTarget": 120,
-    "name": "Kepl",
-    "repo": "https://github.com/kepldev/kepl"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/kepl-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3282087.0",
+        "discord": "https://discord.gg/mjeQ5Q2",
+        "repo": "https://github.com/kepldev/kepl",
+        "twitter": "https://twitter.com/keplproject",
+        "website": "http://www.kepl.org/"
+    },
+    "name": "Kepl"
 }

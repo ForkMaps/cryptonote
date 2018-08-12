@@ -1,11 +1,15 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3761715.0",
     "coin": "ZUCC",
     "diffTarget": 120,
     "forkedFrom": "msr-masari",
     "icon": "https://github.com/zuccbucc-project/zuccbucc-www/blob/master/www/logo2.png?raw=true",
-    "logo": "https://github.com/zuccbucc-project/zuccbucc-www/blob/master/www/logo.png?raw=true",
-    "name": "ZuccBucc",
-    "repo": "https://github.com/zuccbucc-project"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3761715.0",
+        "discord": "https://discord.gg/g6xbFrt",
+        "reddit": "https://www.reddit.com/r/Zuccbucc/",
+        "repo": "https://github.com/zuccbucc-project",
+        "telegram": "https://t.me/joinchat/IwHrLEWkWBRCDCEBvdKXfA"
+    },
+    "name": "ZuccBucc"
 }

@@ -1,10 +1,12 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2344886",
     "coin": "FBF",
     "diffTarget": 120,
     "forkedFrom": "xry-royalties",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/fbf-icon.png",
-    "name": "Freelabit",
-    "repo": "https://github.com/freelacoin/freelabit"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2344886",
+        "repo": "https://github.com/freelacoin/freelabit"
+    },
+    "name": "Freelabit"
 }

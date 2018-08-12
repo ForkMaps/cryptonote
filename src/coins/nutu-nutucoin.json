@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4357466.0",
     "coin": "NUTU",
     "diffTarget": 240,
-    "name": "Nutucoin",
-    "repo": "https://github.com/nutucoin"
+    "forkedFrom": "xdn-digitalnote",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/nutu-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4357466.0",
+        "facebook": "https://www.facebook.com/nutucoin/",
+        "repo": "https://github.com/nutucoin",
+        "twitter": "https://twitter.com/nutucoin",
+        "website": "http://nutucoin.com/"
+    },
+    "name": "Nutucoin"
 }

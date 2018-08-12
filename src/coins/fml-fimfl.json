@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4621611",
     "coin": "FML",
     "diffTarget": 60,
-    "name": "FIMFL",
-    "repo": "https://github.com/FIMFL/FIMFL"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/fml-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4621611",
+        "facebook": "https://www.facebook.com/FimflCoin/",
+        "repo": "https://github.com/FIMFL/FIMFL",
+        "twitter": "https://twitter.com/FimflCoin",
+        "website": "https://www.fimfl.to/"
+    },
+    "name": "FIMFL"
 }

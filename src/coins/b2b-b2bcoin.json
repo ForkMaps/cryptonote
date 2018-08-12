@@ -1,10 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2098163.0",
     "coin": "B2B",
     "diffTarget": 120,
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/b2bcoin-icon.png",
-    "name": "B2BCoin",
-    "repo": "https://github.com/oliviersinnaeve/b2bcoin-wallet",
-    "website": "https://b2bcoin.xyz/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2098163.0",
+        "discord": "https://discord.gg/QwhhqPY",
+        "facebook": "https://www.facebook.com/b2beyond/",
+        "repo": "https://github.com/oliviersinnaeve/b2bcoin-wallet",
+        "telegram": "https://t.me/joinchat/Fxlb2Qw8ivAta7iYgM0Wiw",
+        "twitter": "https://twitter.com/CoinB2b",
+        "website": "https://b2bcoin.xyz/"
+    },
+    "name": "B2BCoin"
 }

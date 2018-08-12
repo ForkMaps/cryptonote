@@ -1,8 +1,18 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2767600.0",
     "coin": "FCB",
     "diffTarget": 120,
-    "name": "Firstcryptobank",
-    "repo": null
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/fcb-icon.png",
+    "forkedFrom": "bcn-bytecoin",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2767600.0",
+        "discord": "https://discord.gg/tPPCtxY",
+        "facebook": "https://www.facebook.com/fcryptobank/",
+        "reddit": "https://www.reddit.com/user/FirstCryptoBank/",
+        "repo": "https://github.com/FirstCryptoBank",
+        "telegram": "https://t.me/fcryptobank",
+        "twitter": "https://twitter.com/FirstCryptoBank",
+        "website": "https://fcryptobank.com/"
+    },
+    "name": "Firstcryptobank"
 }

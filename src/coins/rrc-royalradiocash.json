@@ -1,11 +1,14 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2491607",
     "coin": "RRC",
     "diffTarget": 60,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/rrc-icon.png",
-    "name": "RoyalRadioCash",
-    "repo": "https://github.com/royalradiocash/royalradiocash",
-    "website": "http://royalradio.cash/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2491607",
+        "repo": "https://github.com/royalradiocash/royalradiocash",
+        "telegram": "https://t.me/royalradiocash",
+        "website": "http://royalradio.cash/"
+    },
+    "name": "RoyalRadioCash"
 }

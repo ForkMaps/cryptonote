@@ -1,11 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2821734.0",
     "coin": "BKC",
     "diffTarget": 30,
     "forkedFrom": "krb-karbo",
     "icon": "https://github.com/zlatkomajstor/balkancoin-faucet/blob/master/images/balkancoin.png?raw=true",
-    "name": "Balkancoin",
-    "repo": "https://github.com/zlatkomajstor/balkancoin",
-    "website": "https://www.balkancoin.org"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2821734.0",
+        "discord": "https://discord.gg/wFyjU8U",
+        "facebook": "https://www.facebook.com/Balkancoin",
+        "repo": "https://github.com/zlatkomajstor/balkancoin",
+        "twitter": "https://twitter.com/BalkancoinAdmin",
+        "website": "https://www.balkancoin.org"
+    },
+    "name": "Balkancoin"
 }

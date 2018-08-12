@@ -1,11 +1,14 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4414415.0",
     "coin": "X12",
     "diffTarget": 300,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/x12-icon.png",
-    "name": "X12",
-    "repo": "https://github.com/x12project/x12-core",
-    "website": "http://x12coin.com/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4414415.0",
+        "repo": "https://github.com/x12project/x12-core",
+        "twitter": "https://twitter.com/x12coin",
+        "website": "http://x12coin.com/"
+    },
+    "name": "X12"
 }

@@ -3,6 +3,13 @@
     "coin": "MCN",
     "forkedFrom": "fcn-fantomcoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/mcn-icon.jpg",
-    "name": "MonetaVerde",
-    "repo": "https://github.com/cryptomidnight/monetaverde"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=657820.0",
+        "reddit": "https://www.reddit.com/r/MonetaVerde",
+        "repo": "https://github.com/cryptomidnight/monetaverde",
+        "telegram": "https://t.me/monetaverdeofficial",
+        "twitter": "https://twitter.com/monetaverde_mcn",
+        "website": "https://www.monetaverde.io/"
+    },
+    "name": "MonetaVerde"
 }

@@ -1,11 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1491747",
     "coin": "KRB",
     "diffTarget": 240,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/karbo-icon.png",
-    "name": "Karbo",
-    "repo": "https://github.com/seredat/karbowanec",
-    "website": "https://karbo.io/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1491747",
+        "reddit": "https://www.reddit.com/r/krb/",
+        "repo": "https://github.com/seredat/karbowanec",
+        "twitter": "https://twitter.com/krbcoin",
+        "website": "https://karbo.io/"
+    },
+    "name": "Karbo"
 }

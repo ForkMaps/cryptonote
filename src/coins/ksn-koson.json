@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight Heavy",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4667297.0",
     "coin": "KSN",
     "diffTarget": 120,
-    "name": "Koson",
-    "repo": "https://github.com/kosonproject/koson/"
+    "forkedFrom": "sumo-sumocoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ksn-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4667297.0",
+        "repo": "https://github.com/kosonproject/koson/",
+        "telegram": "https://t.me/joinchat/JK1brw6ptg62Xx5vqAda2Q",
+        "twitter": "https://twitter.com/@CryptoKoson",
+        "website": "http://koson-currency.com/"
+    },
+    "name": "Koson"
 }

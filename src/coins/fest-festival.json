@@ -1,11 +1,18 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3683049.0",
     "coin": "FEST",
     "diffTarget": 60,
     "forkedFrom": "pars-parsicoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/fest-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3683049.0",
+        "discord": "https://discord.gg/4gcTyGH",
+        "facebook": "https://facebook.com/festcoin",
+        "repo": "https://github.com/FESTIVALCOINDEV/festival",
+        "telegram": "https://t.me/festivalcoin",
+        "twitter": "https://twitter.com/FestivalCoin",
+        "website": "https://festivalcoin.net/"
+    },
     "name": "Festival",
-    "repo": "https://github.com/FESTIVALCOINDEV/festival",
-    "website": "https://festivalcoin.net/"
+    "startDate": "2018-05-23"
 }

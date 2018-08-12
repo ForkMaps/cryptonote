@@ -1,11 +1,15 @@
 {
     "algorithm": "CryptoNight Fast",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2159114.0",
     "coin": "MSR",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/masari-icon.png",
-    "name": "Masari",
-    "repo": "https://github.com/masari-project/masari",
-    "website": "https://www.getmasari.org"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2159114.0",
+        "discord": "https://discord.gg/sMCwMqs",
+        "repo": "https://github.com/masari-project/masari",
+        "telegram": "https://t.me/masaricurrency",
+        "website": "https://www.getmasari.org"
+    },
+    "name": "Masari"
 }

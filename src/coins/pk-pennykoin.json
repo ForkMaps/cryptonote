@@ -1,12 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3783719",
     "coin": "PK",
     "diffTarget": 180,
     "forkedFrom": "xdn-digitalnote",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/pk-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3783719",
+        "discord": "https://discord.gg/Yk3yRJh",
+        "repo": "https://github.com/Pennykoin",
+        "twitter": "https://twitter.com/pennykoin1",
+        "website": "http://pennykoin.com/"
+    },
     "name": "Pennykoin",
-    "repo": "https://github.com/Pennykoin",
-    "startDate": "2018-05-14",
-    "website": "http://pennykoin.com/"
+    "startDate": "2018-05-14"
 }

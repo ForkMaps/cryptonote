@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4485922.0",
     "coin": "STDU",
     "diffTarget": 120,
-    "name": "Stardust",
-    "repo": "https://github.com/goodstardust/stardustcoin"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/stdu-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4485922.0",
+        "discord": "https://discord.gg/6XZ5f6C",
+        "repo": "https://github.com/goodstardust/stardustcoin",
+        "twitter": "https://twitter.com/stardust_coin",
+        "website": "https://stardustcoin.org/"
+    },
+    "name": "Stardust"
 }

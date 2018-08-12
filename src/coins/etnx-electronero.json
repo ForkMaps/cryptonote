@@ -1,10 +1,18 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3373837.0",
     "coin": "ETNX",
     "diffTarget": 60,
     "forkedFrom": "etn-electroneum",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/etnx-icon.png",
-    "name": "Electronero",
-    "repo": "https://github.com/electronero/electronero"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3373837.0",
+        "discord": "https://discord.gg/Msy85Uz",
+        "facebook": "https://www.facebook.com/etxofficial",
+        "reddit": "https://www.reddit.com/r/Electronero_official/",
+        "repo": "https://github.com/electronero/electronero",
+        "telegram": "https://t.me/electronero",
+        "twitter": "https://twitter.com/_electronero",
+        "website": "https://electronero.org/"
+    },
+    "name": "Electronero"
 }

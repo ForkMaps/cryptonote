@@ -4,6 +4,8 @@
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/sdm-icon.png",
-    "name": "Sadomi",
-    "repo": "https://github.com/sadomi"
+    "links": {
+        "repo": "https://github.com/sadomi"
+    },
+    "name": "Sadomi"
 }

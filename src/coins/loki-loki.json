@@ -1,11 +1,18 @@
 {
     "algorithm": "CryptoNight Heavy",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3016125.0",
     "coin": "LOKI",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/loki-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3016125.0",
+        "discord": "https://discord.gg/67GXfD6",
+        "reddit": "https://www.reddit.com/r/LokiProject/",
+        "repo": "https://github.com/loki-project/loki",
+        "telegram": "https://t.me/joinchat/DeNvR0JJ4JPn6TVSQjCsZQ",
+        "twitter": "https://twitter.com/loki_project",
+        "website": "https://loki.network"
+    },
     "name": "Loki",
-    "repo": "https://github.com/loki-project/loki",
-    "website": "https://loki.network"
+    "startDate": "2018-04"
 }

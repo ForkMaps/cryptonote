@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2664158.0",
     "coin": "NNC",
     "diffTarget": 60,
-    "name": "Nicnac",
-    "repo": "https://github.com/nicnaccoin/NicNacCoin"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/nnc-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2664158.0",
+        "facebook": "https://www.facebook.com/profile.php?id=100015568710128",
+        "repo": "https://github.com/nicnaccoin/NicNacCoin",
+        "twitter": "https://twitter.com/nicnaccoin",
+        "website": "https://nicnaccoins.com/crypto/www/"
+    },
+    "name": "Nicnac"
 }

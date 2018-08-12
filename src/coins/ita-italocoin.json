@@ -1,11 +1,17 @@
 {
     "algorithm": "CryptoNight Heavy",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3122277",
     "coin": "ITA",
     "diffTarget": 180,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ita-icon.png",
-    "name": "Italocoin",
-    "repo": "https://github.com/italocoin-project/italocoin",
-    "website": "https://www.italocoin.com/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3122277",
+        "discord": "https://discord.gg/nfwGjUD",
+        "facebook": "https://www.facebook.com/Italocoincom-900766046752121/",
+        "repo": "https://github.com/italocoin-project/italocoin",
+        "telegram": "https://t.me/italocoincom",
+        "twitter": "https://twitter.com/italocoin",
+        "website": "https://www.italocoin.com/"
+    },
+    "name": "Italocoin"
 }

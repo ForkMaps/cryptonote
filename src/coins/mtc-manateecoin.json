@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2232302.0",
     "coin": "MTC",
     "diffTarget": 60,
-    "name": "ManateeCoin",
-    "repo": "http://git.mananet.net/manatails/manateecoin"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/mtc-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2232302.0",
+        "discord": "https://discord.gg/4dTBUDQ",
+        "facebook": "https://www.facebook.com/manateecoin",
+        "repo": "http://git.mananet.net/manatails/manateecoin",
+        "twitter": "https://twitter.com/manateecoin"
+    },
+    "name": "ManateeCoin"
 }

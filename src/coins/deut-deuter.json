@@ -1,8 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2776245.0",
     "coin": "DEUT",
     "diffTarget": 120,
-    "name": "Deuter",
-    "repo": "https://github.com/servc4/DeuterCoin"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/deut-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2776245.0",
+        "discord": "https://discord.gg/gNrytV3",
+        "reddit": "https://www.reddit.com/r/Deuter",
+        "repo": "https://github.com/servc4/DeuterCoin",
+        "telegram": "https://t.me/joinchat/F0MLWBCmBfsBX_R_1tHErg",
+        "twitter": "https://twitter.com/DeuterCoin"
+    },
+    "name": "Deuter"
 }

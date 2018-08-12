@@ -1,8 +1,14 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4385897",
     "coin": "KNOW",
     "diffTarget": 60,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/know-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4385897",
+        "repo": "https://github.com/knownero/knownero",
+        "website": "https://knownero.org/"
+    },
     "name": "Knownero",
-    "repo": "https://github.com/knownero/knownero"
+    "startDate": "2018-05"
 }

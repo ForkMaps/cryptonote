@@ -1,11 +1,17 @@
 {
     "algorithm": "CryptoNight Lite v1",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2150442.0",
     "coin": "IRD",
     "diffTarget": 175,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/iridiumdev/iridium-graphics/master/logo%20and%20icons/128x128.png",
-    "name": "Iridium",
-    "repo": "https://github.com/iridiumdev/iridium",
-    "website": "https://ird.cash/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2150442.0",
+        "discord": "https://discord.gg/6y2p6Qj",
+        "facebook": "https://www.facebook.com/IridiumCoin",
+        "repo": "https://github.com/iridiumdev/iridium",
+        "telegram": "https://t.me/IridiumCoin",
+        "twitter": "https://twitter.com/iridiumCash",
+        "website": "https://ird.cash/"
+    },
+    "name": "Iridium"
 }

@@ -1,13 +1,16 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=583449.0",
     "coin": "XMR",
     "diffTarget": 120,
     "forkedFrom": ["bcn-bytecoin", "bmr-bitmonero"],
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/monero-icon.png",
-    "logo": "https://getmonero.org/press-kit/logos/monero-logo-480.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=583449.0",
+        "reddit": "https://reddit.com/r/monero",
+        "repo": "https://github.com/monero-project/monero",
+        "telegram": "https://telegram.me/bitmonero",
+        "website": "https://getmonero.org"
+    },
     "name": "Monero",
-    "repo": "https://github.com/monero-project/monero",
-    "startDate": "2014-04",
-    "website": "https://getmonero.org"
+    "startDate": "2014-04"
 }

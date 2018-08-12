@@ -1,11 +1,18 @@
 {
     "algorithm": "CryptoNight Lite v1",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3086019.0",
     "coin": "WTIP",
     "diffTarget": 120,
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/worktips-icon.png",
     "forkedFrom": "trtl-turtlecoin",
-    "name": "Worktips",
-    "repo": "https://github.com/Vordas/worktips",
-    "website": "http://worktips.info/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3086019.0",
+        "discord": "https://discord.gg/UmZExyz",
+        "facebook": "https://facebook.com/worktipscoin",
+        "reddit": "https://www.reddit.com/r/worktipscoin",
+        "repo": "https://github.com/worktips",
+        "telegram": "https://t.me/joinchat/HOvygRE-6UnWOzoh72NVMA",
+        "twitter": "https://twitter.com/wtipscoin",
+        "website": "http://worktips.info/"
+    },
+    "name": "Worktips"
 }

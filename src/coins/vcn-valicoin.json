@@ -1,8 +1,10 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3883857.0",
     "coin": "VCN",
     "diffTarget": 120,
-    "name": "Valicoin",
-    "repo": "https://github.com/Valicoin/Valicoin"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3883857.0",
+        "repo": "https://github.com/Valicoin/Valicoin"
+    },
+    "name": "Valicoin"
 }

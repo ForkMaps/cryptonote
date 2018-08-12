@@ -1,8 +1,16 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4453691.0",
     "coin": "XSF",
     "diffTarget": 120,
-    "name": "Flake Chain",
-    "repo": "https://github.com/0xA01/snowflake"
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xsf-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4453691.0",
+        "discord": "https://discord.gg/NqgvVYT",
+        "repo": "https://github.com/flakechain",
+        "telegram": "https://t.me/flakechain",
+        "twitter": "https://twitter.com/flakechain",
+        "website": "https://www.flake.space/"
+    },
+    "name": "Flake Chain"
 }

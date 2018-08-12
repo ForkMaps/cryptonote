@@ -1,12 +1,16 @@
 {
     "algorithm": "CryptoNight Heavy",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4004235",
     "coin": "XRN",
     "diffTarget": 60,
     "forkedFrom": "sumo-sumocoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/saronite-icon.png",
-    "logo": "https://raw.githubusercontent.com/Saronite/saronite-gui-wallet/master/Resources/icons/saronite_icon_64.png",
-    "name": "Saronite",
-    "repo": "https://github.com/Saronite/saronite",
-    "website": "https://saronite.io/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4004235",
+        "discord": "https://discord.gg/EpxZbRE",
+        "repo": "https://github.com/Saronite/saronite",
+        "telegram": "https://t.me/joinchat/HxNMMA8wrHzGpInxq0FwIQ",
+        "twitter": "https://twitter.com/SaroniteNetwork",
+        "website": "https://saronite.io/"
+    },
+    "name": "Saronite"
 }

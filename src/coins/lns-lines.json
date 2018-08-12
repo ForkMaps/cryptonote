@@ -1,11 +1,16 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3162385.0",
     "coin": "LNS",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/lns-icon.png",
-    "name": "Lines",
-    "repo": "https://github.com/linescoin/lines",
-    "website": "https://lines.pw/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3162385.0",
+        "discord": "https://discord.gg/CVT3xmh",
+        "repo": "https://github.com/linescoin/lines",
+        "telegram": "https://t.me/linescoin",
+        "twitter": "https://twitter.com/linescoin",
+        "website": "https://lines.pw/"
+    },
+    "name": "Lines"
 }

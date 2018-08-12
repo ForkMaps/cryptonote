@@ -1,11 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4557266",
     "coin": "BUZ",
     "diffTarget": 42,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/buz-icon.png",
-    "name": "Bukz",
-    "repo": "https://github.com/bukzmatter/bukz/",
-    "website": "http://bukz.website/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4557266",
+        "discord": "https://discord.gg/aSChFhA",
+        "repo": "https://github.com/bukzmatter/bukz/",
+        "twitter": "https://twitter.com/bukz94554115",
+        "website": "http://bukz.website/"
+    },
+    "name": "Bukz"
 }

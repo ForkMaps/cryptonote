@@ -1,11 +1,17 @@
 {
     "algorithm": "CryptoNight Arto",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2932583.0",
     "coin": "RTO",
     "diffTarget": 90,
     "forkedFrom": "krb-karbo",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/arto-icon.png",
-    "name": "Arto",
-    "repo": "https://github.com/artocash/arto",
-    "website": "https://www.arto.cash/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2932583.0",
+        "discord": "https://discord.gg/EUMzNPx",
+        "facebook": "https://www.facebook.com/artocash",
+        "reddit": "https://www.reddit.com/r/Arto/",
+        "repo": "https://github.com/artocash/arto",
+        "twitter": "https://twitter.com/artocash",
+        "website": "https://www.arto.cash/"
+    },
+    "name": "Arto"
 }

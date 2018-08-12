@@ -1,12 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=678232",
     "coin": "DSH",
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/dashcoin/dashcoin.github.io/master/assets/img/favicons/favicon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=678232",
+        "reddit": "http://www.reddit.com/r/Dashcoin/",
+        "repo": "https://github.com/papaLazzarou/dashcoin",
+        "twitter": "http://twitter.com/dashcoins/",
+        "website": "http://dashcoin.info/"
+    },
     "logo": "https://raw.githubusercontent.com/dashcoin/dashcoin.github.io/master/assets/img/logo.png",
     "name": "Dashcoin",
-    "repo": "https://github.com/papaLazzarou/dashcoin",
-    "startDate": "2014-07-05",
-    "website": "http://dashcoin.info/"
+    "startDate": "2014-07-05"
 }

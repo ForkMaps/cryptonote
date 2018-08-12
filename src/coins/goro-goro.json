@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4649686.0",
     "coin": "GORO",
     "diffTarget": 120,
-    "name": "Goro",
-    "repo": "https://github.com/goro-project/goro"
+    "forkedFrom": "krb-karbo",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/goro-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4649686.0",
+        "discord": "https://discord.gg/kccGyay",
+        "repo": "https://github.com/goro-project/goro",
+        "twitter": "https://twitter.com/CoinGoro",
+        "website": "https://goro.info/"
+    },
+    "name": "Goro"
 }

@@ -1,11 +1,17 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3088712.0",
     "coin": "WOW",
     "diffTarget": 300,
     "forkedFrom": "xmr-monero",
     "icon": "https://github.com/wownero/wownero-gui/blob/master/images/wowneroIcon-trans84x84.png?raw=true",
-    "name": "Wownero",
-    "repo": "https://github.com/wownero/wownero",
-    "website": "http://wownero.org/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3088712.0",
+        "discord": "https://discord.gg/sQt74ep",
+        "reddit": "https://www.reddit.com/r/Wownero",
+        "repo": "https://github.com/wownero/wownero",
+        "telegram": "https://t.me/wownero",
+        "twitter": "https://twitter.com/W0wn3r0",
+        "website": "http://wownero.org/"
+    },
+    "name": "Wownero"
 }

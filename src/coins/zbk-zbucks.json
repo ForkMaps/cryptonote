@@ -1,11 +1,16 @@
 {
     "algorithm": "CryptoNight Heavy",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4625226.0",
     "coin": "ZBK",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/zbucks-icon.png",
-    "name": "Zbucks",
-    "repo": "https://github.com/zbucks-project/zbucks",
-    "website": "https://www.zbucks.org/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4625226.0",
+        "discord": "https://discordapp.com/invite/pfZ3WPD",
+        "reddit": "https://www.reddit.com/r/zbucks/",
+        "repo": "https://github.com/zbucks-project/zbucks",
+        "telegram": "https://t.me/zBucks_project",
+        "website": "https://www.zbucks.org/"
+    },
+    "name": "Zbucks"
 }

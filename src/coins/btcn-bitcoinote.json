@@ -1,12 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2660296",
     "coin": "BTCN",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/btcn-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2660296",
+        "reddit": "https://www.reddit.com/user/bitcoinote",
+        "repo": "https://github.com/Bitcoinote/Bitcoinote-Core",
+        "telegram": "https://t.me/joinchat/GdDTqgwCLk2h4BjGgE1-_w",
+        "twitter": "https://twitter.com/Bitcoinote_BTCN",
+        "website": "https://www.bitcoinote.org/"
+    },
     "name": "BitcoiNote",
-    "repo": "https://github.com/Bitcoinote/Bitcoinote-Core",
-    "startDate": "2017-12",
-    "website": "https://www.bitcoinote.org/"
+    "startDate": "2017-12"
 }

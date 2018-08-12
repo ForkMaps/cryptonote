@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2102443.0",
     "coin": "CROAT",
     "diffTarget": 120,
-    "name": "CROAT",
-    "repo": "https://github.com/croatproject/Croat"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/croat-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2102443.0",
+        "facebook": "https://www.facebook.com/Croat-The-Catalan-Altcoin-288189724922920/",
+        "repo": "https://github.com/croatproject/Croat",
+        "twitter": "https://twitter.com/CROATcoin",
+        "website": "https://croat.cat/"
+    },
+    "name": "CROAT"
 }

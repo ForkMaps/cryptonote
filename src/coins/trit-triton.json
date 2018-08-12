@@ -1,11 +1,17 @@
 {
     "algorithm": "CryptoNight Lite v1",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2944793.0",
     "coin": "TRIT",
     "diffTarget": 180,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/trit-icon.png",
-    "name": "Triton",
-    "repo": "https://github.com/Triton-io/Triton",
-    "website": "http://tritonproject.org/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2944793.0",
+        "discord": "https://discord.gg/Sv3Qusw",
+        "reddit": "https://www.reddit.com/r/TritonCurrency/",
+        "repo": "https://github.com/Triton-io/Triton",
+        "telegram": "https://t.me/TritonProject",
+        "twitter": "https://twitter.com/ProjectTriton",
+        "website": "http://tritonproject.org/"
+    },
+    "name": "Triton"
 }

@@ -1,11 +1,15 @@
 {
     "algorithm": "CryptoNight Heavy",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2912866.0",
     "coin": "NBR",
     "diffTarget": 240,
     "forkedFrom": "krb-karbo",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/nbr-icon.png",
-    "name": "Niobiocash",
-    "repo": "https://github.com/niobio-cash",
-    "website": "https://niobiocash.org/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2912866.0",
+        "facebook": "https://www.facebook.com/niobio.cash",
+        "repo": "https://github.com/niobio-cash",
+        "twitter": "https://twitter.com/niobio_cash",
+        "website": "https://niobiocash.org/"
+    },
+    "name": "Niobiocash"
 }

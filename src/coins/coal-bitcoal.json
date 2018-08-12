@@ -1,12 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1635047.0",
     "coin": "COAL",
     "diffTarget": 90,
     "icon": "https://github.com/bitcoal/bitcoal/raw/master/bitcoal.png",
     "forkedFrom": "bcn-bytecoin",
     "forknote": true,
-    "name": "Bitcoal",
-    "repo": "https://github.com/bitcoal/bitcoal",
-    "website": "http://getbitcoal.org"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1635047.0",
+        "reddit": "https://www.reddit.com/r/cryptocoal",
+        "repo": "https://github.com/bitcoal/bitcoal",
+        "telegram": "https://t.me/joinchat/ErNaG0sxjn7FJyVCcEE1VA",
+        "website": "http://getbitcoal.org"
+    },
+    "name": "Bitcoal"
 }

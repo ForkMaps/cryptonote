@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3194150.0",
     "coin": "KGH",
     "diffTarget": 120,
-    "name": "Kwagsh",
-    "repo": "https://github.com/kwash-dev/kwagsh"
+    "forkedFrom": "qwc-qwertycoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/kgh-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3194150.0",
+        "discord": "https://discord.gg/XBzUyMr",
+        "repo": "https://github.com/kwash-dev/kwagsh",
+        "twitter": "https://twitter.com/KwagshCoin",
+        "website": "https://kwagsh.com/"
+    },
+    "name": "Kwagsh"
 }

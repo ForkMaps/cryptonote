@@ -1,12 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=512747.0",
     "coin": "BCN",
     "diffTarget": 120,
     "icon": "https://raw.githubusercontent.com/bcndev/bytecoin-gui/master/src/images/bytecoin.png",
-    "logo": "https://raw.githubusercontent.com/bcndev/bytecoin-gui/master/src/images/bytecoin.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=512747.0",
+        "reddit": "http://www.reddit.com/r/BytecoinBCN/",
+        "repo": "https://github.com/bcndev/bytecoin",
+        "twitter": "https://twitter.com/Bytecoin_BCN",
+        "website": "https://bytecoin.org"
+    },
     "name": "Bytecoin",
-    "repo": "https://github.com/bcndev/bytecoin",
-    "startDate": "07.2014",
-    "website": "https://bytecoin.org"
+    "startDate": "07.2014"
 }

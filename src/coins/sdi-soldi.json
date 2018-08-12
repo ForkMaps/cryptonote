@@ -1,8 +1,13 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3225185.0",
     "coin": "SDI",
     "diffTarget": 60,
-    "name": "Soldi",
-    "repo": "https://github.com/bitsoldi/soldi"
+    "forkedFrom": "bcn-bytecoin",
+    "icon" : "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/sdi-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3225185.0",
+        "repo": "https://github.com/bitsoldi/soldi",
+        "website": "http://www.bitsoldi.com/"
+    },
+    "name": "Soldi"
 }

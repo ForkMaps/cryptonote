@@ -1,8 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2335467.0",
     "coin": "KMC",
     "diffTarget": 90,
-    "name": "Kripto Marka Coin",
-    "repo": "https://github.com/tr4nscr1pt/kmcoin-2.0"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/kmc-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2335467.0",
+        "discord": "https://discord.gg/teGwcvS",
+        "facebook": "https://www.facebook.com/kmcoin",
+        "repo": "https://github.com/tr4nscr1pt/kmcoin-2.0",
+        "telegram": "https://t.me/joinchat/CkUsSRLtDjr9MPewxN23-g",
+        "twitter": "https://twitter.com/KM_Coin",
+        "website": "http://kmcoin.info/"
+    },
+    "name": "Kripto Marka Coin"
 }

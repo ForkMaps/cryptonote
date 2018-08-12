@@ -1,11 +1,14 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3064367",
     "coin": "NXB",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/nxb-icon.png",
-    "name": "NXboost",
-    "repo": "https://github.com/nxboost",
-    "website": "https://nxboost.com/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3064367",
+        "discord": "https://discord.gg/jGM3FFG",
+        "repo": "https://github.com/nxboost",
+        "website": "https://nxboost.com/"
+    },
+    "name": "NXboost"
 }

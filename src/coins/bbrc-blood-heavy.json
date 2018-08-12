@@ -1,11 +1,15 @@
 {
     "algorithm": "CryptoNight Heavy",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4627133.0",
     "coin": "BBRC",
     "diffTarget": 240,
     "forkedFrom": "loki-loki",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/blood-heavy-icon.png",
-    "name": "Blood Donation Coin",
-    "repo": "https://github.com/blooddonationcoin/",
-    "website": "http://blooddonationcoin.org/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4627133.0",
+        "facebook": "https://www.facebook.com/bbrcoin",
+        "repo": "https://github.com/blooddonationcoin/",
+        "twitter": "https://twitter.com/bbrcoin",
+        "website": "http://blooddonationcoin.org/"
+    },
+    "name": "Blood Donation Coin"
 }

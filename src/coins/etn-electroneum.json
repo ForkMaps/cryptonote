@@ -1,11 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2065043.0",
     "coin": "ETN",
     "diffTarget": 60,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/etn-icon.png",
-    "name": "Electroneum",
-    "repo": "https://github.com/electroneum/electroneum",
-    "website": "https://electroneum.com"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2065043.0",
+        "facebook": "http://facebook.com/electroneum",
+        "repo": "https://github.com/electroneum/electroneum",
+        "telegram": "https://t.me/electroneum",
+        "twitter": "http://twitter.com/electroneum",
+        "website": "https://electroneum.com"
+    },
+    "name": "Electroneum"
 }

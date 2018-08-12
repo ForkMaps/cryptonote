@@ -1,11 +1,15 @@
 {
     "algorithm": "CryptoNight Lite v1",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2459792.0",
     "coin": "BSM",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bitsum-icon.png",
-    "name": "Bitsum",
-    "repo": "https://github.com/BitsumFoundation/bitsum_core",
-    "website": "https://bitsum.money"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2459792.0",
+        "discord": "https://discord.gg/49shV8",
+        "facebook": "https://www.facebook.com/bitsummoney/",
+        "repo": "https://github.com/BitsumFoundation/bitsum_core",
+        "website": "https://bitsum.money"
+    },
+    "name": "Bitsum"
 }

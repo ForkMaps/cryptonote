@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2910750.0",
     "coin": "TYC",
     "diffTarget": 120,
-    "name": "Tychecash",
-    "repo": "https://github.com/blockchain-next/TycheCash"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/tyc-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2910750.0",
+        "discord": "https://discord.gg/hEjaXmR",
+        "repo": "https://github.com/blockchain-next/TycheCash",
+        "telegram": "https://t.me/tychecash",
+        "website": "https://tyche.cash/",
+    },
+    "name": "Tychecash"
 }

@@ -1,12 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4587224",
     "coin": "BOLD",
     "diffTarget": 90,
     "forkedFrom": "luk-luka",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bold-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4587224",
+        "discord": "https://discord.gg/BeytU3f",
+        "facebook": "https://www.facebook.com/boldprivatenetwork",
+        "repo": "https://github.com/theboldtoken/bold",
+        "telegram": "https://t.me/joinchat/DEB2t0zxzzDgRHMw6-Ngpg",
+        "website": "https://www.boldprivate.network/"
+    },
     "name": "Bold",
-    "repo": "https://github.com/theboldtoken/bold",
-    "website": "https://www.boldprivate.network/",
     "startDate": "2018-07"
 }

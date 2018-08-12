@@ -1,12 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2595241.0",
     "coin": "LUK",
     "diffTarget": 90,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/luka-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2595241.0",
+        "facebook": "https://www.facebook.com/cryptoluka",
+        "repo": "https://github.com/cryptoluka/cryptoluka",
+        "telegram": "https://t.me/cryptoluka",
+        "twitter": "https://twitter.com/LukaCLP",
+        "website": "http://www.cryptoluka.cl"
+    },
     "name": "LuKa",
-    "repo": "https://github.com/cryptoluka/cryptoluka",
-    "startDate": "2018-02",
-    "website": "http://www.cryptoluka.cl"
+    "startDate": "2018-02"
 }

@@ -1,11 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3262692",
     "coin": "LTL",
     "diffTarget": 60,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ltl-icon.png",
-    "name": "BitLitas",
-    "repo": "https://github.com/Bitlitas/bitlitas",
-    "website": "https://bitlitas.lt/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3262692",
+        "discord": "https://discord.gg/UXkwJfC",
+        "repo": "https://github.com/Bitlitas/bitlitas",
+        "twitter": "https://twitter.com/bitlitas",
+        "website": "https://bitlitas.lt/"
+    },
+    "name": "BitLitas"
 }

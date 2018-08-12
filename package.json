@@ -4,7 +4,9 @@
   "description": "Coin data for forkmaps.com",
   "main": "gulpfile.js",
   "scripts": {
-    "build": "node ./node_modules/gulp/bin/gulp.js build"
+    "build": "node ./node_modules/gulp/bin/gulp.js build",
+    "build-dev": "node ./node_modules/gulp/bin/gulp.js build-dev",
+    "build-prod": "node ./node_modules/gulp/bin/gulp.js build-prod"
   },
   "repository": {
     "type": "git",

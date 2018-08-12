@@ -1,11 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4693135",
     "coin": "NERO",
     "diffTarget": 10,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bitcoinnero-icon.png",
-    "name": "BitcoinNero",
-    "repo": "https://github.com/bitcoinnero",
-    "website": "http://btcnero.org/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4693135",
+        "discord": "https://discord.gg/YHjgYRw",
+        "facebook": "https://www.facebook.com/bitcoinnero/",
+        "repo": "https://github.com/bitcoinnero",
+        "telegram": "https://t.me/bitcoinnero/",
+        "twitter": "https://twitter.com/BitcoinNero",
+        "website": "http://btcnero.org/"
+    },
+    "name": "BitcoinNero"
 }

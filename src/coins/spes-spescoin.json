@@ -1,8 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2870436.0",
     "coin": "SPES",
     "diffTarget": 100,
-    "name": "SpesCoin",
-    "repo": "https://github.com/SpesCoin/spescoin"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/spes-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2870436.0",
+        "discord": "https://discord.gg/TxJtH5F",
+        "facebook": "https://www.facebook.com/myspescoin",
+        "repo": "https://github.com/SpesCoin/spescoin",
+        "telegram": "https://t.me/spestoken",
+        "twitter": "https://twitter.com/SpesCoin",
+        "website": "https://myspes.org/"
+    },
+    "name": "SpesCoin"
 }

@@ -1,11 +1,18 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4556718.0",
     "coin": "DROP",
     "diffTarget": 120,
     "forkedFrom": "trtl-turtlecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xdrop-icon.png",
-    "name": "xDrop",
-    "repo": "https://github.com/xDropProject/xDrop",
-    "website": "https://xdrop.io/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4556718.0",
+        "discord": "https://discord.gg/qMNag24",
+        "facebook": "https://fb.com/xDropProject",
+        "reddit": "https://reddit.com/r/xDrop",
+        "repo": "https://github.com/xDropProject/xDrop",
+        "telegram": "https://t.me/xDropProject",
+        "twitter": "https://twitter.com/xDropProject",
+        "website": "https://xdrop.io/"
+    },
+    "name": "xDrop"
 }

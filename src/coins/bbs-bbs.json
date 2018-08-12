@@ -1,11 +1,15 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2861067.0",
     "coin": "BBS",
     "diffTarget": 120,
     "icon": "https://raw.githubusercontent.com/bbscoin/bbscoin.xyz/master/img/logos/logo.png",
-    "logo": "https://raw.githubusercontent.com/bbscoin/bbscoin.xyz/master/img/logos/logo.png",
-    "name": "BBS",
-    "repo": "https://github.com/bbscoin/bbscoin",
-    "website": "https://bbscoin.xyz/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2861067.0",
+        "discord": "https://discord.gg/SDTJQfK",
+        "reddit": "https://www.reddit.com/r/BBSCoin/",
+        "repo": "https://github.com/bbscoin/bbscoin",
+        "telegram": "https://t.me/bbscoin",
+        "website": "https://bbscoin.xyz/"
+    },
+    "name": "BBS"
 }

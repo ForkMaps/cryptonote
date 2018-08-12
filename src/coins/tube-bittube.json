@@ -1,11 +1,17 @@
 {
     "algorithm": "CryptoNight Heavy Saber",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2856278.0",
     "coin": "TUBE",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ipbc-dev/bittube-wallet-gui/master/images/bittubeIcon-trans84x84.png",
-    "name": "Bittube",
-    "repo": "https://github.com/ipbc-dev",
-    "website": "https://coin.bit.tube/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2856278.0",
+        "discord": "https://discord.gg/5uBQmBH",
+        "facebook": "https://www.facebook.com/pg/bit.tube.official",
+        "repo": "https://github.com/ipbc-dev",
+        "telegram": "https://t.me/ipbcenglish",
+        "twitter": "https://twitter.com/BitTubeApp",
+        "website": "https://coin.bit.tube/"
+    },
+    "name": "Bittube"
 }

@@ -1,11 +1,15 @@
 {
     "algorithm": "CryptoNight Lite v1",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4537801.0",
     "coin": "WRKZ",
     "diffTarget": 60,
     "forkedFrom": "trtl-turtlecoin",
     "icon": "https://github.com/wrkzdev/wrkzcoin-gui-wallet/blob/master/src/images/wrkzcoin.png?raw=true",
-    "name": "Wrkzcoin",
-    "repo": "https://github.com/wrkzdev/wrkzcoin",
-    "website": "https://www.wrkz.work/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4537801.0",
+        "discord": "https://discord.gg/GpHzURM",
+        "repo": "https://github.com/wrkzdev/wrkzcoin",
+        "twitter": "https://twitter.com/wrkzdev",
+        "website": "https://www.wrkz.work/"
+    },
+    "name": "Wrkzcoin"
 }

@@ -1,8 +1,16 @@
 {
     "algorithm": "CryptoNight MKT",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3019420",
     "coin": "MKT",
     "diffTarget": 90,
-    "name": "Marketcash",
-    "repo": "https://github.com/MarketCashME/marketcash"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/mkt-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3019420",
+        "facebook": "https://www.facebook.com/MarketCash",
+        "repo": "https://github.com/MarketCashME/marketcash",
+        "telegram": "https://t.me/marketcash_en",
+        "twitter": "https://twitter.com/MarketCashMKT",
+        "website": "https://marketcash.io/"
+    },
+    "name": "Marketcash"
 }

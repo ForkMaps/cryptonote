@@ -1,8 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2659368.0",
     "coin": "GEEM",
     "diffTarget": 120,
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/geem-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2659368.0",
+        "discord": "https://discordapp.com/?utm_source=Discord%20Widget&utm_medium=Logo",
+        "repo": "https://github.com/geemcoin/",
+        "twitter": "https://twitter.com/geem_io",
+        "website": "http://geem.io/"
+    },
     "name": "GEEM",
-    "repo": "https://github.com/geemcoin/"
+    "startDate": "2017-12-28"
 }

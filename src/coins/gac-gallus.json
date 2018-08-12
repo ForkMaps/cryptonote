@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight Heavy",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4315296.0",
-    "coin": "GAC",
-    "diffTarget": 240,
-    "name": "Gallus",
-    "repo": "https://github.com/projekgallus/galluscoin"
-}

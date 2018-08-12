@@ -1,8 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2946937.0",
     "coin": "VAY",
     "diffTarget": 120,
-    "name": "Valentine",
-    "repo": "https://github.com/valentinecoin/cryptonote"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/vay-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2946937.0",
+        "discord": "https://discord.gg/GA9cRqw",
+        "facebook": "https://www.facebook.com/pages/Mobirise/1616226671953247",
+        "repo": "https://github.com/valentinecoin/cryptonote",
+        "telegram": "https://t.me/valentinecoin",
+        "twitter": "https://twitter.com/valentine_coin",
+        "website": "https://www.valentinecoin.org/"
+    },
+    "name": "Valentine"
 }

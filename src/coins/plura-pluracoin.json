@@ -1,10 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3081442.0",
     "coin": "PLURA",
     "diffTarget": 120,
+    "forkedFrom": "krb-karbo",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/plura-icon.png",
-    "name": "Pluracoin",
-    "repo": "https://github.com/pluracoin/pluracoin",
-    "website": "https://pluracoin.org/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3081442.0",
+        "discord": "https://discord.gg/2jJ3RqB",
+        "facebook": "https://www.facebook.com/PluraCoin",
+        "reddit": "https://www.reddit.com/r/PluraCoin/",
+        "repo": "https://github.com/pluracoin/pluracoin",
+        "twitter": "https://twitter.com/pluracoin",
+        "website": "https://pluracoin.org/"
+    },
+    "name": "Pluracoin"
 }

@@ -1,11 +1,18 @@
 {
     "algorithm": "CryptoNight Heavy",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2881418.0",
     "coin": "QWC",
     "diffTarget": 120,
     "forkedFrom": ["krb-karbo", "xmr-monero", "xdn-digitalnote"],
     "icon": "https://github.com/qwertycoin-org/qwertycoin-gui/blob/master/src/images/qwertycoinz.png?raw=true",
-    "name": "Qwertycoin",
-    "repo": "https://github.com/qwertycoin-org/qwertycoin",
-    "website": "https://qwertycoin.org/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2881418.0",
+        "discord": "https://discordapp.com/invite/U5amwCs",
+        "facebook": "https://www.facebook.com/Qwertycoin-422694361519282/",
+        "reddit": "https://www.reddit.com/r/QWERTYCOIN/",
+        "repo": "https://github.com/qwertycoin-org/qwertycoin",
+        "telegram": "https://t.me/qwertycoin",
+        "twitter": "https://twitter.com/Qwertycoin_QWC",
+        "website": "https://qwertycoin.org/"
+    },
+    "name": "Qwertycoin"
 }

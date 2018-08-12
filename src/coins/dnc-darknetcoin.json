@@ -1,11 +1,15 @@
 {
     "algorithm": "Wild Keccak",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=818365",
     "coin": "DNC",
     "forkedFrom": "bbr-boolberry",
     "icon" : "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/dnc-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=818365",
+        "facebook": "https://www.facebook.com/DarkNetSpace",
+        "repo": "https://github.com/CryptoCoinLabs/darknetspace",
+        "twitter": "https://twitter.com/DarkNetCoin",
+        "website": "http://darknetspace.org/"
+    },
     "name": "DarkNetCoin",
-    "repo": "https://github.com/CryptoCoinLabs/darknetspace",
-    "startDate": "2014-10-13",
-    "website": "http://darknetspace.org/"
+    "startDate": "2014-10-13"
 }

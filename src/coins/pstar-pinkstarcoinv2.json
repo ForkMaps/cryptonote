@@ -1,9 +1,11 @@
 {
     "algorithm": "CryptoNight Lite v1",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2723196.0",
     "coin": "PSTAR",
     "diffTarget": 240,
     "forkedFrom": "trtl-turtlecoin",
-    "name": "PinkstarcoinV2",
-    "repo": "https://github.com/Jachi84/pinkstarcoin"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2723196.0",
+        "repo": "https://github.com/Jachi84/pinkstarcoin"
+    },
+    "name": "PinkstarcoinV2"
 }

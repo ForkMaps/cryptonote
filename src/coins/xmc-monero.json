@@ -1,11 +1,12 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=583449",
     "coin": "XMC",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xmc-icon.png",
-    "name": "Monero Classic",
-    "repo": "https://github.com/monero-classic",
-    "website": "https://monero.org/forks/"
+    "links": {
+        "repo": "https://github.com/monero-classic",
+        "website": "https://monero.org/forks/"
+    },
+    "name": "Monero Classic"
 }

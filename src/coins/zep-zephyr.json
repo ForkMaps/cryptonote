@@ -1,10 +1,14 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3756568",
     "coin": "ZEP",
     "diffTarget": 90,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/zephyr-protocol/zephyr-gui/master/Resources/icons/zephyr_icon_64.png",
-    "name": "Zephyr Protocol",
-    "repo": "https://github.com/zephyr-protocol"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3756568",
+        "discord": "https://discord.gg/GU85XVq",
+        "repo": "https://github.com/zephyr-protocol",
+        "twitter": "https://twitter.com/zephyr_protocol"
+    },
+    "name": "Zephyr Protocol"
 }

@@ -1,8 +1,18 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3276900.0",
     "coin": "INC",
     "diffTarget": 120,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/inc-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3276900.0",
+        "discord": "https://discordapp.com/invite/4acvEuG",
+        "reddit": "https://www.reddit.com/r/IncognitoCurrency/",
+        "repo": "https://github.com/incognito-currency/incognito",
+        "telegram": "https://t.me/joinchat/IorfKg-O17vdgH2c8qd2Sg",
+        "twitter": "https://twitter.com/IncognitoCrypto",
+        "website": "http://inc.ognito.org/"
+    },
     "name": "Incognito",
-    "repo": "https://github.com/incognito-currency/incognito"
+    "startDate": "2018-04-07"
 }

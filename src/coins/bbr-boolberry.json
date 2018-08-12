@@ -1,12 +1,15 @@
 {
     "algorithm": "Wild Keccak",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=577267.0",
     "coin": "BBR",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bbr-icon.png",
-    "logo": "https://raw.githubusercontent.com/cryptozoidberg/boolberry/master/resources/big_logo.png",
-    "name": "Boolberry",
-    "repo": "https://github.com/cryptozoidberg/boolberry/",
-    "website": "https://boolberry.com/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=577267.0",
+        "reddit": "http://www.reddit.com/r/boolberry/",
+        "repo": "https://github.com/cryptozoidberg/boolberry/",
+        "twitter": "http://twitter.com/boolberryBBR",
+        "website": "https://boolberry.com/"
+    },
+    "name": "Boolberry"
 }

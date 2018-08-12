@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2613592.0",
     "coin": "HCN",
     "diffTarget": 90,
-    "name": "Humanitary Coin",
-    "repo": "https://github.com/humanitarycoin/hcn"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/hcn-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2613592.0",
+        "discord": "https://discord.gg/v8WPEsF",
+        "facebook": "https://www.facebook.com/HumanitaryCoin-HCN-1424003797678030/",
+        "repo": "https://github.com/humanitarycoin/hcn",
+        "twitter": "https://twitter.com/humanitarycoin"
+    },
+    "name": "Humanitary Coin"
 }

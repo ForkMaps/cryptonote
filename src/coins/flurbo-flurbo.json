@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3119326",
     "coin": "Flurbo",
     "diffTarget": 120,
-    "name": "Flurbo",
-    "repo": "https://github.com/iMrPoopybutthole/flurbo"
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/flb-icon.png",
+    "forkedFrom": "xmr-monero",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3119326",
+        "discord": "https://discord.gg/D4RqCw3",
+        "repo": "https://github.com/iMrPoopybutthole/flurbo",
+        "twitter": "https://twitter.com/GetFlurbo",
+        "website": "http://flurbo.cc/"
+    },
+    "name": "Flurbo"
 }

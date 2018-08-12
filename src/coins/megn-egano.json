@@ -1,8 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2705359.0",
     "coin": "MEGN",
     "diffTarget": 120,
-    "name": "egano",
-    "repo": null
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/megn-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2705359.0",
+        "discord": "https://discord.gg/cfHsZ6p",
+        "facebook": "http://facebook.com/egano.net",
+        "repo": "https://github.com/s-projects/egano",
+        "telegram": "http://t.me/eganonet",
+        "twitter": "http://twitter.com/eganonet",
+        "website": "http://egano.net/"
+    },
+    "name": "egano"
 }

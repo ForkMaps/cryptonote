@@ -1,11 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2357930.0",
     "coin": "XUN",
     "diffTarget": 240,
     "forkedFrom": "xdn-digitalnote",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ultranote-icon.png",
-    "name": "Ultranote",
-    "repo": "https://github.com/xun-project/UltraNote",
-    "website": "https://ultranote.org"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2357930.0",
+        "discord": "https://discord.gg/Dhkjzz5",
+        "facebook": "https://www.facebook.com/Ultranotecoin/",
+        "reddit": "https://www.reddit.com/r/UltraNote/",
+        "repo": "https://github.com/xun-project/UltraNote",
+        "twitter": "https://twitter.com/Ultranotecoin",
+        "website": "https://ultranote.org"
+    },
+    "name": "Ultranote"
 }

@@ -1,11 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2643196",
     "coin": "EDL",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/edl-icon.png",
-    "name": "eDollar",
-    "repo": "https://github.com/edollar-project/edollar",
-    "website": "https://edollar.cash/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2643196",
+        "discord": "https://discord.gg/a7NXnmH",
+        "facebook": "https://www.facebook.com/edollar.cash",
+        "repo": "https://github.com/edollar-project/edollar",
+        "telegram": "https://t.me/joinchat/Fivc5kBsSOHzlxSPG8I9dA",
+        "twitter": "https://twitter.com/EdollarCash",
+        "website": "https://edollar.cash/"
+    },
+    "name": "eDollar"
 }

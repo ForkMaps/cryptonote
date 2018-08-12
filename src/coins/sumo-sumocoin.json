@@ -1,11 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1905086.0",
     "coin": "SUMO",
     "diffTarget": 240,
     "forkedFrom": "xmr-monero",
     "icon": "https://github.com/sumoprojects/SumoGUIWallet/blob/master/Resources/icons/sumokoin_icon_64.png?raw=true",
-    "name": "Sumocoin",
-    "repo": "https://github.com/sumoprojects/sumokoin",
-    "website": "https://www.sumokoin.org"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1905086.0",
+        "facebook": "https://www.facebook.com/Sumokoin",
+        "repo": "https://github.com/sumoprojects/sumokoin",
+        "telegram": "https://t.me/SumokoinOfficial",
+        "twitter": "https://twitter.com/Sumokoin",
+        "website": "https://www.sumokoin.org"
+    },
+    "name": "Sumocoin"
 }

@@ -1,8 +1,17 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4553663",
     "coin": "DPR",
     "diffTarget": 60,
-    "name": "Doppler",
-    "repo": "https://github.com/dopplerX"
+    "forkedFrom": "bxc-bitcedi",
+    "icon" : "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/dpr-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4553663",
+        "discord": "https://discord.gg/vB3DnCR",
+        "facebook": "https://www.facebook.com/groups/2092517704348395/",
+        "repo": "https://github.com/dopplerX",
+        "telegram": "https://t.me/dprcomm",
+        "twitter": "https://twitter.com/DopplerDpr",
+        "website": "https://dopplersite.com/"
+    },
+    "name": "Doppler"
 }

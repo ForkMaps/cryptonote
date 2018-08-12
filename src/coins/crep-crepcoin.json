@@ -1,12 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2638878.0",
     "coin": "CREP",
     "diffTarget": 240,
     "forkedFrom": "krb-karbo",
-    "icon": "https://crepcoin.org/wp-content/uploads/2018/07/logo.png",
-    "logo": "https://crepcoin.org/wp-content/uploads/2018/07/logo.png",
-    "name": "Crepcoin",
-    "repo": "https://github.com/crepcoin/crepcoin",
-    "website": "https://www.crepcoin.org"
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/crep-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2638878.0",
+        "discord": "https://discordapp.com/invite/qxbZMjX",
+        "repo": "https://github.com/crepcoin/crepcoin",
+        "telegram": "https://t.me/crepcoin",
+        "twitter": "https://twitter.com/crepcoin",
+        "website": "https://www.crepcoin.org"
+    },
+    "name": "Crepcoin"
 }

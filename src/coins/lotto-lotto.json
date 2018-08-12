@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight Fast",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4518300.0",
     "coin": "LOTTO",
     "diffTarget": 120,
-    "name": "Lotto",
-    "repo": "https://github.com/getlotto/lotto/releases"
+    "forkedFrom": "msr-masari",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/lotto-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4518300.0",
+        "discord": "https://discord.gg/Mtpynng",
+        "repo": "https://github.com/getlotto/lotto",
+        "twitter": "https://twitter.com/lotto_get",
+        "website": "https://getlotto.io/"
+    },
+    "name": "Lotto"
 }

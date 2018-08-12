@@ -1,8 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2289043.0",
     "coin": "UNA",
     "diffTarget": 90,
-    "name": "Unacoin",
-    "repo": "https://github.com/TheUnAProject/UnA"
+    "forkedFrom": "krb-karbo",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/una-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2289043.0",
+        "facebook": "https://www.facebook.com/unaprojectofficial",
+        "repo": "https://github.com/TheUnAProject/UnA",
+        "telegram": "https://t.me/joinchat/E_eRxxKflkPG-b5QXvGzVQ",
+        "twitter": "https://twitter.com/UnAProject",
+        "website": "https://www.unaproject.com/"
+    },
+    "name": "Unacoin"
 }

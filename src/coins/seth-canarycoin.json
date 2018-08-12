@@ -3,6 +3,9 @@
     "coin": "SETH",
     "forkedFrom": "trtl-turtlecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/canary-icon.png",
-    "name": "Canarycoin",
-    "repo": "https://github.com/54V4NT/canarycoin"
+    "links": {
+        "discord": "https://discord.gg/EbhC8eF",
+        "repo": "https://github.com/54V4NT/canarycoin"
+    },
+    "name": "Canarycoin"
 }

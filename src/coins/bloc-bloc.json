@@ -1,11 +1,16 @@
 {
     "algorithm": "CryptoNight Heavy",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4108831.0",
     "coin": "BLOC",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bloc-icon.png",
-    "name": "BLOC",
-    "repo": "https://github.com/furiousteam/BLOC",
-    "website": "https://bloc.money/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4108831.0",
+        "facebook": "https://www.facebook.com/Blocmoney-383098922176113",
+        "repo": "https://github.com/furiousteam/BLOC",
+        "telegram": "https://t.me/bloc_money_channel",
+        "twitter": "https://twitter.com/bloc_money",
+        "website": "https://bloc.money/"
+    },
+    "name": "BLOC"
 }

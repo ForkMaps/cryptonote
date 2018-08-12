@@ -1,11 +1,17 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2115188",
     "coin": "GRFT",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
     "icon": "https://github.com/graft-project/GraftMobile/blob/master/GraftMobileClient/resources/imgs/g-max.png?raw=true",
-    "name": "Graft",
-    "repo": "https://github.com/graft-project/GraftNetwork",
-    "website": "https://www.graft.network"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2115188",
+        "facebook": "https://www.facebook.com/Graft-460292407666720/",
+        "reddit": "https://www.reddit.com/r/Graft/",
+        "repo": "https://github.com/graft-project/GraftNetwork",
+        "telegram": "https://t.me/joinchat/EneBw0RALAOjkSL2mdt2Gw",
+        "twitter": "https://twitter.com/graftnetwork",
+        "website": "https://www.graft.network"
+    },
+    "name": "Graft"
 }

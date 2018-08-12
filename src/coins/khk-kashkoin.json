@@ -1,8 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4410872",
     "coin": "KHK",
     "diffTarget": 240,
-    "name": "Kashkoin",
-    "repo": "https://github.com/kashkoin-foundation/kashkoin"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/khk-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4410872",
+        "discord": "https://discord.gg/M58vsrK",
+        "repo": "https://github.com/kashkoin-foundation/kashkoin",
+        "telegram": "https://t.me/kashkoin",
+        "twitter": "https://twitter.com/Kashkoin_KHK/",
+        "website": "http://www.kashkoin.ml/"
+    },
+    "name": "Kashkoin"
 }

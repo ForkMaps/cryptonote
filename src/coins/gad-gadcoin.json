@@ -1,8 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3339476.0",
     "coin": "GAD",
     "diffTarget": 90,
-    "name": "Gadcoin",
-    "repo": "https://github.com/douglashipocreme/gadcoin-node"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/gad-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3339476.0",
+        "discord": "https://discord.gg/8SaGxYt",
+        "repo": "https://github.com/douglashipocreme",
+        "telegram": "https://t.me/joinchat/AvcT4kWdOmJRsDiZNZdnbg",
+        "twitter": "https://twitter.com/gadcoin",
+        "website": "https://www.gadcoin.com.br/"
+    },
+    "name": "Gadcoin"
 }

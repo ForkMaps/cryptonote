@@ -1,8 +1,10 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3199163",
     "coin": "SOLCASH",
     "diffTarget": 60,
-    "name": "Solcash",
-    "repo": "https://github.com/solcashorg/solcash"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3199163",
+        "repo": "https://github.com/solcashorg/solcash"
+    },
+    "name": "Solcash"
 }

@@ -1,11 +1,17 @@
 {
     "algorithm": "CryptoNight Heavy Alloy",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3002653.0",
     "coin": "XAO",
     "diffTarget": 180,
     "forkedFrom": "bcn-bytecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/alloy-icon.png",
-    "name": "Alloy",
-    "repo": "https://github.com/alloyproject/alloy",
-    "website": "https://alloyproject.org"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3002653.0",
+        "discord": "http://alloyproject.org/discord",
+        "reddit": "http://alloyproject.org/reddit",
+        "repo": "https://github.com/alloyproject/alloy",
+        "telegram": "http://alloyproject.org/telegram",
+        "twitter": "http://alloyproject.org/twitter",
+        "website": "https://alloyproject.org"
+    },
+    "name": "Alloy"
 }

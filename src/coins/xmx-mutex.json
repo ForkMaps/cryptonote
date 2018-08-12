@@ -1,8 +1,16 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": null,
     "coin": "XMX",
     "diffTarget": 60,
-    "name": "Mutex",
-    "repo": "https://github.com/MutexProject/mutex"
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xmx-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4027439.0",
+        "discord": "https://discord.gg/cK2Bang",
+        "reddit": "https://www.reddit.com/r/MutexProject",
+        "repo": "https://github.com/MutexProject/mutex",
+        "telegram": "https://t.me/joinchat/G-An1k9Wc9pzQYm4KVVphw",
+        "twitter": "https://twitter.com/mutexcrypto"
+    },
+    "name": "Mutex"
 }

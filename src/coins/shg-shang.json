@@ -1,8 +1,15 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2991596.0",
     "coin": "SHG",
     "diffTarget": 120,
-    "name": "Shang",
-    "repo": null
+    "forkedFrom": "xmr-monero",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/shg-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2991596.0",
+        "discord": "https://discord.gg/V7D3Zas",
+        "repo": "https://github.com/shangproject",
+        "twitter": "https://twitter.com/CryptoShang",
+        "website": "https://shangproject.github.io/"
+    },
+    "name": "Shang"
 }

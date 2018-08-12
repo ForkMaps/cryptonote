@@ -1,13 +1,14 @@
 {
     "algorithm": "CryptoNight Lite v1",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=641696.0",
     "coin": "AEON",
     "diffTarget": 240,
     "forkedFrom": "xmr-monero",
     "icon": "https://www.aeon.cash/img/aeon.png",
-    "logo": "https://www.aeon.cash/img/aeon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=641696.0",
+        "repo": "https://github.com/aeonix/aeon",
+        "website": "https://www.aeon.cash/"
+    },
     "name": "AEON",
-    "repo": "https://github.com/aeonix/aeon",
-    "startDate": "2014-06",
-    "website": "https://www.aeon.cash/"
+    "startDate": "2014-06"
 }

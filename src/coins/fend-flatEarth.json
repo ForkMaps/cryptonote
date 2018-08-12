@@ -3,6 +3,8 @@
     "coin": "FEND",
     "forkedFrom": "athx-athena",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/fend-icon.png",
-    "name": "Flat Earth Network Dividend",
-    "repo": "https://github.com/F-E-N-D/FEND"
+    "links": {
+        "repo": "https://github.com/F-E-N-D/FEND"
+    },
+    "name": "Flat Earth Network Dividend"
 }

@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight Heavy",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2788839.0",
-    "coin": "PYX",
-    "diffTarget": 60,
-    "name": "Pyrexcoin",
-    "repo": "https://github.com/pyrexcoin-project/pyrexcoin"
-}

@@ -1,11 +1,16 @@
 {
     "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3118732",
     "coin": "ELYA",
     "diffTarget": 60,
     "forkedFrom": "krb-karbo",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/elya-icon.png",
-    "name": "ELYA",
-    "repo": "https://github.com/elyacoin/elyacoin",
-    "website": "https://elya.io/"
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3118732",
+        "discord": "https://discord.gg/4HZ6EpV",
+        "facebook": "https://www.facebook.com/Elyatel-262609767156322/",
+        "repo": "https://github.com/elyacoin/elyacoin",
+        "telegram": "https://t.me/joinchat/FQ-mtA6wjkcHknAl-hz5zg",
+        "website": "https://elya.io/"
+    },
+    "name": "ELYA"
 }
