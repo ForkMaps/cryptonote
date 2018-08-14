@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight Fast",
     "coin": "CCX",
     "diffTarget": 120,
-    "forkedFrom": "msr-masari",
+    "forkedFrom": "xdn-digitalnote",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ccx-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4515873",

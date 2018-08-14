@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight",
     "coin": "PK",
     "diffTarget": 180,
-    "forkedFrom": "xdn-digitalnote",
+    "forkedFrom": "xry-royalties",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/pk-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3783719",
