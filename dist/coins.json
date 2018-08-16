@@ -4,7 +4,7 @@
 		"game2": "(Soon) Fortnite",
 		"coin": "Sajo8#2953",
 		"icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3d70969-78cf-4699-81aa-937aae7a7136-profile_image-300x300.png",
-		"forkedFrom": "streemer2",
+		"forkedFrom": "fortnite",
 		"links": {
 			"website": "https://twitch.tv/sajo8"
 		},
@@ -12,7 +12,6 @@
 	},
 	"fortnite": {
 		"icon": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fih0.redbubble.net%2Fimage.510462121.9409%2Fflat%2C800x800%2C070%2Cf.jpg&f=1",
-		"forkedFrom": "streemer2",
 		"links": {
 			"website": "https://fortnite.com"
 		},
@@ -22,6 +21,7 @@
 		"game": "rock paper scissors",
 		"coin": "streemer2#1234",
 		"icon": "https://raw.githubusercontent.com/turtlecoin/brand/master/logo/web/icon/turtlecoin_icon_color%402x.png",
+		"forkedFrom": "fortnite",
 		"links": {
 			"discord": "http://chat.turtlecoin.lol/",
 			"reddit": "https://www.reddit.com/r/TRTL/",
