@@ -17,8 +17,15 @@
 		"links": {
 			"discord": "http://chat.turtlecoin.lol/",
 			"reddit": "https://www.reddit.com/r/TRTL/",
-			"twitch": "https://turtlecoin.lol"
+			"website": "https://turtlecoin.lol"
 		},
 		"name": "streemer2"
+	}
+	"fortnite": {
+		"icon": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fih0.redbubble.net%2Fimage.510462121.9409%2Fflat%2C800x800%2C070%2Cf.jpg&f=1"
+		"links": {
+			"website": "https://fortnite.com"
+		},
+		"name": "Fortnite"
 	}
 }
