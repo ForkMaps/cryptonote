@@ -1,9 +1,9 @@
 {
     "algorithm": "CryptoNight v7",
-    "coin": "ITNS",
+    "coin": "LTHN",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
-    "icon": "https://github.com/valiant1x/intensecoinwallet/blob/master/images/appicons/256x256.png?raw=true",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/lthn-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2090765.0",
         "discord": "https://discord.gg/BWkvj5u",
@@ -12,7 +12,7 @@
         "repo": "https://github.com/valiant1x/intensecoin",
         "telegram": "https://t.me/officialintensecoin",
         "twitter": "https://twitter.com/intensecoin",
-        "website": "https://intensecoin.com"
+        "website": "https://intensecoin.com/2018/08/welcome-to-lethean/"
     },
-    "name": "Intensecoin"
+    "name": "Lethean"
 }
