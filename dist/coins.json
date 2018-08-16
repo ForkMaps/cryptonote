@@ -6,7 +6,7 @@
 		"icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3d70969-78cf-4699-81aa-937aae7a7136-profile_image-300x300.png",
 		"forkedFrom": "streemer2",
 		"links": {
-			"website": "https://twitch.tv/sajo8"
+			"twitch": "https://twitch.tv/sajo8"
 		},
 		"name": "Sajo8"
 	},
@@ -17,7 +17,7 @@
 		"links": {
 			"discord": "http://chat.turtlecoin.lol/",
 			"reddit": "https://www.reddit.com/r/TRTL/",
-			"website": "https://turtlecoin.lol"
+			"twitch": "https://turtlecoin.lol"
 		},
 		"name": "streemer2"
 	}
