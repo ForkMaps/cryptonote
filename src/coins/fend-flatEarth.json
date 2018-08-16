@@ -4,7 +4,10 @@
     "forkedFrom": "athx-athena",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/fend-icon.png",
     "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4898683",
+        "discord": "https://discord.gg/cqJKB9U",
         "repo": "https://github.com/F-E-N-D/FEND"
     },
-    "name": "Flat Earth Network Dividend"
+    "name": "Flat Earth Network Dividend",
+    "startDate": "2018-08-10"
 }
