@@ -16,7 +16,7 @@
 			"website": "https://fortnite.com"
 		},
 		"name": "Fortnite"
-	}
+	},
 	"streemer2": {
 		"game": "rock paper scissors",
 		"coin": "streemer2#1234",
@@ -28,5 +28,5 @@
 			"website": "https://turtlecoin.lol"
 		},
 		"name": "streemer2"
-	},
+	}
 }
