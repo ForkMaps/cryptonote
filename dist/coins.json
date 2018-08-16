@@ -10,6 +10,14 @@
 		},
 		"name": "Sajo8"
 	},
+	"fortnite": {
+		"icon": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fih0.redbubble.net%2Fimage.510462121.9409%2Fflat%2C800x800%2C070%2Cf.jpg&f=1",
+		"forkedFrom": "streemer2",
+		"links": {
+			"website": "https://fortnite.com"
+		},
+		"name": "Fortnite"
+	}
 	"streemer2": {
 		"game": "rock paper scissors",
 		"coin": "streemer2#1234",
@@ -21,11 +29,4 @@
 		},
 		"name": "streemer2"
 	},
-	"fortnite": {
-		"icon": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fih0.redbubble.net%2Fimage.510462121.9409%2Fflat%2C800x800%2C070%2Cf.jpg&f=1",
-		"links": {
-			"website": "https://fortnite.com"
-		},
-		"name": "Fortnite"
-	}
 }
