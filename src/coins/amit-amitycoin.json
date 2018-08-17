@@ -3,11 +3,11 @@
     "coin": "AMIT",
     "diffTarget": 90,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/Amitycoin/Amitycoin/master/docs/amity-logo.png",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/amity-logo.png",
     "name": "Amitycoin",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4913059",
         "discord": "https://discord.gg/k2jYvBT",
         "repo": "https://github.com/Amitycoin"
     }
-}       
+}
