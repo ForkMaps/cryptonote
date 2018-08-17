@@ -1,0 +1,13 @@
+{
+    "icon": "https://github.com/Amitycoin/Amitycoin/blob/master/docs/amity-logo.png",
+    "name": "Amitycoin",
+    "coin": "AMIT",
+    "forkedFrom": "bcn-bytecoin",
+    "algorithm": "CryptoNight v7",
+    "diffTarget": 90,
+    "links": {
+        "repo": "https://github.com/Amitycoin",
+        "discord": "https://discord.gg/k2jYvBT",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4913059"
+    }
+}       
