@@ -4,7 +4,11 @@
     "forkedFrom": "trtl-turtlecoin",
     "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/42-icon.png",
     "links": {
-        "repo": "https://github.com/FourtyTwo"
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4694014.0",
+        "reddit": "https://www.reddit.com/r/FourtyTwoCoin/",
+        "repo": "https://github.com/FourtyTwo",
+        "telegram": "http://t.me/fourtytwochat",
+        "website": "https://coin42.co/"
     },
     "name": "FourtyTwo"
 }
