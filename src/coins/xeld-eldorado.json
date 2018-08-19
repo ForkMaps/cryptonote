@@ -2,9 +2,13 @@
     "algorithm": "CryptoNight",
     "coin": "XELD",
     "diffTarget": 120,
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xeld-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3334828.0",
-        "repo": "https://github.com/eldoradocash/eldorado-node"
+        "discord": "https://discord.gg/vPHMTvK",
+        "repo": "https://github.com/eldoradocash/eldorado-node",
+        "twitter": "https://twitter.com/EldoradoCashCom"
     },
     "name": "Eldorado"
 }

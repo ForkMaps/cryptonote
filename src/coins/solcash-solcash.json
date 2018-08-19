@@ -2,6 +2,8 @@
     "algorithm": "CryptoNight v7",
     "coin": "SOLCASH",
     "diffTarget": 60,
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/solcash-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3199163",
         "repo": "https://github.com/solcashorg/solcash"
