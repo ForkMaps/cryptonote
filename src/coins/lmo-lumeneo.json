@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight Lite v1",
     "coin": "LMO",
     "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://raw.githubusercontent.com/lumeneo-network/lumeneo-network.github.io/master/assets/img/logo.png",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/lmo-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4832535",
         "discord": "https://discord.gg/bS8NqDR",
