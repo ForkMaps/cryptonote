@@ -2,9 +2,15 @@
     "algorithm": "CryptoNight Lite v1",
     "coin": "XME",
     "diffTarget": 120,
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xme-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2701367",
-        "repo": "https://github.com/spotme-main/"
+        "discord": "https://discord.gg/feX4tmb",
+        "facebook": "https://www.facebook.com/SPOTmeCoin/",
+        "repo": "https://github.com/spotme-main/",
+        "telegram": "https://t.me/joinchat/IIgahUrkG80xaUspnTjOsA",
+        "twitter": "https://twitter.com/SPOTmeCoin"
     },
     "name": "SPOTme Coin"
 }
