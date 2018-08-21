@@ -3,7 +3,7 @@
     "coin": "XLC",
     "diffTarget": 60,
     "forkedFrom": "xmr-monero",
-    "icon": "https://github.com/leviarcoin/leviarcoin-gui-wallet/blob/master/images/appicons/256x256.png?raw=true",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xlc-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1847322.0",
         "repo": "https://github.com/leviarcoin/leviarcoin-src",

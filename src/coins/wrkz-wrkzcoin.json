@@ -3,7 +3,7 @@
     "coin": "WRKZ",
     "diffTarget": 60,
     "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://github.com/wrkzdev/wrkzcoin-gui-wallet/blob/master/src/images/wrkzcoin.png?raw=true",
+    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/wrkz-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4537801.0",
         "discord": "https://discord.gg/GpHzURM",
