@@ -3,7 +3,7 @@
     "coin": "KNOW",
     "diffTarget": 60,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/know-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/know-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4385897",
         "repo": "https://github.com/knownero/knownero",

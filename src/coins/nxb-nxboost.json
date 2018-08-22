@@ -3,7 +3,7 @@
     "coin": "NXB",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/nxb-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nxb-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3064367",
         "discord": "https://discord.gg/jGM3FFG",

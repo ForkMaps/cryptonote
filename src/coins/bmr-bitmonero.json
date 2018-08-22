@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight",
     "coin": "BMR",
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bmr-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bmr-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=563821",
         "repo": "https://github.com/bitmonero-project/bitmonero",

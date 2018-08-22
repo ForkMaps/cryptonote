@@ -3,7 +3,7 @@
     "coin": "WOW",
     "diffTarget": 300,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/wow-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/wow-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3088712.0",
         "discord": "https://discord.gg/sQt74ep",

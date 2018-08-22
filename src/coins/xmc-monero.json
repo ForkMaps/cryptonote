@@ -3,7 +3,7 @@
     "coin": "XMC",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xmc-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xmc-icon.png",
     "links": {
         "repo": "https://github.com/monero-classic",
         "website": "https://monero.org/forks/"

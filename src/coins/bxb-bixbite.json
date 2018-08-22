@@ -3,7 +3,7 @@
     "coin": "BXB",
     "diffTarget": 100,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bxb-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bxb-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3443277",
         "discord": "https://discordapp.com/invite/y5Mphpz",

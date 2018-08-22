@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight",
     "coin": "Flurbo",
     "diffTarget": 120,
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/flb-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/flb-icon.png",
     "forkedFrom": "xmr-monero",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3119326",

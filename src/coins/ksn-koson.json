@@ -3,7 +3,7 @@
     "coin": "KSN",
     "diffTarget": 120,
     "forkedFrom": "sumo-sumocoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ksn-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ksn-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4667297.0",
         "repo": "https://github.com/kosonproject/koson/",

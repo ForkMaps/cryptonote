@@ -3,7 +3,7 @@
     "coin": "NOZ",
     "diffTarget": 140,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/noz-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/noz-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3276965.0",
         "discord": "https://discord.gg/nGvjhk6",

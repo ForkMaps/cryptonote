@@ -4,7 +4,7 @@
     "diffTarget": 90,
     "endDate": "2018-06-25",
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bbc-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bbc-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3039509",
         "repo": "https://github.com/BomberUA/BlueBerries"

@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight",
     "coin": "BITD",
     "forkedFrom": "krb-karbo",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bitd-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bitd-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1857875.0",
         "repo": "https://github.com/crypto-king/bitdirect",

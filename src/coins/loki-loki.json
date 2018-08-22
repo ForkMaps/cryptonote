@@ -3,7 +3,7 @@
     "coin": "LOKI",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/loki-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/loki-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3016125.0",
         "discord": "https://discord.gg/67GXfD6",

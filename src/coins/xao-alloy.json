@@ -3,7 +3,7 @@
     "coin": "XAO",
     "diffTarget": 180,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/alloy-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/alloy-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3002653.0",
         "discord": "http://alloyproject.org/discord",

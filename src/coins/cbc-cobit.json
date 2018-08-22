@@ -3,7 +3,7 @@
     "coin": "CBC",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/cbc-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cbc-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4547873.msg40952254#msg40952254",
         "discord": "https://discord.gg/e3XjhD5",

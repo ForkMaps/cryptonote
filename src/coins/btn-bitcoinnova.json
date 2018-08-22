@@ -3,7 +3,7 @@
     "coin": "BTN",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/btn-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/btn-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2309303.0",
         "discord": "https://discord.gg/8zQf7PD",

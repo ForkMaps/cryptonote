@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight",
     "coin": "BIM",
     "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bim-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bim-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4005575.0",
         "discord": "https://discord.gg/CVzETWP",

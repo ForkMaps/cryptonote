@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight v7",
     "coin": "BBS",
     "diffTarget": 120,
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bbs-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bbs-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2861067.0",
         "discord": "https://discord.gg/SDTJQfK",

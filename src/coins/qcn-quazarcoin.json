@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight",
     "coin": "QCN",
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/qcn-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/qcn-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=600658",
         "reddit": "http://www.reddit.com/r/QuazarCoin",

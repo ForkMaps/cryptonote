@@ -3,7 +3,7 @@
     "coin": "MTC",
     "diffTarget": 60,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/mtc-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mtc-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2232302.0",
         "discord": "https://discord.gg/4dTBUDQ",

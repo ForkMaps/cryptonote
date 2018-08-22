@@ -3,7 +3,7 @@
     "coin": "RYO",
     "diffTarget": 240,
     "forkedFrom": "sumo-sumocoin",
-    "icon" : "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ryo-icon.png",
+    "icon" : "https://storage.googleapis.com/forkmaps/images/cryptonote/ryo-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4413010",
         "discord": "https://discord.gg/ryD9bdb",

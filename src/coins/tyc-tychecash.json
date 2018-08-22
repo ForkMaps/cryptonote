@@ -3,7 +3,7 @@
     "coin": "TYC",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/tyc-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/tyc-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2910750.0",
         "discord": "https://discord.gg/hEjaXmR",

@@ -3,7 +3,7 @@
     "coin": "MEGN",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/megn-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/megn-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2705359.0",
         "discord": "https://discord.gg/cfHsZ6p",

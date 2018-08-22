@@ -3,7 +3,7 @@
     "coin": "ITA",
     "diffTarget": 180,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ita-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ita-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3122277",
         "discord": "https://discord.gg/nfwGjUD",

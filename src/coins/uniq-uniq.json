@@ -3,7 +3,7 @@
     "coin": "UNIQ",
     "diffTarget": 90,
     "forkedFrom": "luk-luka",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/uniq-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/uniq-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4415541",
         "repo": "https://github.com/uniqnetwork/uniq/",

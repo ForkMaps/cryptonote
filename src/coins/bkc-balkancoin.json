@@ -3,7 +3,7 @@
     "coin": "BKC",
     "diffTarget": 30,
     "forkedFrom": "krb-karbo",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bkc-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bkc-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2821734.0",
         "discord": "https://discord.gg/wFyjU8U",

@@ -3,7 +3,7 @@
     "coin": "CTL",
     "diffTarget": 240,
     "forkedFrom": "bxc-bitcedi",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ctl-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ctl-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4388936",
         "discord": "https://discord.gg/KYxht9c",

@@ -3,7 +3,7 @@
     "coin": "DEX",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/cadex-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cadex-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3271441",
         "discord": "https://discord.gg/MRrDnvN",

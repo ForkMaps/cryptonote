@@ -3,7 +3,7 @@
     "coin": "XPR",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xpr-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xpr-icon.png",
     "links": {
         "repo": "https://github.com/ProsusCorp/prosus",
         "website": "http://prosuscorp.com/"

@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight Lite v1",
     "coin": "WTIP",
     "diffTarget": 120,
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/worktips-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/worktips-icon.png",
     "forkedFrom": "trtl-turtlecoin",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3086019.0",

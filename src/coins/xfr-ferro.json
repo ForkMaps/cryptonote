@@ -3,7 +3,7 @@
     "coin": "XFR",
     "diffTarget": 60,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xfr-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xfr-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3203967",
         "repo": "https://github.com/Ferro-Crypto/Ferro-project/",

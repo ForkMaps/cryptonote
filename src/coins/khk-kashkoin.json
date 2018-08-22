@@ -3,7 +3,7 @@
     "coin": "KHK",
     "diffTarget": 240,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/khk-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/khk-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4410872",
         "discord": "https://discord.gg/M58vsrK",

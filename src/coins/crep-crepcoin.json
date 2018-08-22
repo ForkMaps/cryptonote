@@ -3,7 +3,7 @@
     "coin": "CREP",
     "diffTarget": 240,
     "forkedFrom": "krb-karbo",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/crep-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/crep-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2638878.0",
         "discord": "https://discordapp.com/invite/qxbZMjX",

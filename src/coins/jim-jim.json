@@ -3,7 +3,7 @@
     "coin": "JIM",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/jim-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/jim-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2788264.0",
         "repo": "https://github.com/Rob-Otman/JimCoinCLI",

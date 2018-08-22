@@ -3,7 +3,7 @@
     "coin": "ETN",
     "diffTarget": 60,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/etn-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/etn-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2065043.0",
         "facebook": "http://facebook.com/electroneum",

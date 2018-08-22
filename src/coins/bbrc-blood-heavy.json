@@ -3,7 +3,7 @@
     "coin": "BBRC",
     "diffTarget": 240,
     "forkedFrom": "loki-loki",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/blood-heavy-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/blood-heavy-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4627133.0",
         "facebook": "https://www.facebook.com/bbrcoin",

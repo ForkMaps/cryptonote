@@ -3,7 +3,7 @@
     "coin": "MZT",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/mzt-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mzt-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4445339",
         "discord": "https://discord.gg/tzKSVTX",

@@ -3,7 +3,7 @@
     "coin": "XRY",
     "diffTarget": 120,
     "forkedFrom": "bxc-bitcedi",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xry-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xry-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2046563",
         "repo": "https://github.com/Vetro7/RoyaltiesCLI",

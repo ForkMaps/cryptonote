@@ -3,7 +3,7 @@
     "coin": "FNO",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/fonero-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fonero-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3116102",
         "discord": "https://discord.gg/AUc79Gk",

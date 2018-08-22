@@ -3,7 +3,7 @@
     "coin": "BUZ",
     "diffTarget": 42,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/buz-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/buz-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4557266",
         "discord": "https://discord.gg/aSChFhA",

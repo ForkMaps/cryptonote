@@ -3,7 +3,7 @@
     "coin": "BBR",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bbr-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bbr-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=577267.0",
         "reddit": "http://www.reddit.com/r/boolberry/",

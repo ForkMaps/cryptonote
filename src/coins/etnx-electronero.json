@@ -3,7 +3,7 @@
     "coin": "ETNX",
     "diffTarget": 60,
     "forkedFrom": "etn-electroneum",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/etnx-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/etnx-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3373837.0",
         "discord": "https://discord.gg/Msy85Uz",

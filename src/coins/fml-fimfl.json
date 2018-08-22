@@ -3,7 +3,7 @@
     "coin": "FML",
     "diffTarget": 60,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/fml-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fml-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4621611",
         "facebook": "https://www.facebook.com/FimflCoin/",

@@ -3,7 +3,7 @@
     "coin": "MAP",
     "diffTarget": 60,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/map-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/map-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3197995.0",
         "discord": "https://discord.gg/z5BdQYe",

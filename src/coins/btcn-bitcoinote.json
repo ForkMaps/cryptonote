@@ -3,7 +3,7 @@
     "coin": "BTCN",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/btcn-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/btcn-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2660296",
         "reddit": "https://www.reddit.com/user/bitcoinote",

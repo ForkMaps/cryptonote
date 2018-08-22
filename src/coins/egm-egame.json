@@ -3,7 +3,7 @@
     "coin": "EGM",
     "diffTarget": 240,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/egm-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/egm-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4458111.0",
         "discord": "http://discord.gg/EmGDEQJ",

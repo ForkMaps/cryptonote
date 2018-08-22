@@ -3,7 +3,7 @@
     "coin": "RTO",
     "diffTarget": 90,
     "forkedFrom": "krb-karbo",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/arto-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/arto-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2932583.0",
         "discord": "https://discord.gg/EUMzNPx",

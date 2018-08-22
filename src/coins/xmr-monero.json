@@ -3,7 +3,7 @@
     "coin": "XMR",
     "diffTarget": 120,
     "forkedFrom": ["bcn-bytecoin", "bmr-bitmonero"],
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/monero-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/monero-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=583449.0",
         "reddit": "https://reddit.com/r/monero",

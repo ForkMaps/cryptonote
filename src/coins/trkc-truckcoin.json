@@ -3,7 +3,7 @@
     "coin": "TRKC",
     "diffTarget": 240,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/trkc-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/trkc-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2257104.0",
         "facebook": "https://www.facebook.com/Truckcoinico/",

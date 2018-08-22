@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight Heavy",
     "coin": "XVV",
     "forkedFrom": "sumo-sumocoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xvv-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xvv-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4872144",
         "discord": "https://discord.gg/baz8da3",

@@ -3,7 +3,7 @@
     "coin": "GRFT",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/grft-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/grft-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2115188",
         "facebook": "https://www.facebook.com/Graft-460292407666720/",

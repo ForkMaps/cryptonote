@@ -3,7 +3,7 @@
     "coin": "NBR",
     "diffTarget": 240,
     "forkedFrom": "krb-karbo",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/nbr-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nbr-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2912866.0",
         "facebook": "https://www.facebook.com/niobio.cash",

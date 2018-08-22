@@ -3,7 +3,7 @@
     "coin": "NUTU",
     "diffTarget": 240,
     "forkedFrom": "xdn-digitalnote",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/nutu-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nutu-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4357466.0",
         "facebook": "https://www.facebook.com/nutucoin/",

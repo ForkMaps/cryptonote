@@ -3,7 +3,7 @@
     "coin": "ZBK",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/zbucks-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/zbucks-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4625226.0",
         "discord": "https://discordapp.com/invite/pfZ3WPD",

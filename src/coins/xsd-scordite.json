@@ -3,7 +3,7 @@
     "coin": "XSD",
     "diffTarget": 60,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xsd-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xsd-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4621537.0",
         "repo": "https://github.com/scordite/scordite",

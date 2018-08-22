@@ -3,7 +3,7 @@
     "coin": "SPES",
     "diffTarget": 100,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/spes-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/spes-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2870436.0",
         "discord": "https://discord.gg/TxJtH5F",

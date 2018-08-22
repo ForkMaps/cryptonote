@@ -3,7 +3,7 @@
     "coin": "NCP",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ncp-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ncp-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3072672",
         "discord": "https://discord.gg/fMUGjcq",

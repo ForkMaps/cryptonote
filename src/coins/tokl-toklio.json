@@ -3,7 +3,7 @@
     "coin": "TOKL",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/tokl-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/tokl-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4552543.0",
         "discord": "https://discordapp.com/invite/9GdqGdG",

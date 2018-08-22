@@ -2,7 +2,7 @@
     "algorithm": "Wild Keccak",
     "coin": "DNC",
     "forkedFrom": "bbr-boolberry",
-    "icon" : "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/dnc-icon.png",
+    "icon" : "https://storage.googleapis.com/forkmaps/images/cryptonote/dnc-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=818365",
         "facebook": "https://www.facebook.com/DarkNetSpace",

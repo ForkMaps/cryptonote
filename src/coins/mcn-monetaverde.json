@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight",
     "coin": "MCN",
     "forkedFrom": "fcn-fantomcoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/mcn-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mcn-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=657820.0",
         "reddit": "https://www.reddit.com/r/MonetaVerde",

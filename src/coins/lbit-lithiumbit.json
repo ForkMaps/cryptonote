@@ -3,7 +3,7 @@
     "coin": "LBIT",
     "diffTarget": 180,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/lbit-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lbit-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3318012",
         "facebook": "http://www.facebook.com/LithiumBit",

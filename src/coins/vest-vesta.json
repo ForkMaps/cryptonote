@@ -3,7 +3,7 @@
     "coin": "VEST",
     "diffTarget": 60,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/vest-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/vest-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2939250.0",
         "discord": "https://discord.gg/zEb2nVP",

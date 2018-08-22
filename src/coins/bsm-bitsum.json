@@ -3,7 +3,7 @@
     "coin": "BSM",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bitsum-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bitsum-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2459792.0",
         "discord": "https://discord.gg/49shV8",

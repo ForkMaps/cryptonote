@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight Lite v1",
     "coin": "FEND",
     "forkedFrom": "athx-athena",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/fend-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fend-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4898683",
         "discord": "https://discord.gg/cqJKB9U",

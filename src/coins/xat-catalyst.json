@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight v7",
     "coin": "XAT",
     "diffTarget": 120,
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xat-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xat-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4485387",
         "discord": "https://discord.gg/K8WR9FC",

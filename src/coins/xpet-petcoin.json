@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight Lite v1",
     "coin": "XPET",
     "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xpet-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xpet-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4820261.0",
         "discord": "https://discord.gg/XEN8rCe",

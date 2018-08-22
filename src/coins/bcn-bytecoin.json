@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight",
     "coin": "BCN",
     "diffTarget": 120,
-    "icon": "https://raw.githubusercontent.com/bcndev/bytecoin-gui/master/src/images/bytecoin.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bytecoin.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=512747.0",
         "reddit": "http://www.reddit.com/r/BytecoinBCN/",

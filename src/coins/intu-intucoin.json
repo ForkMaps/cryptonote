@@ -3,7 +3,7 @@
     "coin": "INTU",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/intu-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/intu-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3394028.0",
         "discord": "https://discord.gg/QG9aGwU",

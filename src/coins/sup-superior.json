@@ -3,7 +3,7 @@
     "coin": "SUP",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/sup-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/sup-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2088169.0",
         "facebook": "https://www.facebook.com/TheSuperiorCoin",

@@ -3,7 +3,7 @@
     "coin": "ARQ",
     "diffTarget": 240,
     "forkedFrom": "xmr-monero",
-    "icon" : "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/arqma-icon-fixed.png",
+    "icon" : "https://storage.googleapis.com/forkmaps/images/cryptonote/arqma-icon-fixed.png",
     "links": {
         "discord": "https://discord.gg/s9BQpJT",
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4474605",

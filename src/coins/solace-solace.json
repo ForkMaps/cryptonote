@@ -3,7 +3,7 @@
     "coin": "SOLACE",
     "diffTarget": 60,
     "forkedFrom": "sumo-sumocoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/solace-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/solace-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3297659.0",
         "discord": "https://discord.gg/S7fVgc5",

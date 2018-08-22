@@ -3,7 +3,7 @@
     "coin": "PK",
     "diffTarget": 180,
     "forkedFrom": "xry-royalties",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/pk-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/pk-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3783719",
         "discord": "https://discord.gg/Yk3yRJh",

@@ -7,7 +7,7 @@
         "msr-masari",
         "xmr-monero"
     ],
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xtl-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xtl-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2813261.0",
         "discord": "https://discord.gg/QfCWRfx",

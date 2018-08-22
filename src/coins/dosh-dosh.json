@@ -3,7 +3,7 @@
     "coin": "DOSH",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon" : "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/dosh-icon.png",
+    "icon" : "https://storage.googleapis.com/forkmaps/images/cryptonote/dosh-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2958573.0",
         "discord": "https://discord.gg/P396r23",

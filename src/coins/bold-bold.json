@@ -3,7 +3,7 @@
     "coin": "BOLD",
     "diffTarget": 90,
     "forkedFrom": "luk-luka",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/bold-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bold-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4587224",
         "discord": "https://discord.gg/BeytU3f",

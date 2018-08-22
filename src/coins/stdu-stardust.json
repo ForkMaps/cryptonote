@@ -3,7 +3,7 @@
     "coin": "STDU",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/stdu-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/stdu-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4485922.0",
         "discord": "https://discord.gg/6XZ5f6C",

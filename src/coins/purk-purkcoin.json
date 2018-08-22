@@ -2,7 +2,7 @@
     "algorithm": "Wild Keccak",
     "coin": "PURK",
     "forkedFrom": "bbr-boolberry",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/purk-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/purk-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3213127",
         "discord": "https://discord.gg/cqmSrfz",

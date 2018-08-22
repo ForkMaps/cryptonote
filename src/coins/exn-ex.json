@@ -3,7 +3,7 @@
     "coin": "EXN",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/exn-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/exn-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4410584",
         "discord": "https://discord.gg/C2cM26f",

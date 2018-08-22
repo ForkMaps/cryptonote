@@ -3,7 +3,7 @@
     "coin": "XUN",
     "diffTarget": 240,
     "forkedFrom": "xdn-digitalnote",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/ultranote-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ultranote-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2357930.0",
         "discord": "https://discord.gg/Dhkjzz5",

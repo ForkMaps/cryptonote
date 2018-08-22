@@ -3,7 +3,7 @@
     "coin": "FEST",
     "diffTarget": 60,
     "forkedFrom": "pars-parsicoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/fest-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fest-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3683049.0",
         "discord": "https://discord.gg/4gcTyGH",

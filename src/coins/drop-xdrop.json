@@ -3,7 +3,7 @@
     "coin": "DROP",
     "diffTarget": 120,
     "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/xdrop-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xdrop-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4556718.0",
         "discord": "https://discord.gg/qMNag24",

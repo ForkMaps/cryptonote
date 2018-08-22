@@ -3,7 +3,7 @@
     "coin": "X12",
     "diffTarget": 300,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/x12-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/x12-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4414415.0",
         "repo": "https://github.com/x12project/x12-core",

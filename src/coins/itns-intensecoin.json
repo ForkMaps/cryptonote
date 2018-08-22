@@ -3,7 +3,7 @@
     "coin": "LTHN",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/lthn-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lthn-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2090765.0",
         "discord": "https://discord.gg/BWkvj5u",

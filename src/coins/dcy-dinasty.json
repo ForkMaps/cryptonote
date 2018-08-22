@@ -3,7 +3,7 @@
     "coin": "DCY",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/dinastycoin-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/dinastycoin-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3069548.0",
         "discord": "https://discord.gg/T4vQQ8T/",

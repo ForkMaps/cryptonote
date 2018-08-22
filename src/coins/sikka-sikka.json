@@ -3,7 +3,7 @@
     "coin": "SIKKA",
     "diffTarget": 120,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/sikka-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/sikka-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2197967.0",
         "facebook": "http://getsikka.org/#",

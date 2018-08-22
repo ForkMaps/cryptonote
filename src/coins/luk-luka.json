@@ -3,7 +3,7 @@
     "coin": "LUK",
     "diffTarget": 90,
     "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/luka-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/luka-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2595241.0",
         "facebook": "https://www.facebook.com/cryptoluka",
