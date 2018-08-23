@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight Lite v1",
     "coin": "42",
     "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/42-icon.png",
+    "icon": "https://forkmaps.github.io/cryptonote/dist/images/42-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4694014.0",
         "reddit": "https://www.reddit.com/r/FourtyTwoCoin/",
