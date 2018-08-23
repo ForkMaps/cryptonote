@@ -52,7 +52,7 @@ Use this JSON template
 
 ### Images
 
-The easiest way to add a coin icon is to add it to the `src/images` folder, and then reference in that coin's JSON file with `"icon": "https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/images/COIN_ICON_NAME.png"`. 
+The easiest way to add a coin icon is to add it to the `src/images` folder, and then reference in that coin's JSON file with `"icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/COIN_ICON_NAME.png"`. 
 
 If you want the icon to look good on the site, please use a quality, cropped image (meaning, no padding around it) with a transparent background, and a reasonable file size.
 
