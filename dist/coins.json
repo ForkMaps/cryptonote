@@ -9,6 +9,18 @@
 		},
 		"name": "Sajo8"
 	},
+	"gibuya": {
+		"game": "Heroes of the Storm",
+		"game2": "Minecraft",
+		"game3": "Overwatch",
+		"game4": "Dead by Daylight",
+		"coin": "Gibuya#9591",
+		"icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/0db55da2-d4b4-4617-bd2b-c7eadd661115-profile_image-70x70.png",
+		"links": {
+			"website": "https://www.twitch.tv/gibuya"
+		},
+		"name": "Gibuya"
+	},
 	"turt-troubl": {
 		"icon": "https://i2.wp.com/gigatank3000.com/wp-content/uploads/2018/01/TurtleCoinLogo.png?w=1140",
 		"forkedFrom": [
