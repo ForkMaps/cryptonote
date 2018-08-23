@@ -12,7 +12,6 @@ const gulp = require('gulp'),
 
 
 const dir = {
-    dev: 'dev',
     dist: 'dist',
     src: 'src'
 };
@@ -29,12 +28,6 @@ gulp.task('combine-coins', function () {
     .pipe(gulp.dest(outputDir));
 });
 
-// Copy coin images.
-gulp.task('copy-images', function () {
-  return gulp.src(dir.src + '/images/**/*', {base: dir.src})
-    .pipe(gulp.dest(outputDir));
-});
-
 // Cleanup task.
 gulp.task('clean', function (cb) {
   return del([outputDir], {force: true}, cb);
@@ -44,21 +37,9 @@ gulp.task('clean', function (cb) {
 gulp.task('build', function (cb) {
     runSequence(
         'clean',
-        ['combine-coins', 'copy-images'],
+        ['combine-coins'],
         cb
     );
-});
-
-// Prod
-gulp.task('build-prod', function (cb) {
-    outputDir = dir.dist;
-    runSequence('build', cb);
-});
-
-// Staging
-gulp.task('build-dev', function (cb) {
-    outputDir = dir.dev;
-    runSequence('build', cb);
 });
 
 // Default task
