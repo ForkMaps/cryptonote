@@ -48,7 +48,7 @@ Use this JSON template
 }
 ```
 
-**Note on forkedFrom:** If the project came from [cryptonotefoundation](https://github.com/cryptonotefoundation/cryptonote) or [forknote](http://forknote.net/create/#/), just use `bcn-bytecoin` for now.  I plan to credit/differentiate those at some point.  You could add a property like `"cnReference": true` or `"forknote": true` or something like that so I don't miss it later.
+**Note on forkedFrom:** If the project came from [cryptonotefoundation](https://github.com/cryptonotefoundation/cryptonote) or [forknote](http://forknote.net/create/#/), use `"forkedFrom": "bcn-bytecoin"`.
 
 ### Images
 
