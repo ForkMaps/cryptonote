@@ -40,5 +40,46 @@
 			"website": "https://fortnite.com"
 		},
 		"name": "Fortnite"
+	},
+	"heroesofthestorm": {
+		"icon": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.legitreviews.com%2Fwp-content%2Fuploads%2F2014%2F11%2FHeroes-Of-the-Storm-Logo.jpg&f=1",
+		"forkedFrom": [
+			"gibuya"
+		],
+		"links": {
+			"website": "https://heroesofthestorm.com"
+		},
+		"name": "Heroes of the Storm"
+	},
+	"minecraft": {
+		"icon": "https://proxy.duckduckgo.com/iur/?f=1&image_host=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2F736x%2F3e%2Fce%2F2a%2F3ece2a1e5a5e5f430f5a530ba1104a14.jpg&u=https://i.pinimg.com/736x/3e/ce/2a/3ece2a1e5a5e5f430f5a530ba1104a14.jpg",
+		"forkedFrom": [
+			"gibuya"
+		],
+		"links": {
+			"website": "https://minecraft.net"
+		},
+		"name": "Minecraft"
+	},
+	"overwatch": {
+		"icon": "https://proxy.duckduckgo.com/iur/?f=1&image_host=http%3A%2F%2Fwiki.gamedetectives.net%2Fimages%2Fb%2Fbf%2FOverwatch_logo.jpg&u=https://wiki.gamedetectives.net/images/b/bf/Overwatch_logo.jpg",
+		"forkedFrom": [
+			"gibuya"
+		],
+		"links": {
+			"website": "https://playoverwatch.com"
+		},
+		"name": "Overwatch"
+	},
+	"deadbydaylight": {
+		"icon": "https://proxy.duckduckgo.com/iur/?f=1&image_host=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2Foriginals%2Fc2%2F26%2F70%2Fc226703be9c534fd960290e3d61dd70e.png&u=https://i.pinimg.com/originals/c2/26/70/c226703be9c534fd960290e3d61dd70e.png",
+		"forkedFrom": [
+			"gibuya"
+		],
+		"links": {
+			"website": "https://www.deadbydaylight.com"
+		},
+		"name": "Dead by Daylight"
 	}
+		
 }
