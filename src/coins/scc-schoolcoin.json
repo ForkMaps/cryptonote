@@ -2,11 +2,11 @@
     "algorithm": "CryptoNight Lite v1",
     "coin": "SCC",
     "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/SCC-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/scc-icon.png",
     "links": {
         "discord": "https://discord.gg/hrdBAYv",
         "repo": "https://github.com/tgroh007/SchoolCoin",
-	"website": "https://schoolcoin.site"
+        "website": "https://schoolcoin.site"
     },
     "name": "SchoolCoin"
 }
