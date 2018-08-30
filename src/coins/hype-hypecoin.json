@@ -1,5 +1,5 @@
 {
-    "algorithm": "CryptoNight",
+    "algorithm": "CryptoNight Lite v1",
     "coin": "HYPE",
     "diffTarget": 30,
     "forkedFrom": "bcn-bytecoin",
@@ -8,7 +8,8 @@
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4541646",
         "discord": "https://discord.gg/RPTeFK9",
         "repo": "https://github.com/HazeDevelopment/HypeCoin",
-        "website": "http://hypecoin.foundation/"
+        "website": "http://hypecoin.foundation/",
+        "titter": "https://twitter.com/HypeCoinOffici1"
     },
     "name": "HypeCoin",
     "startDate": "2018-06-10"
