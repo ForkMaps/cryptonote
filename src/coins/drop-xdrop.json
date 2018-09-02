@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight v7",
     "coin": "DROP",
     "diffTarget": 120,
-    "forkedFrom": "trtl-turtlecoin",
+    "forkedFrom": ["xdn-digitalnote", "trtl-turtlecoin"],
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xdrop-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4556718.0",
