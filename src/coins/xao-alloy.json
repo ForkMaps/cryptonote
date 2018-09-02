@@ -1,5 +1,5 @@
 {
-    "algorithm": "CryptoNight Heavy Alloy",
+    "algorithm": "CryptoNight Heavy XAO",
     "coin": "XAO",
     "diffTarget": 180,
     "forkedFrom": "bcn-bytecoin",
