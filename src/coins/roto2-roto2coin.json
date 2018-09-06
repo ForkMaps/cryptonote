@@ -1,0 +1,12 @@
+{
+    "algorithm": "CryptoNight Lite v1",
+    "coin": "ROTO2",
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/roto2-icon.png",
+    "links": {
+        "discord": "https://discord.gg/3qckWNg",
+        "repo": "https://github.com/Roto2coin/Roto2coin-project",
+        "telegram": "https://t.me/joinchat/GvlkOQsC7uNMllzzyIkbew"
+    },
+    "name": "Roto2coin"
+}

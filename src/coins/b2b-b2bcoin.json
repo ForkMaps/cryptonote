@@ -2,6 +2,7 @@
     "algorithm": "CryptoNight",
     "coin": "B2B",
     "diffTarget": 120,
+    "forkedFrom": "bcn-bytecoin",
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/b2bcoin-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2098163.0",

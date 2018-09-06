@@ -2,6 +2,7 @@
     "algorithm": "CryptoNight Lite v1",
     "coin": "TVVC",
     "diffTarget": 60,
+    "forkedFrom": "bcn-bytecoin",
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/tvvc-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4411116.0",

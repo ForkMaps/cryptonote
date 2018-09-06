@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight Heavy",
+    "coin": "RMX",
+    "forkedFrom": "xmr-monero",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/rmx-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4978922.0",
+        "discord": "https://discord.gg/dxWkpGX",
+        "reddit": "https://www.reddit.com/r/remixcoin",
+        "repo": "https://gitlab.com/a3rk",
+        "twitter": "https://twitter.com/RemixCoin",
+        "website": "https://remixcoin.io/"
+    },
+    "name": "Remix",
+    "startDate": "2018-08-30"
+}

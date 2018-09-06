@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "BIP",
+    "diffTarget": 120,
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bip-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1965524.0",
+        "repo": "https://github.com/BEASTLICK-INTERNET-POLICY-COMMISSION/bipcoin",
+        "twitter": "https://twitter.com/BipCoinOfficial",
+        "website": "https://bipcoin.org/"
+    },
+    "maxSupply": "18446744",
+    "name": "BipCoin",
+    "startDate": "2016-08-20"
+}
