@@ -5,9 +5,11 @@
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/schoolcoin-icon.png",
     "links": {
         "discord": "https://discordapp.com/invite/WwqXG5b",
-        "repo": "https://github.com/tgroh007/SchoolCoin",
-        "telegram": "https://t.me/schoolcoinproject",
-        "website": "https://schoolcoin.site"
+        "repo": "https://github.com/school-coin/SchoolCoin",
+	"website": "https://schoolcoin.lol",
+	 "telegram": "https://t.me/schoolcoinproject",
+      
     },
     "name": "SchoolCoin"
 }
+
