@@ -1,5 +1,5 @@
 {
-    "algorithm": "CryptoNight Heavy Saber",
+    "algorithm": "CryptoNight Saber",
     "coin": "TUBE",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",

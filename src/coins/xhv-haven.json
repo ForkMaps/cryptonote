@@ -1,5 +1,5 @@
 {
-    "algorithm": "CryptoNight Heavy Haven",
+    "algorithm": "CryptoNight Haven",
     "coin": "XHV",
     "diffTarget": 120,
     "forkedFrom": "xmr-monero",

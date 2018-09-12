@@ -6,8 +6,9 @@
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/amity-logo.png",
     "name": "Amitycoin",
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4913059",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4971212",
         "discord": "https://discord.gg/k2jYvBT",
-        "repo": "https://github.com/Amitycoin"
+        "repo": "https://github.com/Amity-Core",
+        "website": "https://amity.netlify.com/"
     }
 }

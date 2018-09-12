@@ -2,6 +2,7 @@
     "algorithm": "CryptoNight v7",
     "coin": "BBS",
     "diffTarget": 120,
+    "forkedFrom": "bcn-bytecoin",
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bbs-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2861067.0",
@@ -11,5 +12,5 @@
         "telegram": "https://t.me/bbscoin",
         "website": "https://bbscoin.xyz/"
     },
-    "name": "BBS"
+    "name": "BBSCoin"
 }
