@@ -4,7 +4,11 @@
     "forkedFrom": "trtl-turtlecoin",
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xaria-icon.png",
     "links": {
-        "repo": "https://github.com/xaria-coin/"
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4980159.0",
+        "discord": "https://discord.gg/kDmqsZT",
+        "repo": "https://github.com/xaria-coin/",
+        "telegram": "http://t.me/xariacoin",
+        "twitter": "https://twitter.com/xaria_coin"
     },
     "name": "Xaria"
 }

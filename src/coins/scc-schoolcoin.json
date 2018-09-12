@@ -6,13 +6,9 @@
     "links": {
         "discord": "https://discordapp.com/invite/WwqXG5b",
         "repo": "https://github.com/schoo-coin/SchoolCoin",
-<<<<<<< HEAD
 	"website": "https://schoolcoin.lol",
 	"telegram": "https://t.me/schoolcoinproject"
-=======
-	 "telegram": "https://t.me/schoolcoinproject",
-	 "website": "https://schoolcoin.site" 
->>>>>>> 5528dae1abd851bf6fd3dd89ac83aa3c3e8c26a6
+
     },
     "name": "SchoolCoin"
 }
