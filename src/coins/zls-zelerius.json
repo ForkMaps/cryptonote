@@ -1,0 +1,12 @@
+{
+    "algorithm": "CryptoNight Lite v1",
+    "coin": "ZLS",
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/zls-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5028909.0",
+        "repo": "https://github.com/zelerius",
+        "website": "https://zelerius.org/"
+    },
+    "name": "Zelerius"
+}
