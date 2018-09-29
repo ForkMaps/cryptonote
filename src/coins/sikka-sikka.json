@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "SIKKA",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/sikka-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "SIKKA", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/sikka-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2197967.0",
-        "facebook": "http://getsikka.org/#",
-        "reddit": "https://www.reddit.com/r/getsikka/",
-        "repo": "https://github.com/Sikka-Pay/Sikka",
-        "twitter": "https://twitter.com/getsikka",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2197967.0", 
+        "facebook": "http://getsikka.org/#", 
+        "reddit": "https://www.reddit.com/r/getsikka/", 
+        "repo": "https://github.com/Sikka-Pay/Sikka", 
+        "twitter": "https://twitter.com/getsikka", 
         "website": "http://getsikka.org/"
-    },
-    "name": "Sikka"
+    }, 
+    "name": "Sikka", 
+    "startDate": "2017-09-03 00:14:24"
 }

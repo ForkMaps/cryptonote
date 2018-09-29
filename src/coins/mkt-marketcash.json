@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight MKT",
-    "coin": "MKT",
-    "diffTarget": 90,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mkt-icon.png",
+    "algorithm": "CryptoNight MKT", 
+    "coin": "MKT", 
+    "diffTarget": 90, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mkt-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3019420",
-        "facebook": "https://www.facebook.com/MarketCash",
-        "repo": "https://github.com/MarketCashME/marketcash",
-        "telegram": "https://t.me/marketcash_en",
-        "twitter": "https://twitter.com/MarketCashMKT",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3019420", 
+        "facebook": "https://www.facebook.com/MarketCash", 
+        "repo": "https://github.com/MarketCashME/marketcash", 
+        "telegram": "https://t.me/marketcash_en", 
+        "twitter": "https://twitter.com/MarketCashMKT", 
         "website": "https://marketcash.io/"
-    },
-    "name": "Marketcash"
+    }, 
+    "name": "Marketcash", 
+    "startDate": "2018-02-25 18:30:19"
 }

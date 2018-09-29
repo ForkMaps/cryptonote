@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "NAZA",
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/naza-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "NAZA", 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/naza-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4582673.0",
-        "facebook": "https://www.facebook.com/jacoby.adam",
-        "repo": "https://github.com/Naza-Project",
-        "telegram": "https://t.me/nazacoin",
-        "twitter": "https://twitter.com/AdamJacoby6",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4582673.0", 
+        "facebook": "https://www.facebook.com/jacoby.adam", 
+        "repo": "https://github.com/Naza-Project", 
+        "telegram": "https://t.me/nazacoin", 
+        "twitter": "https://twitter.com/AdamJacoby6", 
         "website": "http://naza.io/"
-    },
-    "name": "Naza"
+    }, 
+    "name": "Naza", 
+    "startDate": "2018-06-19 21:50:37"
 }

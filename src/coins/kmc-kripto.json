@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "KMC",
-    "diffTarget": 90,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/kmc-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "KMC", 
+    "diffTarget": 90, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/kmc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2335467.0",
-        "discord": "https://discord.gg/teGwcvS",
-        "facebook": "https://www.facebook.com/kmcoin",
-        "repo": "https://github.com/tr4nscr1pt/kmcoin-2.0",
-        "telegram": "https://t.me/joinchat/CkUsSRLtDjr9MPewxN23-g",
-        "twitter": "https://twitter.com/KM_Coin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2335467.0", 
+        "discord": "https://discord.gg/teGwcvS", 
+        "facebook": "https://www.facebook.com/kmcoin", 
+        "repo": "https://github.com/tr4nscr1pt/kmcoin-2.0", 
+        "telegram": "https://t.me/joinchat/CkUsSRLtDjr9MPewxN23-g", 
+        "twitter": "https://twitter.com/KM_Coin", 
         "website": "http://kmcoin.info/"
-    },
-    "name": "Kripto Marka Coin"
+    }, 
+    "name": "Kripto Marka Coin", 
+    "startDate": "2017-10-10 11:31:21"
 }

@@ -1,13 +1,14 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "JIM",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/jim-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "JIM", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/jim-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2788264.0",
-        "repo": "https://github.com/Rob-Otman/JimCoinCLI",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2788264.0", 
+        "repo": "https://github.com/Rob-Otman/JimCoinCLI", 
         "website": "http://www.jimcoin.net/"
-    },
-    "name": "Jim"
+    }, 
+    "name": "Jim", 
+    "startDate": "2018-01-07 05:16:33"
 }

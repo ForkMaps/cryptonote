@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight Heavy",
-    "coin": "OMB",
-    "diffTarget": 60,
-    "forkedFrom": "sumo-sumocoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ombre-icon.png",
+    "algorithm": "CryptoNight Heavy", 
+    "coin": "OMB", 
+    "diffTarget": 60, 
+    "forkedFrom": "sumo-sumocoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ombre-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3063727.0",
-        "reddit": "https://www.reddit.com/r/ombrecoin/",
-        "repo": "https://github.com/ombre-projects/ombre",
-        "telegram": "https://t.me/joinchat/GS1FBBHCq6u-LdMIUoCjOw",
-        "twitter": "https://twitter.com/OmbreProject",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3063727.0", 
+        "reddit": "https://www.reddit.com/r/ombrecoin/", 
+        "repo": "https://github.com/ombre-projects/ombre", 
+        "telegram": "https://t.me/joinchat/GS1FBBHCq6u-LdMIUoCjOw", 
+        "twitter": "https://twitter.com/OmbreProject", 
         "website": "https://www.ombre.io/"
-    },
-    "name": "Ombre"
+    }, 
+    "name": "Ombre", 
+    "startDate": "2018-01-18 07:24:40"
 }

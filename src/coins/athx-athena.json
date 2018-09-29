@@ -1,12 +1,13 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "ATHX",
-    "diffTarget": 3600,
-    "forkedFrom": "trtl-turtlecoin",
-    "icon" : "https://storage.googleapis.com/forkmaps/images/cryptonote/athx-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "ATHX", 
+    "diffTarget": 3600, 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/athx-icon.png", 
     "links": {
-        "repo": "https://github.com/athena-network/athena",
+        "repo": "https://github.com/athena-network/athena", 
         "website": "http://athx.org/"
-    },
-    "name": "Athena"
+    }, 
+    "name": "Athena", 
+    "startDate": "2018-07-11 09:54:26"
 }

@@ -1,15 +1,20 @@
 {
-    "algorithm": "Wild Keccak",
-    "coin": "DNC",
-    "forkedFrom": "bbr-boolberry",
-    "icon" : "https://storage.googleapis.com/forkmaps/images/cryptonote/dnc-icon.png",
+    "algorithm": "Wild Keccak", 
+    "coin": "DNC", 
+    "deadCoin": {
+        "endDate": "2015-02-01 00:00:00", 
+        "reason": "Website dead and bitcointalk comments", 
+        "source": "https://bitcointalk.org/index.php?topic=818365"
+    }, 
+    "forkedFrom": "bbr-boolberry", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/dnc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=818365",
-        "facebook": "https://www.facebook.com/DarkNetSpace",
-        "repo": "https://github.com/CryptoCoinLabs/darknetspace",
-        "twitter": "https://twitter.com/DarkNetCoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=818365", 
+        "facebook": "https://www.facebook.com/DarkNetSpace", 
+        "repo": "https://github.com/CryptoCoinLabs/darknetspace", 
+        "twitter": "https://twitter.com/DarkNetCoin", 
         "website": "http://darknetspace.org/"
-    },
-    "name": "DarkNetCoin",
-    "startDate": "2014-10-13"
+    }, 
+    "name": "DarkNetCoin", 
+    "startDate": "2014-09-23 05:37:32"
 }

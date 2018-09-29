@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "UNA",
-    "diffTarget": 90,
-    "forkedFrom": "krb-karbo",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/una-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "UNA", 
+    "diffTarget": 90, 
+    "forkedFrom": "krb-karbo", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/una-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2289043.0",
-        "facebook": "https://www.facebook.com/unaprojectofficial",
-        "repo": "https://github.com/TheUnAProject/UnA",
-        "telegram": "https://t.me/joinchat/E_eRxxKflkPG-b5QXvGzVQ",
-        "twitter": "https://twitter.com/UnAProject",
-        "website": "https://www.unaproject.com/"
-    },
-    "name": "Unacoin"
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2289043.0", 
+        "facebook": "https://www.facebook.com/unaprojectofficial", 
+        "repo": "https://github.com/TheUnAProject", 
+        "telegram": "https://t.me/joinchat/E_eRxxKflkPG-b5QXvGzVQ", 
+        "twitter": "https://twitter.com/UnAProject", 
+        "website": "http://www.unaproject.com/"
+    }, 
+    "name": "Unacoin", 
+    "startDate": "2017-09-27 13:41:53"
 }

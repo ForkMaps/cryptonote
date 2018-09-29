@@ -1,15 +1,15 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "BCN",
-    "diffTarget": 120,
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bytecoin.png",
+    "algorithm": "CryptoNight", 
+    "coin": "BCN", 
+    "diffTarget": 120, 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bytecoin.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=512747.0",
-        "reddit": "http://www.reddit.com/r/BytecoinBCN/",
-        "repo": "https://github.com/bcndev/bytecoin",
-        "twitter": "https://twitter.com/Bytecoin_BCN",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=512747.0", 
+        "reddit": "http://www.reddit.com/r/BytecoinBCN/", 
+        "repo": "https://github.com/bcndev/bytecoin", 
+        "twitter": "https://twitter.com/Bytecoin_BCN", 
         "website": "https://bytecoin.org"
-    },
-    "name": "Bytecoin",
-    "startDate": "2014-07"
+    }, 
+    "name": "Bytecoin", 
+    "startDate": "2011-06-11 03:36:44"
 }

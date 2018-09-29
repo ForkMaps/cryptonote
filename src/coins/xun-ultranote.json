@@ -1,17 +1,23 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "XUN",
-    "diffTarget": 240,
-    "forkedFrom": "xdn-digitalnote",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ultranote-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "XUN", 
+    "deadCoin": {
+        "endDate": "2018-05-14 00:00:00", 
+        "reason": "The Ultranote cryptocurrency is based on Cryptonight and is presented as a fork of DigitalNote (XDN). The use of a highly renowned technology hides a massive infinite coin emission. The first block gave 18 bln coins to devs. Each locked coin can give up to 3% yield through yearly interests. While these 18 bln coins provide huge interests to devs, enthousiasts are asked to mine the coin for 150 XUN block reward per 2 minutes at their power and hardware expenses... When 18 bln premined coins give 540 million XUN a year, mining only gives 39 millions coins a year (365 days x 24 hours x 30 blocks per hour). The devs will always own more than 90-95% of the emitted coins. They also deny any discussion and rejects the 39 millions vs 540 millions fact. Because of this, this coin can not be seen as a fair and legitimate POW. The coin is not totally dead but its value may tend to 0 satoshi as long as the devs get interests and some retard people realize...", 
+        "source": "https://deadcoins.com/entry/1265/?gvid=1308"
+    }, 
+    "diffTarget": 240, 
+    "forkedFrom": "xdn-digitalnote", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ultranote-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2357930.0",
-        "discord": "https://discord.gg/Dhkjzz5",
-        "facebook": "https://www.facebook.com/Ultranotecoin/",
-        "reddit": "https://www.reddit.com/r/UltraNote/",
-        "repo": "https://github.com/xun-project/UltraNote",
-        "twitter": "https://twitter.com/Ultranotecoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2357930.0", 
+        "discord": "https://discord.gg/Dhkjzz5", 
+        "facebook": "https://www.facebook.com/Ultranotecoin/", 
+        "reddit": "https://www.reddit.com/r/UltraNote/", 
+        "repo": "https://github.com/xun-project/UltraNote", 
+        "twitter": "https://twitter.com/Ultranotecoin", 
         "website": "https://ultranote.org"
-    },
-    "name": "Ultranote"
+    }, 
+    "name": "Ultranote", 
+    "startDate": "2017-08-27 12:26:09"
 }

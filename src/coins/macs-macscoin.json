@@ -1,14 +1,14 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "MACS",
-    "diffTarget": 60,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/macs-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "MACS", 
+    "diffTarget": 60, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/macs-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4245620",
-        "telegram": "https://t.me/macscoinsite_en",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4245620", 
+        "telegram": "https://t.me/macscoinsite_en", 
         "website": "https://macscoin.site/"
-    },
-    "name": "MacsCoin",
-    "startDate": "2018-05-27"
+    }, 
+    "name": "MacsCoin", 
+    "startDate": "2018-05-25 05:23:19"
 }

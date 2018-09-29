@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "XSF",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xsf-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "XSF", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xsf-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4453691.0",
-        "discord": "https://discord.gg/NqgvVYT",
-        "repo": "https://github.com/flakechain",
-        "telegram": "https://t.me/flakechain",
-        "twitter": "https://twitter.com/flakechain",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4453691.0", 
+        "discord": "https://discord.gg/NqgvVYT", 
+        "repo": "https://github.com/flakechain", 
+        "telegram": "https://t.me/flakechain", 
+        "twitter": "https://twitter.com/flakechain", 
         "website": "https://www.flake.space/"
-    },
-    "name": "Flake Chain"
+    }, 
+    "name": "Flake Chain", 
+    "startDate": "2018-04-12 16:44:48"
 }

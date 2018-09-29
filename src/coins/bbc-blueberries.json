@@ -1,14 +1,14 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "BBC",
-    "diffTarget": 90,
-    "endDate": "2018-06-25",
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bbc-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "BBC", 
+    "diffTarget": 90, 
+    "endDate": "2018-06-25", 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bbc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3039509",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3039509", 
         "repo": "https://github.com/BomberUA/BlueBerries"
-    },
-    "name": "BlueBerries",
-    "startDate": "2018-02-28"
+    }, 
+    "name": "BlueBerries", 
+    "startDate": "2018-02-28 15:30:31"
 }

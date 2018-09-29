@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight Heavy",
-    "coin": "GAC",
-    "forkedFrom": "sumo-sumocoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/gac-icon.png",
+    "algorithm": "CryptoNight Heavy", 
+    "coin": "GAC", 
+    "forkedFrom": "sumo-sumocoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/gac-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4315296.0",
-        "discord": "https://discord.gg/VMJ3QJE",
-        "facebook": "https://web.facebook.com/projekgallus/",
-        "repo": "https://github.com/projekgallus/galluscoin",
-        "telegram": "https://t.me/projekgallus",
-        "twitter": "https://twitter.com/galluscoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4315296.0", 
+        "discord": "https://discord.gg/VMJ3QJE", 
+        "facebook": "https://web.facebook.com/projekgallus/", 
+        "repo": "https://github.com/projekgallus/galluscoin", 
+        "telegram": "https://t.me/projekgallus", 
+        "twitter": "https://twitter.com/galluscoin", 
         "website": "https://galluscoin.com/"
-    },
-    "name": "Galluscoin"
+    }, 
+    "name": "Galluscoin", 
+    "startDate": "2017-11-26 14:32:49"
 }

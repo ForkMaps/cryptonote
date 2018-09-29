@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "SPES",
-    "diffTarget": 100,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/spes-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "SPES", 
+    "diffTarget": 100, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/spes-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2870436.0",
-        "discord": "https://discord.gg/TxJtH5F",
-        "facebook": "https://www.facebook.com/myspescoin",
-        "repo": "https://github.com/SpesCoin/spescoin",
-        "telegram": "https://t.me/spestoken",
-        "twitter": "https://twitter.com/SpesCoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2870436.0", 
+        "discord": "https://discord.gg/TxJtH5F", 
+        "facebook": "https://www.facebook.com/myspescoin", 
+        "repo": "https://github.com/SpesCoin/spescoin", 
+        "telegram": "https://t.me/spestoken", 
+        "twitter": "https://twitter.com/SpesCoin", 
         "website": "https://myspes.org/"
-    },
-    "name": "SpesCoin"
+    }, 
+    "name": "SpesCoin", 
+    "startDate": "2018-02-01 12:32:44"
 }

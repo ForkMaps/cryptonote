@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight Heavy",
-    "coin": "ZBK",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/zbucks-icon.png",
+    "algorithm": "CryptoNight Heavy", 
+    "coin": "ZBK", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/zbucks-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4625226.0",
-        "discord": "https://discordapp.com/invite/pfZ3WPD",
-        "reddit": "https://www.reddit.com/r/zbucks/",
-        "repo": "https://github.com/zbucks-project/zbucks",
-        "telegram": "https://t.me/zBucks_project",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4625226.0", 
+        "discord": "https://discordapp.com/invite/pfZ3WPD", 
+        "reddit": "https://www.reddit.com/r/zbucks/", 
+        "repo": "https://github.com/zbucks-project/zbucks", 
+        "telegram": "https://t.me/zBucks_project", 
         "website": "https://www.zbucks.org/"
-    },
-    "name": "Zbucks"
+    }, 
+    "name": "Zbucks", 
+    "startDate": "2018-05-29 18:32:23"
 }

@@ -1,14 +1,19 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "QCN",
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/qcn-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "QCN", 
+    "deadCoin": {
+        "endDate": "2018-08-05 00:00:00", 
+        "reason": "last exchange was made 2 months ago dont know what happen to the coin!?!", 
+        "source": "https://deadcoins.com/entry/2214/?gvid=1308"
+    }, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/qcn-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=600658",
-        "reddit": "http://www.reddit.com/r/QuazarCoin",
-        "repo": "https://github.com/quazarcoin/quazarcoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=600658", 
+        "reddit": "http://www.reddit.com/r/QuazarCoin", 
+        "repo": "https://github.com/quazarcoin/quazarcoin", 
         "twitter": "https://twitter.com/QuazarCoin"
-    },
-    "name": "Quazarcoin",
-    "startDate": "2014-05-08"
+    }, 
+    "name": "Quazarcoin", 
+    "startDate": "2014-05-08 14:38:27"
 }

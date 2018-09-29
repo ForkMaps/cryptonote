@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "XME",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xme-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "XME", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xme-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2701367",
-        "discord": "https://discord.gg/feX4tmb",
-        "facebook": "https://www.facebook.com/SPOTmeCoin/",
-        "repo": "https://github.com/spotme-main/",
-        "telegram": "https://t.me/joinchat/IIgahUrkG80xaUspnTjOsA",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2701367", 
+        "discord": "https://discord.gg/feX4tmb", 
+        "facebook": "https://www.facebook.com/SPOTmeCoin/", 
+        "repo": "https://github.com/spotme-main/", 
+        "telegram": "https://t.me/joinchat/IIgahUrkG80xaUspnTjOsA", 
         "twitter": "https://twitter.com/SPOTmeCoin"
-    },
-    "name": "SPOTme Coin"
+    }, 
+    "name": "SPOTme Coin", 
+    "startDate": "2017-09-08 23:03:15"
 }

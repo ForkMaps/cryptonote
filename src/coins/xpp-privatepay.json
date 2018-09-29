@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight Fast",
-    "coin": "XPP",
-    "diffTarget": 120,
-    "forkedFrom": "msr-masari",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/privatepay-icon.png",
+    "algorithm": "CryptoNight Fast", 
+    "coin": "XPP", 
+    "diffTarget": 120, 
+    "forkedFrom": "msr-masari", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/privatepay-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4496100",
-        "discord": "https://discord.gg/GeZH7bw",
-        "repo": "https://github.com/GoPrivatePay",
-        "telegram": "https://t.me/joinchat/ImK8-BDtR1JGg0nvvasnBg",
-        "twitter": "https://twitter.com/pay_private",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4496100", 
+        "discord": "https://discord.gg/GeZH7bw", 
+        "repo": "https://github.com/GoPrivatePay", 
+        "telegram": "https://t.me/joinchat/ImK8-BDtR1JGg0nvvasnBg", 
+        "twitter": "https://twitter.com/pay_private", 
         "website": "https://goprivatepay.com/"
-    },
-    "name": "PrivatePay"
+    }, 
+    "name": "PrivatePay", 
+    "startDate": "2018-06-19 15:06:54"
 }

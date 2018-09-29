@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "BUZ",
-    "diffTarget": 42,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/buz-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "BUZ", 
+    "diffTarget": 42, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/buz-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4557266",
-        "discord": "https://discord.gg/aSChFhA",
-        "repo": "https://github.com/bukzmatter/bukz/",
-        "twitter": "https://twitter.com/bukz94554115",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4557266", 
+        "discord": "https://discord.gg/aSChFhA", 
+        "repo": "https://github.com/bukzmatter/bukz/", 
+        "twitter": "https://twitter.com/bukz94554115", 
         "website": "http://bukz.website/"
-    },
-    "name": "Bukz"
+    }, 
+    "name": "Bukz", 
+    "startDate": "2018-06-28 02:19:25"
 }

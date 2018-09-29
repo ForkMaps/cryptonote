@@ -1,12 +1,12 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "RD",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
+    "algorithm": "CryptoNight", 
+    "coin": "RD", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=791563.0",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=791563.0", 
         "repo": "https://github.com/mj-tom/redwind"
-    },
-    "name": "RedWind",
-    "startDate": "2014-12-25"
+    }, 
+    "name": "RedWind", 
+    "startDate": "2014-09-21 22:02:28"
 }

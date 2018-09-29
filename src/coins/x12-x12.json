@@ -1,14 +1,15 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "X12",
-    "diffTarget": 300,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/x12-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "X12", 
+    "diffTarget": 300, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/x12-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4414415.0",
-        "repo": "https://github.com/x12project/x12-core",
-        "twitter": "https://twitter.com/x12coin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4414415.0", 
+        "repo": "https://github.com/x12project/x12-core", 
+        "twitter": "https://twitter.com/x12coin", 
         "website": "http://x12coin.com/"
-    },
-    "name": "X12"
+    }, 
+    "name": "X12", 
+    "startDate": "2017-07-18 14:48:43"
 }

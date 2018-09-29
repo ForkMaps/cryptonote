@@ -1,14 +1,15 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "XPET",
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xpet-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "XPET", 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xpet-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4820261.0",
-        "discord": "https://discord.gg/XEN8rCe",
-        "facebook": "http://www.facebook.com/xpetcoin",
-        "repo": "https://github.com/javalopes/petcoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4820261.0", 
+        "discord": "https://discord.gg/XEN8rCe", 
+        "facebook": "http://www.facebook.com/xpetcoin", 
+        "repo": "https://github.com/javalopes/petcoin", 
         "website": "https://www.petcoin.pt/en/"
-    },
-    "name": "Petcoin"
+    }, 
+    "name": "Petcoin", 
+    "startDate": "2018-02-22 00:00:00"
 }

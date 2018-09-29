@@ -1,15 +1,21 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "42",
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/42-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "42", 
+    "deadCoin": {
+        "endDate": "2017-09-07 00:00:00", 
+        "reason": "", 
+        "source": "https://deadcoins.com/entry/992/?gvid=1308"
+    }, 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/42-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4694014.0",
-        "discord": "https://discord.gg/umr52UQ",
-        "reddit": "https://www.reddit.com/r/FourtyTwoCoin/",
-        "repo": "https://github.com/FourtyTwo",
-        "telegram": "http://t.me/fourtytwochat",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4694014.0", 
+        "discord": "https://discord.gg/umr52UQ", 
+        "reddit": "https://www.reddit.com/r/FourtyTwoCoin/", 
+        "repo": "https://github.com/FourtyTwo", 
+        "telegram": "http://t.me/fourtytwochat", 
         "website": "https://coin42.co/"
-    },
-    "name": "FourtyTwo"
+    }, 
+    "name": "FourtyTwo", 
+    "startDate": "2018-07-12 01:32:07"
 }

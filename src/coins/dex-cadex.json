@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "DEX",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cadex-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "DEX", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cadex-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3271441",
-        "discord": "https://discord.gg/MRrDnvN",
-        "repo": "https://github.com/cadexdev/cadex",
-        "twitter": "https://twitter.com/cadexcoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3271441", 
+        "discord": "https://discord.gg/MRrDnvN", 
+        "repo": "https://github.com/cadexdev/cadex", 
+        "twitter": "https://twitter.com/cadexcoin", 
         "website": "http://cadex.xyz/"
-    },
-    "name": "Cadex"
+    }, 
+    "name": "Cadex", 
+    "startDate": "2018-04-02 02:04:29"
 }

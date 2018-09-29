@@ -1,14 +1,15 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "XSD",
-    "diffTarget": 60,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xsd-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "XSD", 
+    "diffTarget": 60, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xsd-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4621537.0",
-        "repo": "https://github.com/scordite/scordite",
-        "twitter": "https://twitter.com/ScorditeX",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4621537.0", 
+        "repo": "https://github.com/scordite/scordite", 
+        "twitter": "https://twitter.com/ScorditeX", 
         "website": "https://scordite.one/"
-    },
-    "name": "Scordite"
+    }, 
+    "name": "Scordite", 
+    "startDate": "2018-06-30 22:01:54"
 }

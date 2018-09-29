@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "LCH",
-    "diffTarget": 120,
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lch-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "LCH", 
+    "diffTarget": 120, 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lch-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4389341.0",
-        "discord": "https://discordapp.com/invite/keez2rW",
-        "repo": "https://github.com/LatinCash/latincash",
-        "twitter": "https://twitter.com/LatinCashCoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4389341.0", 
+        "discord": "https://discordapp.com/invite/keez2rW", 
+        "repo": "https://github.com/LatinCash/latincash", 
+        "twitter": "https://twitter.com/LatinCashCoin", 
         "website": "https://latincashcoin.com/"
-    },
-    "name": "LatinCash"
+    }, 
+    "name": "LatinCash", 
+    "startDate": "2018-05-23 13:39:32"
 }

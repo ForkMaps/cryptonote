@@ -1,14 +1,14 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "XFR",
-    "diffTarget": 60,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xfr-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "XFR", 
+    "diffTarget": 60, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xfr-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3203967",
-        "repo": "https://github.com/Ferro-Crypto/Ferro-project/",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3203967", 
+        "repo": "https://github.com/Ferro-Crypto/Ferro-project/", 
         "website": "https://ferro.cash/"
-    },
-    "name": "Ferro",
-    "startDate": "2018-03-27"
+    }, 
+    "name": "Ferro", 
+    "startDate": "2017-10-27 00:06:30"
 }

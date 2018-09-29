@@ -1,10 +1,11 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "BVR",
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bvr-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "BVR", 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bvr-icon.png", 
     "links": {
         "repo": "https://github.com/TheBeaverProject"
-    },
-    "name": "Beaver"
+    }, 
+    "name": "Beaver", 
+    "startDate": "2018-02-21 03:59:53"
 }

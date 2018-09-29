@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "Flurbo",
-    "diffTarget": 120,
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/flb-icon.png",
-    "forkedFrom": "xmr-monero",
+    "algorithm": "CryptoNight", 
+    "coin": "Flurbo", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/flb-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3119326",
-        "discord": "https://discord.gg/D4RqCw3",
-        "repo": "https://github.com/iMrPoopybutthole/flurbo",
-        "twitter": "https://twitter.com/GetFlurbo",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3119326", 
+        "discord": "https://discord.gg/D4RqCw3", 
+        "repo": "https://github.com/iMrPoopybutthole/flurbo", 
+        "twitter": "https://twitter.com/GetFlurbo", 
         "website": "http://flurbo.cc/"
-    },
-    "name": "Flurbo"
+    }, 
+    "name": "Flurbo", 
+    "startDate": "2018-01-09 06:53:10"
 }

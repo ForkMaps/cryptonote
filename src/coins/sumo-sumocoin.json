@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "SUMO",
-    "diffTarget": 240,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/sumo-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "SUMO", 
+    "diffTarget": 240, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/sumo-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1905086.0",
-        "facebook": "https://www.facebook.com/Sumokoin",
-        "repo": "https://github.com/sumoprojects/sumokoin",
-        "telegram": "https://t.me/SumokoinOfficial",
-        "twitter": "https://twitter.com/Sumokoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1905086.0", 
+        "facebook": "https://www.facebook.com/Sumokoin", 
+        "repo": "https://github.com/sumoprojects/sumokoin", 
+        "telegram": "https://t.me/SumokoinOfficial", 
+        "twitter": "https://twitter.com/Sumokoin", 
         "website": "https://www.sumokoin.org"
-    },
-    "name": "Sumocoin"
+    }, 
+    "name": "Sumocoin", 
+    "startDate": "2017-02-06 04:02:45"
 }

@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "CROAT",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/croat-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "CROAT", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/croat-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2102443.0",
-        "facebook": "https://www.facebook.com/Croat-The-Catalan-Altcoin-288189724922920/",
-        "repo": "https://github.com/croatproject/Croat",
-        "twitter": "https://twitter.com/CROATcoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2102443.0", 
+        "facebook": "https://www.facebook.com/Croat-The-Catalan-Altcoin-288189724922920/", 
+        "repo": "https://github.com/croatproject/Croat", 
+        "twitter": "https://twitter.com/CROATcoin", 
         "website": "https://croat.cat/"
-    },
-    "name": "CROAT"
+    }, 
+    "name": "CROAT", 
+    "startDate": "2017-06-22 13:35:04.810000"
 }

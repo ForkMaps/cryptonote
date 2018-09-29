@@ -1,12 +1,13 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "PSTAR",
-    "diffTarget": 240,
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/pstar-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "PSTAR", 
+    "diffTarget": 240, 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/pstar-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2723196.0",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2723196.0", 
         "repo": "https://github.com/Jachi84/PinkstarcoinV2"
-    },
-    "name": "PinkstarcoinV2"
+    }, 
+    "name": "PinkstarcoinV2", 
+    "startDate": "2018-01-10 20:43:51"
 }

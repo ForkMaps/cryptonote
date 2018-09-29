@@ -1,16 +1,16 @@
 {
-    "algorithm": "CryptoNight Heavy",
-    "coin": "XVV",
-    "forkedFrom": "sumo-sumocoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xvv-icon.png",
+    "algorithm": "CryptoNight Heavy", 
+    "coin": "XVV", 
+    "forkedFrom": "sumo-sumocoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xvv-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4872144",
-        "discord": "https://discord.gg/baz8da3",
-        "repo": "https://github.com/Veronite",
-        "telegram": "https://t.me/joinchat/JYVwjRDm6vn8P8CwLBYn3w",
-        "twitter": "https://twitter.com/Veronite1",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4872144", 
+        "discord": "https://discord.gg/baz8da3", 
+        "repo": "https://github.com/Veronite", 
+        "telegram": "https://t.me/joinchat/JYVwjRDm6vn8P8CwLBYn3w", 
+        "twitter": "https://twitter.com/Veronite1", 
         "website": "https://veronite.space/"
-    },
-    "name": "Veronite",
-    "startDate": "2018-08-14"
+    }, 
+    "name": "Veronite", 
+    "startDate": "2018-08-11 14:19:12"
 }

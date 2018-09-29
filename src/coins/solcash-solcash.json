@@ -1,12 +1,13 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "SOLCASH",
-    "diffTarget": 60,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/solcash-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "SOLCASH", 
+    "diffTarget": 60, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/solcash-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3199163",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3199163", 
         "repo": "https://github.com/solcashorg/solcash"
-    },
-    "name": "Solcash"
+    }, 
+    "name": "Solcash", 
+    "startDate": "2018-03-22 08:32:02"
 }

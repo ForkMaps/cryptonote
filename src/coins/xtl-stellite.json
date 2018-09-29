@@ -1,21 +1,22 @@
 {
-    "algorithm": "CryptoNight XTL",
-    "coin": "XTL",
-    "diffTarget": 60,
+    "algorithm": "CryptoNight XTL", 
+    "coin": "XTL", 
+    "diffTarget": 60, 
     "forkedFrom": [
-        "etn-electroneum",
-        "msr-masari",
+        "etn-electroneum", 
+        "msr-masari", 
         "xmr-monero"
-    ],
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xtl-icon.png",
+    ], 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xtl-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2813261.0",
-        "discord": "https://discord.gg/QfCWRfx",
-        "facebook": "https://www.facebook.com/stellitecash/",
-        "reddit": "https://www.reddit.com/r/stellite/",
-        "repo": "https://github.com/stellitecoin/Stellite",
-        "twitter": "https://twitter.com/stellitecash",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2813261.0", 
+        "discord": "https://discord.gg/QfCWRfx", 
+        "facebook": "https://www.facebook.com/stellitecash/", 
+        "reddit": "https://www.reddit.com/r/stellite/", 
+        "repo": "https://github.com/stellitecoin/Stellite", 
+        "twitter": "https://twitter.com/stellitecash", 
         "website": "https://stellite.cash"
-    },
-    "name": "Stellite"
+    }, 
+    "name": "Stellite", 
+    "startDate": "2018-01-21 13:05:15"
 }

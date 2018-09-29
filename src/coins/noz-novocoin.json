@@ -1,13 +1,14 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "NOZ",
-    "diffTarget": 140,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/noz-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "NOZ", 
+    "diffTarget": 140, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/noz-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3276965.0",
-        "discord": "https://discord.gg/nGvjhk6",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3276965.0", 
+        "discord": "https://discord.gg/nGvjhk6", 
         "repo": "https://github.com/mounirrquiba/novocoin-project"
-    },
-    "name": "Novocoin"
+    }, 
+    "name": "Novocoin", 
+    "startDate": "2018-04-07 16:23:18"
 }

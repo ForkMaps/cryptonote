@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight Heavy",
-    "coin": "ITA",
-    "diffTarget": 180,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ita-icon.png",
+    "algorithm": "CryptoNight Heavy", 
+    "coin": "ITA", 
+    "diffTarget": 180, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ita-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3122277",
-        "discord": "https://discord.gg/nfwGjUD",
-        "facebook": "https://www.facebook.com/Italocoincom-900766046752121/",
-        "repo": "https://github.com/italocoin-project/italocoin",
-        "telegram": "https://t.me/italocoincom",
-        "twitter": "https://twitter.com/italocoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3122277", 
+        "discord": "https://discord.gg/nfwGjUD", 
+        "facebook": "https://www.facebook.com/Italocoincom-900766046752121/", 
+        "repo": "https://github.com/italocoin-project/italocoin", 
+        "telegram": "https://t.me/italocoincom", 
+        "twitter": "https://twitter.com/italocoin", 
         "website": "https://www.italocoin.com/"
-    },
-    "name": "Italocoin"
+    }, 
+    "name": "Italocoin", 
+    "startDate": "2017-09-29 17:23:43"
 }

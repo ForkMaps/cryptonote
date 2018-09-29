@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "KHK",
-    "diffTarget": 240,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/khk-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "KHK", 
+    "diffTarget": 240, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/khk-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4410872",
-        "discord": "https://discord.gg/M58vsrK",
-        "repo": "https://github.com/kashkoin-foundation/kashkoin",
-        "telegram": "https://t.me/kashkoin",
-        "twitter": "https://twitter.com/Kashkoin_KHK/",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4410872", 
+        "discord": "https://discord.gg/M58vsrK", 
+        "repo": "https://github.com/kashkoin-foundation/kashkoin", 
+        "telegram": "https://t.me/kashkoin", 
+        "twitter": "https://twitter.com/Kashkoin_KHK/", 
         "website": "http://www.kashkoin.ml/"
-    },
-    "name": "Kashkoin"
+    }, 
+    "name": "Kashkoin", 
+    "startDate": "2018-05-31 06:51:49"
 }

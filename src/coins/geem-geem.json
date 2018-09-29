@@ -1,16 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "GEEM",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/geem-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "GEEM", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/geem-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2659368.0",
-        "discord": "https://discordapp.com/?utm_source=Discord%20Widget&utm_medium=Logo",
-        "repo": "https://github.com/geemcoin/",
-        "twitter": "https://twitter.com/geem_io",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2659368.0", 
+        "discord": "https://discordapp.com/?utm_source=Discord%20Widget&utm_medium=Logo", 
+        "repo": "https://github.com/geemcoin/", 
+        "twitter": "https://twitter.com/geem_io", 
         "website": "http://geem.io/"
-    },
-    "name": "GEEM",
-    "startDate": "2017-12-28"
+    }, 
+    "name": "GEEM", 
+    "startDate": "2017-07-25 20:23:25"
 }

@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight Heavy",
-    "coin": "BLOC",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bloc-icon.png",
+    "algorithm": "CryptoNight Heavy", 
+    "coin": "BLOC", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bloc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4108831.0",
-        "facebook": "https://www.facebook.com/Blocmoney-383098922176113",
-        "repo": "https://github.com/furiousteam/BLOC",
-        "telegram": "https://t.me/bloc_money_channel",
-        "twitter": "https://twitter.com/bloc_money",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4108831.0", 
+        "facebook": "https://www.facebook.com/Blocmoney-383098922176113", 
+        "repo": "https://github.com/furiousteam/BLOC", 
+        "telegram": "https://t.me/bloc_money_channel", 
+        "twitter": "https://twitter.com/bloc_money", 
         "website": "https://bloc.money/"
-    },
-    "name": "BLOC"
+    }, 
+    "name": "BLOC", 
+    "startDate": "2018-02-06 02:06:23"
 }

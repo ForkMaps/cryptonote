@@ -1,18 +1,19 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "FCB",
-    "diffTarget": 120,
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fcb-icon.png",
-    "forkedFrom": "bcn-bytecoin",
+    "algorithm": "CryptoNight", 
+    "coin": "FCB", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fcb-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2767600.0",
-        "discord": "https://discord.gg/tPPCtxY",
-        "facebook": "https://www.facebook.com/fcryptobank/",
-        "reddit": "https://www.reddit.com/user/FirstCryptoBank/",
-        "repo": "https://github.com/FirstCryptoBank",
-        "telegram": "https://t.me/fcryptobank",
-        "twitter": "https://twitter.com/FirstCryptoBank",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2767600.0", 
+        "discord": "https://discord.gg/tPPCtxY", 
+        "facebook": "https://www.facebook.com/fcryptobank/", 
+        "reddit": "https://www.reddit.com/user/FirstCryptoBank/", 
+        "repo": "https://github.com/FirstCryptoBank", 
+        "telegram": "https://t.me/fcryptobank", 
+        "twitter": "https://twitter.com/FirstCryptoBank", 
         "website": "https://fcryptobank.com/"
-    },
-    "name": "Firstcryptobank"
+    }, 
+    "name": "Firstcryptobank", 
+    "startDate": "2018-01-03 20:02:57"
 }

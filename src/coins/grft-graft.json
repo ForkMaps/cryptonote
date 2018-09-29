@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "GRFT",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/grft-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "GRFT", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/grft-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2115188",
-        "facebook": "https://www.facebook.com/Graft-460292407666720/",
-        "reddit": "https://www.reddit.com/r/Graft/",
-        "repo": "https://github.com/graft-project/GraftNetwork",
-        "telegram": "https://t.me/joinchat/EneBw0RALAOjkSL2mdt2Gw",
-        "twitter": "https://twitter.com/graftnetwork",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2115188", 
+        "facebook": "https://www.facebook.com/Graft-460292407666720/", 
+        "reddit": "https://www.reddit.com/r/Graft/", 
+        "repo": "https://github.com/graft-project/GraftNetwork", 
+        "telegram": "https://t.me/joinchat/EneBw0RALAOjkSL2mdt2Gw", 
+        "twitter": "https://twitter.com/graftnetwork", 
         "website": "https://www.graft.network"
-    },
-    "name": "Graft"
+    }, 
+    "name": "Graft", 
+    "startDate": "2017-08-02 11:36:18"
 }

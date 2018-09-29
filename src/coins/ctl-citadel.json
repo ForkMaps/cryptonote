@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "CTL",
-    "diffTarget": 240,
-    "forkedFrom": "bxc-bitcedi",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ctl-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "CTL", 
+    "diffTarget": 240, 
+    "forkedFrom": "bxc-bitcedi", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ctl-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4388936",
-        "discord": "https://discord.gg/KYxht9c",
-        "repo": "https://github.com/cntemple/Citadel",
-        "telegram": "https://t.me/citadelplatform",
-        "twitter": "https://twitter.com/Citadel_Team",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4388936", 
+        "discord": "https://discord.gg/KYxht9c", 
+        "repo": "https://github.com/cntemple/Citadel", 
+        "telegram": "https://t.me/citadelplatform", 
+        "twitter": "https://twitter.com/Citadel_Team", 
         "website": "https://citadelplatform.io/"
-    },
-    "name": "Citadel"
+    }, 
+    "name": "Citadel", 
+    "startDate": "2018-04-21 20:53:20"
 }

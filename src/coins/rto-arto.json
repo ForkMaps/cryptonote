@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight Arto",
-    "coin": "RTO",
-    "diffTarget": 90,
-    "forkedFrom": "krb-karbo",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/arto-icon.png",
+    "algorithm": "CryptoNight Arto", 
+    "coin": "RTO", 
+    "diffTarget": 90, 
+    "forkedFrom": "krb-karbo", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/arto-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2932583.0",
-        "discord": "https://discord.gg/EUMzNPx",
-        "facebook": "https://www.facebook.com/artocash",
-        "reddit": "https://www.reddit.com/r/Arto/",
-        "repo": "https://github.com/artocash/arto",
-        "twitter": "https://twitter.com/artocash",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2932583.0", 
+        "discord": "https://discord.gg/EUMzNPx", 
+        "facebook": "https://www.facebook.com/artocash", 
+        "reddit": "https://www.reddit.com/r/Arto/", 
+        "repo": "https://github.com/artocash/arto", 
+        "twitter": "https://twitter.com/artocash", 
         "website": "https://www.arto.cash/"
-    },
-    "name": "Arto"
+    }, 
+    "name": "Arto", 
+    "startDate": "2018-01-18 16:46:05"
 }

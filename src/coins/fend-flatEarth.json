@@ -1,13 +1,13 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "FEND",
-    "forkedFrom": "athx-athena",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fend-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "FEND", 
+    "forkedFrom": "athx-athena", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fend-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4898683",
-        "discord": "https://discord.gg/cqJKB9U",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4898683", 
+        "discord": "https://discord.gg/cqJKB9U", 
         "repo": "https://github.com/F-E-N-D/FEND"
-    },
-    "name": "Flat Earth Network Dollar",
-    "startDate": "2018-08-10"
+    }, 
+    "name": "Flat Earth Network Dollar", 
+    "startDate": "2018-08-05 19:30:47"
 }
