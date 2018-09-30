@@ -1,14 +1,15 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "MIMI",
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mimi-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "MIMI", 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mimi-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4787196",
-        "facebook": "https://facebook.com/MIMIMoneyapp",
-        "repo": "https://github.com/MIMIMoney",
-        "twitter": "https://twitter.com/MIMIMoneyapp",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4787196", 
+        "facebook": "https://facebook.com/MIMIMoneyapp", 
+        "repo": "https://github.com/MIMIMoney", 
+        "twitter": "https://twitter.com/MIMIMoneyapp", 
         "website": "http://www.mimi.money/"
-    },
-    "name": "MIMI Money"
+    }, 
+    "name": "MIMI Money", 
+    "startDate": "2018-07-31 08:42:54"
 }

@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "ETN",
-    "diffTarget": 60,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/etn-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "ETN", 
+    "diffTarget": 60, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/etn-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2065043.0",
-        "facebook": "http://facebook.com/electroneum",
-        "repo": "https://github.com/electroneum/electroneum",
-        "telegram": "https://t.me/electroneum",
-        "twitter": "http://twitter.com/electroneum",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2065043.0", 
+        "facebook": "http://facebook.com/electroneum", 
+        "repo": "https://github.com/electroneum/electroneum", 
+        "telegram": "https://t.me/electroneum", 
+        "twitter": "http://twitter.com/electroneum", 
         "website": "https://electroneum.com"
-    },
-    "name": "Electroneum"
+    }, 
+    "name": "Electroneum", 
+    "startDate": "2017-06-12 19:25:44"
 }

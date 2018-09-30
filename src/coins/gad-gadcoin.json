@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "GAD",
-    "diffTarget": 90,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/gad-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "GAD", 
+    "diffTarget": 90, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/gad-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3339476.0",
-        "discord": "https://discord.gg/8SaGxYt",
-        "repo": "https://github.com/douglashipocreme",
-        "telegram": "https://t.me/joinchat/AvcT4kWdOmJRsDiZNZdnbg",
-        "twitter": "https://twitter.com/gadcoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3339476.0", 
+        "discord": "https://discord.gg/8SaGxYt", 
+        "repo": "https://github.com/douglashipocreme", 
+        "telegram": "https://t.me/joinchat/AvcT4kWdOmJRsDiZNZdnbg", 
+        "twitter": "https://twitter.com/gadcoin", 
         "website": "https://www.gadcoin.com.br/"
-    },
-    "name": "Gadcoin"
+    }, 
+    "name": "Gadcoin", 
+    "startDate": "2013-08-12 19:30:54"
 }

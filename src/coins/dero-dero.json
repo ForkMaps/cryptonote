@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "DERO",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/deroproject/website/master/src/img/logo_big_transparent.png",
+    "algorithm": "CryptoNight", 
+    "coin": "DERO", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://raw.githubusercontent.com/deroproject/website/master/src/img/logo_big_transparent.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2525508.0",
-        "discord": "https://discord.gg/aQcphjF",
-        "reddit": "https://www.reddit.com/r/DeroProject/",
-        "repo": "https://github.com/deroproject/derosuite",
-        "twitter": "https://twitter.com/DeroProject",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2525508.0", 
+        "discord": "https://discord.gg/aQcphjF", 
+        "reddit": "https://www.reddit.com/r/DeroProject/", 
+        "repo": "https://github.com/deroproject/derosuite", 
+        "twitter": "https://twitter.com/DeroProject", 
         "website": "https://dero.io/"
-    },
-    "name": "Dero"
+    }, 
+    "name": "Dero", 
+    "startDate": "2017-12-05 12:16:27"
 }

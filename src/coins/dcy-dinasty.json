@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "DCY",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/dinastycoin-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "DCY", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/dinastycoin-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3069548.0",
-        "discord": "https://discord.gg/T4vQQ8T/",
-        "facebook": "https://www.facebook.com/Dinasty.International/",
-        "repo": "https://github.com/dinastyoffreedom/dinastycoin",
-        "telegram": "https://t.me/joinchat/Es0dxRJImRjyWlAiCPtKHg/",
-        "twitter": "https://twitter.com/DinastycoinI/",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3069548.0", 
+        "discord": "https://discord.gg/T4vQQ8T/", 
+        "facebook": "https://www.facebook.com/Dinasty.International/", 
+        "repo": "https://github.com/dinastyoffreedom/dinastycoin", 
+        "telegram": "https://t.me/joinchat/Es0dxRJImRjyWlAiCPtKHg/", 
+        "twitter": "https://twitter.com/DinastycoinI/", 
         "website": "http://www.dinastycoin.com"
-    },
-    "name": "Dinasty"
+    }, 
+    "name": "Dinasty", 
+    "startDate": "2015-12-19 09:33:54"
 }

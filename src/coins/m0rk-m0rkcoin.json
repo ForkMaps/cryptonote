@@ -1,12 +1,13 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "M0RK",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
+    "algorithm": "CryptoNight", 
+    "coin": "M0RK", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2986871.0",
-        "repo": "https://github.com/m0rkcoin/m0rkcoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2986871.0", 
+        "repo": "https://github.com/m0rkcoin/m0rkcoin", 
         "website": "http://m0rkcoin.com/"
-    },
-    "name": "M0rkcoin"
+    }, 
+    "name": "M0rkcoin", 
+    "startDate": "2018-01-19 02:32:41"
 }

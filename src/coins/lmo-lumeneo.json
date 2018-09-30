@@ -1,14 +1,14 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "LMO",
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lmo-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "LMO", 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lmo-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4832535",
-        "discord": "https://discord.gg/bS8NqDR",
-        "repo": "https://github.com/lumeneo-network",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4832535", 
+        "discord": "https://discord.gg/bS8NqDR", 
+        "repo": "https://github.com/lumeneo-network", 
         "website": "http://lumeneo.network/"
-    },
-    "name": "Lumeneo",
-    "startDate": "2018-08-06"
+    }, 
+    "name": "Lumeneo", 
+    "startDate": "2018-07-17 15:10:25"
 }

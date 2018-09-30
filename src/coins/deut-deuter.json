@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "DEUT",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/deut-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "DEUT", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/deut-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2776245.0",
-        "discord": "https://discord.gg/gNrytV3",
-        "reddit": "https://www.reddit.com/r/Deuter",
-        "repo": "https://github.com/servc4/DeuterCoin",
-        "telegram": "https://t.me/joinchat/F0MLWBCmBfsBX_R_1tHErg",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2776245.0", 
+        "discord": "https://discord.gg/gNrytV3", 
+        "reddit": "https://www.reddit.com/r/Deuter", 
+        "repo": "https://github.com/servc4/DeuterCoin", 
+        "telegram": "https://t.me/joinchat/F0MLWBCmBfsBX_R_1tHErg", 
         "twitter": "https://twitter.com/DeuterCoin"
-    },
-    "name": "Deuter"
+    }, 
+    "name": "Deuter", 
+    "startDate": "2018-01-18 09:56:16"
 }

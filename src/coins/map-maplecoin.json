@@ -1,18 +1,19 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "MAP",
-    "diffTarget": 60,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/map-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "MAP", 
+    "diffTarget": 60, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/map-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3197995.0",
-        "discord": "https://discord.gg/z5BdQYe",
-        "facebook": "https://www.facebook.com/Maple-Coin-109381993238307/",
-        "reddit": "https://www.reddit.com/user/maplecoin",
-        "repo": "https://github.com/Maple-Coin/MapleCoin",
-        "telegram": "https://t.me/MapleCoins",
-        "twitter": "https://twitter.com/Maple_Coin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3197995.0", 
+        "discord": "https://discord.gg/z5BdQYe", 
+        "facebook": "https://www.facebook.com/Maple-Coin-109381993238307/", 
+        "reddit": "https://www.reddit.com/user/maplecoin", 
+        "repo": "https://github.com/Maple-Coin/MapleCoin", 
+        "telegram": "https://t.me/MapleCoins", 
+        "twitter": "https://twitter.com/Maple_Coin", 
         "website": "https://maplecoins.org/"
-    },
-    "name": "MapleCoin"
+    }, 
+    "name": "MapleCoin", 
+    "startDate": "2018-03-25 21:19:47"
 }

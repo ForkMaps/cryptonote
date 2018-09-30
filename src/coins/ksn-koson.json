@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight Heavy",
-    "coin": "KSN",
-    "diffTarget": 120,
-    "forkedFrom": "sumo-sumocoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ksn-icon.png",
+    "algorithm": "CryptoNight Heavy", 
+    "coin": "KSN", 
+    "diffTarget": 120, 
+    "forkedFrom": "sumo-sumocoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ksn-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4667297.0",
-        "repo": "https://github.com/kosonproject/koson/",
-        "telegram": "https://t.me/joinchat/JK1brw6ptg62Xx5vqAda2Q",
-        "twitter": "https://twitter.com/@CryptoKoson",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4667297.0", 
+        "repo": "https://github.com/kosonproject/koson/", 
+        "telegram": "https://t.me/joinchat/JK1brw6ptg62Xx5vqAda2Q", 
+        "twitter": "https://twitter.com/@CryptoKoson", 
         "website": "http://koson-currency.com/"
-    },
-    "name": "Koson"
+    }, 
+    "name": "Koson", 
+    "startDate": "2018-07-03 14:15:56"
 }

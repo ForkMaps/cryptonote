@@ -1,13 +1,13 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "ZMR",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/zmr-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "ZMR", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/zmr-icon.png", 
     "links": {
-        "repo": "https://github.com/monero0",
+        "repo": "https://github.com/monero0", 
         "website": "https://monero0.org/"
-    },
-    "name": "Monero 0",
-    "startDate": "2018-04-06"
+    }, 
+    "name": "Monero 0", 
+    "startDate": "2018-03-20 03:02:02"
 }

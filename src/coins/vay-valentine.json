@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "VAY",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/vay-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "VAY", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/vay-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2946937.0",
-        "discord": "https://discord.gg/GA9cRqw",
-        "facebook": "https://www.facebook.com/pages/Mobirise/1616226671953247",
-        "repo": "https://github.com/valentinecoin/cryptonote",
-        "telegram": "https://t.me/valentinecoin",
-        "twitter": "https://twitter.com/valentine_coin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2946937.0", 
+        "discord": "https://discord.gg/GA9cRqw", 
+        "facebook": "https://www.facebook.com/pages/Mobirise/1616226671953247", 
+        "repo": "https://github.com/valentinecoin/cryptonote", 
+        "telegram": "https://t.me/valentinecoin", 
+        "twitter": "https://twitter.com/valentine_coin", 
         "website": "https://www.valentinecoin.org/"
-    },
-    "name": "Valentine"
+    }, 
+    "name": "Valentine", 
+    "startDate": "2018-02-03 14:32:44"
 }

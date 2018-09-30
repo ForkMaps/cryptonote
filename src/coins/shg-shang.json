@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "SHG",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/shg-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "SHG", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/shg-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2991596.0",
-        "discord": "https://discord.gg/V7D3Zas",
-        "repo": "https://github.com/shangproject",
-        "twitter": "https://twitter.com/CryptoShang",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2991596.0", 
+        "discord": "https://discord.gg/V7D3Zas", 
+        "repo": "https://github.com/shangproject", 
+        "twitter": "https://twitter.com/CryptoShang", 
         "website": "https://shangproject.github.io/"
-    },
-    "name": "Shang"
+    }, 
+    "name": "Shang", 
+    "startDate": "2018-02-21 01:40:40"
 }

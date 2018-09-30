@@ -1,16 +1,16 @@
 {
-    "algorithm": "CryptoNight Adaptive",
-    "coin": "BLUR",
-    "forkedFrom": "xnv-nerva",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/blur-icon.png",
+    "algorithm": "CryptoNight Adaptive", 
+    "coin": "BLUR", 
+    "forkedFrom": "xnv-nerva", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/blur-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4577361",
-        "discord": "https://discord.gg/dMWaqVW",
-        "repo": "https://github.com/blur-network/blur",
-        "telegram": "https://t.me/theblurnetwork",
-        "twitter": "https://twitter.com/blur_network",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4577361", 
+        "discord": "https://discord.gg/dMWaqVW", 
+        "repo": "https://github.com/blur-network/blur", 
+        "telegram": "https://t.me/theblurnetwork", 
+        "twitter": "https://twitter.com/blur_network", 
         "website": "https://blur.cash/"
-    },
-    "name": "Blur",
-    "startDate": "2018-06-01"
+    }, 
+    "name": "Blur", 
+    "startDate": "2018-05-15 11:13:11"
 }

@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "KEPL",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/kepl-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "KEPL", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/kepl-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3282087.0",
-        "discord": "https://discord.gg/mjeQ5Q2",
-        "repo": "https://github.com/kepldev/kepl",
-        "twitter": "https://twitter.com/keplproject",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3282087.0", 
+        "discord": "https://discord.gg/mjeQ5Q2", 
+        "repo": "https://github.com/kepldev/kepl", 
+        "twitter": "https://twitter.com/keplproject", 
         "website": "http://www.kepl.org/"
-    },
-    "name": "Kepl"
+    }, 
+    "name": "Kepl", 
+    "startDate": "2018-01-20 22:05:13"
 }

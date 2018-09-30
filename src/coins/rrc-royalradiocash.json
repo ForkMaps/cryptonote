@@ -1,14 +1,20 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "RRC",
-    "diffTarget": 60,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/rrc-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "RRC", 
+    "deadCoin": {
+        "endDate": "2018-03-25 00:00:00", 
+        "reason": "Github deleted and bitcointalk comments", 
+        "source": "https://bitcointalk.org/index.php?topic=2491607"
+    }, 
+    "diffTarget": 60, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/rrc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2491607",
-        "repo": "https://github.com/royalradiocash/royalradiocash",
-        "telegram": "https://t.me/royalradiocash",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2491607", 
+        "repo": "https://github.com/royalradiocash/royalradiocash", 
+        "telegram": "https://t.me/royalradiocash", 
         "website": "http://royalradio.cash/"
-    },
-    "name": "RoyalRadioCash"
+    }, 
+    "name": "RoyalRadioCash", 
+    "startDate": "2017-08-31 15:13:10"
 }

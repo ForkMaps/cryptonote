@@ -1,15 +1,21 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "KGH",
-    "diffTarget": 120,
-    "forkedFrom": "qwc-qwertycoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/kgh-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "KGH", 
+    "deadCoin": {
+        "endDate": "2018-09-06 00:00:00", 
+        "reason": "Kwagsh lost its developer, community rebrand to continue its future development as Kredits (XKR)", 
+        "source": "https://community.kredits.cc"
+    }, 
+    "diffTarget": 120, 
+    "forkedFrom": "qwc-qwertycoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/kgh-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3194150.0",
-        "discord": "https://discord.gg/XBzUyMr",
-        "repo": "https://github.com/kwash-dev/kwagsh",
-        "twitter": "https://twitter.com/KwagshCoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3194150.0", 
+        "discord": "https://discord.gg/XBzUyMr", 
+        "repo": "https://github.com/kwash-dev/kwagsh", 
+        "twitter": "https://twitter.com/KwagshCoin", 
         "website": "https://kwagsh.com/"
-    },
-    "name": "Kwagsh"
+    }, 
+    "name": "Kwagsh", 
+    "startDate": "2018-03-20 12:17:42"
 }

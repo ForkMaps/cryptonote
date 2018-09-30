@@ -1,14 +1,15 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "FNO",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fonero-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "FNO", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fonero-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3116102",
-        "discord": "https://discord.gg/AUc79Gk",
-        "repo": "https://github.com/fonero-project/fonero",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3116102", 
+        "discord": "https://discord.gg/AUc79Gk", 
+        "repo": "https://github.com/fonero-project/fonero", 
         "website": "https://fonero.org"
-    },
-    "name": "Fonero"
+    }, 
+    "name": "Fonero", 
+    "startDate": "2017-09-14 03:07:06"
 }

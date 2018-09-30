@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "ETNC",
-    "diffTarget": 60,
-    "forkedFrom": "etn-electroneum",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/etn-classic-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "ETNC", 
+    "diffTarget": 60, 
+    "forkedFrom": "etn-electroneum", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/etn-classic-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4602598.0",
-        "discord": "https://discord.gg/h86vs4g",
-        "reddit": "https://www.reddit.com/r/ElectroneumClassic/",
-        "repo": "https://github.com/electroneumclassic/electroneum-classic",
-        "telegram": "https://t.me/electroneumclassic",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4602598.0", 
+        "discord": "https://discord.gg/h86vs4g", 
+        "reddit": "https://www.reddit.com/r/ElectroneumClassic/", 
+        "repo": "https://github.com/electroneumclassic/electroneum-classic", 
+        "telegram": "https://t.me/electroneumclassic", 
         "website": "http://electroneum-classic.com/"
-    },
-    "name": "Electroneum-Classic"
+    }, 
+    "name": "Electroneum-Classic", 
+    "startDate": "2018-07-04 22:38:11"
 }

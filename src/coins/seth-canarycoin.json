@@ -1,11 +1,12 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "SETH",
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/canary-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "SETH", 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/canary-icon.png", 
     "links": {
-        "discord": "https://discord.gg/EbhC8eF",
+        "discord": "https://discord.gg/EbhC8eF", 
         "repo": "https://github.com/54V4NT/canarycoin"
-    },
-    "name": "Canarycoin"
+    }, 
+    "name": "Canarycoin", 
+    "startDate": "2018-07-25 22:25:12"
 }

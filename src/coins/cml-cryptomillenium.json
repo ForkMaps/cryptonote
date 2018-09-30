@@ -1,14 +1,15 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "CML",
-    "diffTarget": 60,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cml-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "CML", 
+    "diffTarget": 60, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cml-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3094542",
-        "repo": "https://github.com/milenium8612/",
-        "telegram": "https://t.me/cryptomillenium_cml",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3094542", 
+        "repo": "https://github.com/milenium8612/", 
+        "telegram": "https://t.me/cryptomillenium_cml", 
         "website": "http://cryptomillenium.org/en/home/"
-    },
-    "name": "CryptoMillenium"
+    }, 
+    "name": "CryptoMillenium", 
+    "startDate": "2018-02-01 17:26:33"
 }

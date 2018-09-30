@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "ARMS",
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/arms-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "ARMS", 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/arms-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4738943.0",
-        "discord": "https://chat.2acoin.org/",
-        "facebook": "https://www.facebook.com/2acoin",
-        "repo": "https://github.com/2acoin/2acoin",
-        "twitter": "https://twitter.com/2ACoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4738943.0", 
+        "discord": "https://chat.2acoin.org/", 
+        "facebook": "https://www.facebook.com/2acoin", 
+        "repo": "https://github.com/2acoin/2acoin", 
+        "twitter": "https://twitter.com/2ACoin", 
         "website": "https://www.2acoin.org/"
-    },
-    "name": "2ACoin"
+    }, 
+    "name": "2ACoin", 
+    "startDate": "2018-02-26 15:42:18"
 }

@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight Alloy",
-    "coin": "XAO",
-    "diffTarget": 180,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/alloy-icon.png",
+    "algorithm": "CryptoNight Alloy", 
+    "coin": "XAO", 
+    "diffTarget": 180, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/alloy-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3002653.0",
-        "discord": "http://alloyproject.org/discord",
-        "reddit": "http://alloyproject.org/reddit",
-        "repo": "https://github.com/alloyproject/alloy",
-        "telegram": "http://alloyproject.org/telegram",
-        "twitter": "http://alloyproject.org/twitter",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3002653.0", 
+        "discord": "http://alloyproject.org/discord", 
+        "reddit": "http://alloyproject.org/reddit", 
+        "repo": "https://github.com/alloyproject/alloy", 
+        "telegram": "http://alloyproject.org/telegram", 
+        "twitter": "http://alloyproject.org/twitter", 
         "website": "https://alloyproject.org"
-    },
-    "name": "Alloy"
+    }, 
+    "name": "Alloy", 
+    "startDate": "2018-02-21 21:55:28"
 }

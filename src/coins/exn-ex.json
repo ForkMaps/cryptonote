@@ -1,13 +1,14 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "EXN",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/exn-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "EXN", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/exn-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4410584",
-        "discord": "https://discord.gg/C2cM26f",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4410584", 
+        "discord": "https://discord.gg/C2cM26f", 
         "repo": "https://github.com/Ex-Nihilo-Concept/Principium/"
-    },
-    "name": "Ex Nihilo Coin"
+    }, 
+    "name": "Ex Nihilo Coin", 
+    "startDate": "2018-06-02 20:48:54"
 }

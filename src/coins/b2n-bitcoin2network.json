@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight b2n",
-    "coin": "B2N",
-    "diffTarget": 90,
-    "forkedFrom": "xao-alloy",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/b2n-icon.png",
+    "algorithm": "CryptoNight b2n", 
+    "coin": "B2N", 
+    "diffTarget": 90, 
+    "forkedFrom": "xao-alloy", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/b2n-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4311333",
-        "discord": "https://discord.gg/Ctfsdsb/",
-        "repo": "https://github.com/b2n-project/bitcoin2network",
-        "telegram": "https://t.me/bitcoin2network",
-        "twitter": "https://twitter.com/bitcoin2network",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4311333", 
+        "discord": "https://discord.gg/Ctfsdsb/", 
+        "repo": "https://github.com/b2n-project/bitcoin2network", 
+        "telegram": "https://t.me/bitcoin2network", 
+        "twitter": "https://twitter.com/bitcoin2network", 
         "website": "https://bitcoin2.network/"
-    },
-    "name": "bitcoin2network"
+    }, 
+    "name": "bitcoin2network", 
+    "startDate": "2018-05-21 17:09:54"
 }

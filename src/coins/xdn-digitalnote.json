@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "XDN",
-    "diffTarget": 240,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xdn-icon.jpg",
+    "algorithm": "CryptoNight v7", 
+    "coin": "XDN", 
+    "diffTarget": 240, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xdn-icon.jpg", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4451957",
-        "discord": "https://discord.gg/nhJYEtj",
-        "reddit": "https://www.reddit.com/r/digitalNote/",
-        "repo": "https://github.com/digitalnotexdn",
-        "telegram": "https://t.me/XDNDigitalNote",
-        "twitter": "https://twitter.com/digitalnotexdn",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4451957", 
+        "discord": "https://discord.gg/nhJYEtj", 
+        "reddit": "https://www.reddit.com/r/digitalNote/", 
+        "repo": "https://github.com/digitalnotexdn", 
+        "telegram": "https://t.me/XDNDigitalNote", 
+        "twitter": "https://twitter.com/digitalnotexdn", 
         "website": "https://digitalnote.biz/"
-    },
-    "name": "DigitalNote"
+    }, 
+    "name": "DigitalNote", 
+    "startDate": "2018-01-28 03:52:31"
 }

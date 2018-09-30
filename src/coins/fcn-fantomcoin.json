@@ -1,15 +1,15 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "FCN",
-    "forkedFrom": "bmr-bitmonero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fcn-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "FCN", 
+    "forkedFrom": "bmr-bitmonero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fcn-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=598823",
-        "reddit": "http://www.reddit.com/r/fantomcoin",
-        "repo": "https://github.com/amphibia/fantomcoin",
-        "twitter": "https://twitter.com/fantomcoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=598823", 
+        "reddit": "http://www.reddit.com/r/fantomcoin", 
+        "repo": "https://github.com/amphibia/fantomcoin", 
+        "twitter": "https://twitter.com/fantomcoin", 
         "website": "http://fantomcoin.org/"
-    },
-    "name": "FantomCoin",
-    "startDate": "2014-05-06"
+    }, 
+    "name": "FantomCoin", 
+    "startDate": "2014-05-05 15:15:37"
 }

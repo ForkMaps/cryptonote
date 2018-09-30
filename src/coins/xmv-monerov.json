@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "XMV",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/monerov-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "XMV", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/monerov-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2947912",
-        "repo": "https://github.com/monerov",
-        "telegram": "https://t.me/joinchat/H4TZNQ98QfDGejxJY0CvhQ",
-        "twitter": "https://twitter.com/monero_v",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2947912", 
+        "repo": "https://github.com/monerov", 
+        "telegram": "https://t.me/joinchat/H4TZNQ98QfDGejxJY0CvhQ", 
+        "twitter": "https://twitter.com/monero_v", 
         "website": "https://monero.org/forks/"
-    },
-    "name": "MoneroV"
+    }, 
+    "name": "MoneroV", 
+    "startDate": "2013-08-15 21:54:22"
 }

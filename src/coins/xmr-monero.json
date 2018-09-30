@@ -1,16 +1,19 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "XMR",
-    "diffTarget": 120,
-    "forkedFrom": ["bcn-bytecoin", "bmr-bitmonero"],
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/monero-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "XMR", 
+    "diffTarget": 120, 
+    "forkedFrom": [
+        "bcn-bytecoin", 
+        "bmr-bitmonero"
+    ], 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/monero-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=583449.0",
-        "reddit": "https://reddit.com/r/monero",
-        "repo": "https://github.com/monero-project/monero",
-        "telegram": "https://telegram.me/bitmonero",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=583449.0", 
+        "reddit": "https://reddit.com/r/monero", 
+        "repo": "https://github.com/monero-project/monero", 
+        "telegram": "https://telegram.me/bitmonero", 
         "website": "https://getmonero.org"
-    },
-    "name": "Monero",
-    "startDate": "2014-04"
+    }, 
+    "name": "Monero", 
+    "startDate": "2014-04-25 00:38:50"
 }

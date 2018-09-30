@@ -1,18 +1,19 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "BTN",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/btn-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "BTN", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/btn-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2309303.0",
-        "discord": "https://discord.gg/8zQf7PD",
-        "facebook": "https://www.facebook.com/bitcoinnova/",
-        "reddit": "https://www.reddit.com/user/bitcoinnova",
-        "repo": "https://github.com/Bitcoin-N/bitcoinnova/",
-        "telegram": "https://t.me/joinchat/AJIApgu_sqZG8wrGoArrzw",
-        "twitter": "https://twitter.com/bitcoinnova",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2309303.0", 
+        "discord": "https://discord.gg/8zQf7PD", 
+        "facebook": "https://www.facebook.com/bitcoinnova/", 
+        "reddit": "https://www.reddit.com/user/bitcoinnova", 
+        "repo": "https://github.com/Bitcoin-N/bitcoinnova/", 
+        "telegram": "https://t.me/joinchat/AJIApgu_sqZG8wrGoArrzw", 
+        "twitter": "https://twitter.com/bitcoinnova", 
         "website": "http://bitcoinnova.org/"
-    },
-    "name": "Bitcoin Nova"
+    }, 
+    "name": "Bitcoin Nova", 
+    "startDate": "2017-10-23 19:31:43"
 }

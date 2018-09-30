@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "RECL",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/recl-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "RECL", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/recl-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4429386.0",
-        "discord": "https://discord.gg/tj44eAg",
-        "repo": "https://github.com/ReCoal/recoal",
-        "twitter": "https://twitter.com/coal_re",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4429386.0", 
+        "discord": "https://discord.gg/tj44eAg", 
+        "repo": "https://github.com/ReCoal/recoal", 
+        "twitter": "https://twitter.com/coal_re", 
         "website": "https://www.recoal.org/"
-    },
-    "name": "ReCoal"
+    }, 
+    "name": "ReCoal", 
+    "startDate": "2018-05-28 20:50:11"
 }

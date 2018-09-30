@@ -1,13 +1,14 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "XLC",
-    "diffTarget": 60,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xlc-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "XLC", 
+    "diffTarget": 60, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xlc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1847322.0",
-        "repo": "https://github.com/leviarcoin/leviarcoin-src",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1847322.0", 
+        "repo": "https://github.com/leviarcoin/leviarcoin-src", 
         "website": "https://leviarcoin.org/"
-    },
-    "name": "Leviarcoin"
+    }, 
+    "name": "Leviarcoin", 
+    "startDate": "2016-12-26 23:31:29"
 }

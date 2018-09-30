@@ -1,16 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "PK",
-    "diffTarget": 180,
-    "forkedFrom": "xry-royalties",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/pk-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "PK", 
+    "diffTarget": 180, 
+    "forkedFrom": "xry-royalties", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/pk-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3783719",
-        "discord": "https://discord.gg/Yk3yRJh",
-        "repo": "https://github.com/Pennykoin",
-        "twitter": "https://twitter.com/pennykoin1",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3783719", 
+        "discord": "https://discord.gg/Yk3yRJh", 
+        "repo": "https://github.com/Pennykoin", 
+        "twitter": "https://twitter.com/pennykoin1", 
         "website": "http://pennykoin.com/"
-    },
-    "name": "Pennykoin",
-    "startDate": "2018-05-14"
+    }, 
+    "name": "Pennykoin", 
+    "startDate": "2018-05-03 10:21:42"
 }

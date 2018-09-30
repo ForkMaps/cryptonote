@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "LNS",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lns-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "LNS", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lns-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3162385.0",
-        "discord": "https://discord.gg/CVT3xmh",
-        "repo": "https://github.com/linescoin/lines",
-        "telegram": "https://t.me/linescoin",
-        "twitter": "https://twitter.com/linescoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3162385.0", 
+        "discord": "https://discord.gg/CVT3xmh", 
+        "repo": "https://github.com/linescoin/lines", 
+        "telegram": "https://t.me/linescoin", 
+        "twitter": "https://twitter.com/linescoin", 
         "website": "https://lines.pw/"
-    },
-    "name": "Lines"
+    }, 
+    "name": "Lines", 
+    "startDate": "2018-02-03 19:24:38"
 }

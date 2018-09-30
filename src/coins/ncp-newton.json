@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "NCP",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ncp-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "NCP", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ncp-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3072672",
-        "discord": "https://discord.gg/fMUGjcq",
-        "facebook": "https://www.facebook.com/NewtonCoin/",
-        "reddit": "https://www.reddit.com/r/Newtoncoinproject/",
-        "repo": "https://github.com/livenet123/Newton",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3072672", 
+        "discord": "https://discord.gg/fMUGjcq", 
+        "facebook": "https://www.facebook.com/NewtonCoin/", 
+        "reddit": "https://www.reddit.com/r/Newtoncoinproject/", 
+        "repo": "https://github.com/livenet123/Newton", 
         "twitter": "https://twitter.com/Newton_NCP/"
-    },
-    "name": "Newton Coin"
+    }, 
+    "name": "Newton Coin", 
+    "startDate": "2018-03-05 21:45:07"
 }

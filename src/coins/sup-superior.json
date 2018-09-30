@@ -1,16 +1,21 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "SUP",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/sup-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "SUP", 
+    "deadCoin": {
+        "endDate": "2017-09-11 00:00:00", 
+        "reason": "I created it and it was stolen. I have blocked in all exchanges. You can read anywhere on Google.  My wife and I worked hard every day 7 days a week and put in around $300,000 and got scammed of all of it. They took our database and all the ICO coins and all the ICO money. Around $1.5 million in cash and there were 260 million coins and we were selling around $30,000 worth a day at 4.3 cents each when theft happened. Was an ex employee he accessed our computers remotely. He has help from about a dozen people and they have sreated dozens of fake accounts. All being used to say crazy terrible things. Was planned for about 2 months it seems. We have hundreds of screenshots as we had a spy inside their group for a few days after the theft.Everything is in our name and nobody else put in any money or any ideas. We will need help to get even anything back as these people are hard core gangsters and are prepared it seems to do or say anything. I guess following our Twitter account which we managed to rescue back would be a great start. Please read some of the recent posts on there. https://twitter.com/thesuperiorcoinWe were left with absolutely nothing", 
+        "source": "https://deadcoins.com/entry/974/?gvid=1308"
+    }, 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/sup-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2088169.0",
-        "facebook": "https://www.facebook.com/TheSuperiorCoin",
-        "repo": "https://github.com/TheSuperiorCoin/TheSuperiorCoin",
-        "twitter": "https://twitter.com/superiorcoins",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2088169.0", 
+        "facebook": "https://www.facebook.com/TheSuperiorCoin", 
+        "repo": "https://github.com/TheSuperiorCoin/TheSuperiorCoin", 
+        "twitter": "https://twitter.com/superiorcoins", 
         "website": "http://superior-coin.com/"
-    },
-    "name": "Superior Coin",
-    "startDate": "2017-07-01"
+    }, 
+    "name": "Superior Coin", 
+    "startDate": "2017-06-05 12:02:59"
 }

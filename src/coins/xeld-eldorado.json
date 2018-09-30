@@ -1,14 +1,15 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "XELD",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xeld-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "XELD", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xeld-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3334828.0",
-        "discord": "https://discord.gg/vPHMTvK",
-        "repo": "https://github.com/eldoradocash/eldorado-node",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3334828.0", 
+        "discord": "https://discord.gg/vPHMTvK", 
+        "repo": "https://github.com/eldoradocash/eldorado-node", 
         "twitter": "https://twitter.com/EldoradoCashCom"
-    },
-    "name": "Eldorado"
+    }, 
+    "name": "Eldorado", 
+    "startDate": "2018-04-16 22:04:28"
 }

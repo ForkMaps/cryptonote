@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "HCN",
-    "diffTarget": 90,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/hcn-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "HCN", 
+    "diffTarget": 90, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/hcn-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2613592.0",
-        "discord": "https://discord.gg/v8WPEsF",
-        "facebook": "https://www.facebook.com/HumanitaryCoin-HCN-1424003797678030/",
-        "repo": "https://github.com/humanitarycoin/hcn",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2613592.0", 
+        "discord": "https://discord.gg/v8WPEsF", 
+        "facebook": "https://www.facebook.com/HumanitaryCoin-HCN-1424003797678030/", 
+        "repo": "https://github.com/humanitarycoin/hcn", 
         "twitter": "https://twitter.com/humanitarycoin"
-    },
-    "name": "Humanitary Coin"
+    }, 
+    "name": "Humanitary Coin", 
+    "startDate": "2017-09-24 00:36:59"
 }

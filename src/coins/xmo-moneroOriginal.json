@@ -1,13 +1,13 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "XMO",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/XmanXU/monero-gui/master/images/appicons/256x256.png",
+    "algorithm": "CryptoNight", 
+    "coin": "XMO", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://raw.githubusercontent.com/XmanXU/monero-gui/master/images/appicons/256x256.png", 
     "links": {
-        "repo": "https://github.com/XmanXU/monero-original",
+        "repo": "https://github.com/XmanXU/monero-original", 
         "website": "https://monero-original.org/"
-    },
-    "name": "Monero Original",
-    "startDate": "2018-04-06"
+    }, 
+    "name": "Monero Original", 
+    "startDate": "2018-03-02 17:25:49"
 }

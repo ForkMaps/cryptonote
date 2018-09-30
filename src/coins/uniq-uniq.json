@@ -1,15 +1,15 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "UNIQ",
-    "diffTarget": 90,
-    "forkedFrom": "luk-luka",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/uniq-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "UNIQ", 
+    "diffTarget": 90, 
+    "endDate": "2018-05", 
+    "forkedFrom": "luk-luka", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/uniq-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4415541",
-        "repo": "https://github.com/uniqnetwork/uniq/",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4415541", 
+        "repo": "https://github.com/uniqnetwork/uniq/", 
         "website": "https://www.uniqnetwork.io/"
-    },
-    "name": "uniQ",
-    "startDate": "2018-04",
-    "endDate": "2018-05"
+    }, 
+    "name": "uniQ", 
+    "startDate": "2018-06-03 06:57:05"
 }

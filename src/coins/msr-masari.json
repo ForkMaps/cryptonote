@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight Fast",
-    "coin": "MSR",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/masari-icon.png",
+    "algorithm": "CryptoNight Fast", 
+    "coin": "MSR", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/masari-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2159114.0",
-        "discord": "https://discord.gg/sMCwMqs",
-        "repo": "https://github.com/masari-project/masari",
-        "telegram": "https://t.me/masaricurrency",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2159114.0", 
+        "discord": "https://discord.gg/sMCwMqs", 
+        "repo": "https://github.com/masari-project/masari", 
+        "telegram": "https://t.me/masaricurrency", 
         "website": "https://www.getmasari.org"
-    },
-    "name": "Masari"
+    }, 
+    "name": "Masari", 
+    "startDate": "2017-07-15 19:22:02"
 }

@@ -1,16 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "BIM",
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bim-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "BIM", 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bim-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4005575.0",
-        "discord": "https://discord.gg/CVzETWP",
-        "facebook": "https://www.facebook.com/bitminereu/",
-        "repo": "https://github.com/Bitminereu/bitminercoinv3",
-        "twitter": "https://twitter.com/bitminereu",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4005575.0", 
+        "discord": "https://discord.gg/CVzETWP", 
+        "facebook": "https://www.facebook.com/bitminereu/", 
+        "repo": "https://github.com/Bitminereu/bitminercoinv3", 
+        "twitter": "https://twitter.com/bitminereu", 
         "website": "http://bitminercoin.org/"
-    },
-    "name": "BitMinerCoin",
-    "startDate": "2018-05-19"
+    }, 
+    "name": "BitMinerCoin", 
+    "startDate": "2018-05-19 21:12:56"
 }

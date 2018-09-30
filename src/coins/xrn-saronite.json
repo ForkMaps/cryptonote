@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight Heavy",
-    "coin": "XRN",
-    "diffTarget": 60,
-    "forkedFrom": "sumo-sumocoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/saronite-icon.png",
+    "algorithm": "CryptoNight Heavy", 
+    "coin": "XRN", 
+    "diffTarget": 60, 
+    "forkedFrom": "sumo-sumocoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/saronite-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4004235",
-        "discord": "https://discord.gg/EpxZbRE",
-        "repo": "https://github.com/Saronite/saronite",
-        "telegram": "https://t.me/joinchat/HxNMMA8wrHzGpInxq0FwIQ",
-        "twitter": "https://twitter.com/SaroniteNetwork",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4004235", 
+        "discord": "https://discord.gg/EpxZbRE", 
+        "repo": "https://github.com/Saronite/saronite", 
+        "telegram": "https://t.me/joinchat/HxNMMA8wrHzGpInxq0FwIQ", 
+        "twitter": "https://twitter.com/SaroniteNetwork", 
         "website": "https://saronite.io/"
-    },
-    "name": "Saronite"
+    }, 
+    "name": "Saronite", 
+    "startDate": "2018-05-19 20:36:49"
 }

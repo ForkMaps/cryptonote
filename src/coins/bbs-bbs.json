@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "BBS",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bbs-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "BBS", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bbs-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2861067.0",
-        "discord": "https://discord.gg/SDTJQfK",
-        "reddit": "https://www.reddit.com/r/BBSCoin/",
-        "repo": "https://github.com/bbscoin/bbscoin",
-        "telegram": "https://t.me/bbscoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2861067.0", 
+        "discord": "https://discord.gg/SDTJQfK", 
+        "reddit": "https://www.reddit.com/r/BBSCoin/", 
+        "repo": "https://github.com/bbscoin/bbscoin", 
+        "telegram": "https://t.me/bbscoin", 
         "website": "https://bbscoin.xyz/"
-    },
-    "name": "BBSCoin"
+    }, 
+    "name": "BBSCoin", 
+    "startDate": "2018-01-18 05:16:18"
 }

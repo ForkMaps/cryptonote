@@ -1,13 +1,14 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "SCC",
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/schoolcoin-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "SCC", 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/schoolcoin-icon.png", 
     "links": {
-        "discord": "https://discordapp.com/invite/WwqXG5b",
-        "repo": "https://github.com/school-coin/SchoolCoin",
-        "telegram": "https://t.me/schoolcoinproject",
-      	"website": "https://schoolcoin.lol"
-    },
-    "name": "SchoolCoin"
+        "discord": "https://discordapp.com/invite/WwqXG5b", 
+        "repo": "https://github.com/school-coin/SchoolCoin", 
+        "telegram": "https://t.me/schoolcoinproject", 
+        "website": "https://schoolcoin.lol"
+    }, 
+    "name": "SchoolCoin", 
+    "startDate": "2018-09-23 19:58:51"
 }

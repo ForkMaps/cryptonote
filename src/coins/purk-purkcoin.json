@@ -1,16 +1,17 @@
 {
-    "algorithm": "Wild Keccak",
-    "coin": "PURK",
-    "forkedFrom": "bbr-boolberry",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/purk-icon.png",
+    "algorithm": "Wild Keccak", 
+    "coin": "PURK", 
+    "forkedFrom": "bbr-boolberry", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/purk-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3213127",
-        "discord": "https://discord.gg/cqmSrfz",
-        "reddit": "https://www.reddit.com/r/purkproject/",
-        "repo": "https://github.com/purkproject/purk",
-        "telegram": "https://t.me/purkproject",
-        "twitter": "https://twitter.com/purkproject",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3213127", 
+        "discord": "https://discord.gg/cqmSrfz", 
+        "reddit": "https://www.reddit.com/r/purkproject/", 
+        "repo": "https://github.com/purkproject/purk", 
+        "telegram": "https://t.me/purkproject", 
+        "twitter": "https://twitter.com/purkproject", 
         "website": "https://purkproject.com/"
-    },
-    "name": "Purkcoin"
+    }, 
+    "name": "Purkcoin", 
+    "startDate": "2018-03-11 10:19:04"
 }

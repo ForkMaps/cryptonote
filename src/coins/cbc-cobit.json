@@ -1,18 +1,19 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "CBC",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cbc-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "CBC", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cbc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4547873.msg40952254#msg40952254",
-        "discord": "https://discord.gg/e3XjhD5",
-        "facebook": "https://facebook.com/Cobit-Coin-447828982337168/",
-        "reddit": "https://reddit.com/user/Cobit_Coin",
-        "repo": "https://github.com/CobitCoin/cobitcoin",
-        "telegram": "https://t.me/cobitcoin",
-        "twitter": "https://twitter.com/Cobit_Coin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4547873.msg40952254#msg40952254", 
+        "discord": "https://discord.gg/e3XjhD5", 
+        "facebook": "https://facebook.com/Cobit-Coin-447828982337168/", 
+        "reddit": "https://reddit.com/user/Cobit_Coin", 
+        "repo": "https://github.com/CobitCoin/cobitcoin", 
+        "telegram": "https://t.me/cobitcoin", 
+        "twitter": "https://twitter.com/Cobit_Coin", 
         "website": "https://cobitcoin.io/"
-    },
-    "name": "Cobit Coin"
+    }, 
+    "name": "Cobit Coin", 
+    "startDate": "2018-06-25 20:33:02"
 }

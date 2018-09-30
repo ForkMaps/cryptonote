@@ -1,14 +1,15 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "NXB",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nxb-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "NXB", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nxb-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3064367",
-        "discord": "https://discord.gg/jGM3FFG",
-        "repo": "https://github.com/nxboost",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3064367", 
+        "discord": "https://discord.gg/jGM3FFG", 
+        "repo": "https://github.com/nxboost", 
         "website": "https://nxboost.com/"
-    },
-    "name": "NXboost"
+    }, 
+    "name": "NXboost", 
+    "startDate": "2017-12-15 19:06:26"
 }

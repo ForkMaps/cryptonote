@@ -1,14 +1,15 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "AMIT",
-    "diffTarget": 90,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/amity-logo.png",
-    "name": "Amitycoin",
+    "algorithm": "CryptoNight v7", 
+    "coin": "AMIT", 
+    "diffTarget": 90, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/amity-logo.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4971212",
-        "discord": "https://discord.gg/k2jYvBT",
-        "repo": "https://github.com/AmityCore",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4971212", 
+        "discord": "https://discord.gg/k2jYvBT", 
+        "repo": "https://github.com/AmityCore", 
         "website": "https://amitycoin.tk"
-    }
+    }, 
+    "name": "Amitycoin", 
+    "startDate": "2018-08-25 18:34:23"
 }

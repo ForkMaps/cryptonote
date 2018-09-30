@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight Fast",
-    "coin": "CCX",
-    "diffTarget": 120,
-    "forkedFrom": "xdn-digitalnote",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ccx-icon.png",
+    "algorithm": "CryptoNight Fast", 
+    "coin": "CCX", 
+    "diffTarget": 120, 
+    "forkedFrom": "xdn-digitalnote", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ccx-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4515873",
-        "discord": "https://discord.gg/YbpHVSd",
-        "reddit": "https://www.reddit.com/r/ConcealNetwork/",
-        "repo": "https://github.com/TheCircleFoundation/",
-        "twitter": "https://twitter.com/ConcealNetwork",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4515873", 
+        "discord": "https://discord.gg/YbpHVSd", 
+        "reddit": "https://www.reddit.com/r/ConcealNetwork/", 
+        "repo": "https://github.com/TheCircleFoundation/", 
+        "twitter": "https://twitter.com/ConcealNetwork", 
         "website": "https://conceal.network/"
-    },
-    "name": "Conceal"
+    }, 
+    "name": "Conceal", 
+    "startDate": "2018-04-29 23:32:37"
 }

@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "MEGN",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/megn-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "MEGN", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/megn-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2705359.0",
-        "discord": "https://discord.gg/cfHsZ6p",
-        "facebook": "http://facebook.com/egano.net",
-        "repo": "https://github.com/s-projects/egano",
-        "telegram": "http://t.me/eganonet",
-        "twitter": "http://twitter.com/eganonet",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2705359.0", 
+        "discord": "https://discord.gg/cfHsZ6p", 
+        "facebook": "http://facebook.com/egano.net", 
+        "repo": "https://github.com/s-projects/egano", 
+        "telegram": "http://t.me/eganonet", 
+        "twitter": "http://twitter.com/eganonet", 
         "website": "http://egano.net/"
-    },
-    "name": "egano"
+    }, 
+    "name": "egano", 
+    "startDate": "2017-12-26 12:08:01"
 }
