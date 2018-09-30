@@ -1,13 +1,13 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "BMR",
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bmr-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "BMR", 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bmr-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=563821",
-        "repo": "https://github.com/bitmonero-project/bitmonero",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=563821", 
+        "repo": "https://github.com/bitmonero-project/bitmonero", 
         "website": "http://bitmonero.org/"
-    },
-    "name": "BitMonero",
-    "startDate": "2014-04-18"
+    }, 
+    "name": "BitMonero", 
+    "startDate": "2014-04-09 20:50:04"
 }

@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "BKC",
-    "diffTarget": 30,
-    "forkedFrom": "krb-karbo",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bkc-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "BKC", 
+    "diffTarget": 30, 
+    "forkedFrom": "krb-karbo", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bkc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2821734.0",
-        "discord": "https://discord.gg/wFyjU8U",
-        "facebook": "https://www.facebook.com/Balkancoin",
-        "repo": "https://github.com/zlatkomajstor/balkancoin",
-        "twitter": "https://twitter.com/BalkancoinAdmin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2821734.0", 
+        "discord": "https://discord.gg/wFyjU8U", 
+        "facebook": "https://www.facebook.com/Balkancoin", 
+        "repo": "https://github.com/zlatkomajstor/balkancoin", 
+        "twitter": "https://twitter.com/BalkancoinAdmin", 
         "website": "https://www.balkancoin.org"
-    },
-    "name": "Balkancoin"
+    }, 
+    "name": "Balkancoin", 
+    "startDate": "2017-12-30 21:41:21"
 }

@@ -1,16 +1,22 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "COAL",
-    "diffTarget": 90,
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/coal-icon.png",
-    "forkedFrom": "bcn-bytecoin",
-    "forknote": true,
+    "algorithm": "CryptoNight", 
+    "coin": "COAL", 
+    "deadCoin": {
+        "endDate": "2018-07-04 00:00:00", 
+        "reason": "Devs has abandoned the project", 
+        "source": "https://deadcoins.com/entry/1788/?gvid=1308"
+    }, 
+    "diffTarget": 90, 
+    "forkedFrom": "bcn-bytecoin", 
+    "forknote": true, 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/coal-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1635047.0",
-        "reddit": "https://www.reddit.com/r/cryptocoal",
-        "repo": "https://github.com/bitcoal/bitcoal",
-        "telegram": "https://t.me/joinchat/ErNaG0sxjn7FJyVCcEE1VA",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1635047.0", 
+        "reddit": "https://www.reddit.com/r/cryptocoal", 
+        "repo": "https://github.com/bitcoal/bitcoal", 
+        "telegram": "https://t.me/joinchat/ErNaG0sxjn7FJyVCcEE1VA", 
         "website": "http://getbitcoal.org"
-    },
-    "name": "Bitcoal"
+    }, 
+    "name": "Bitcoal", 
+    "startDate": "2016-10-03 16:40:53"
 }

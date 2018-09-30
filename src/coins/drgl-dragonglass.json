@@ -1,16 +1,20 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "DRGL",
-    "diffTarget": 81,
-    "forkedFrom": ["bcn-bytecoin", "krb-karbo"],
-    "icon": "https://raw.githubusercontent.com/aejontargaryen/DRGL-X/master/drgl-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "DRGL", 
+    "diffTarget": 81, 
+    "forkedFrom": [
+        "bcn-bytecoin", 
+        "krb-karbo"
+    ], 
+    "icon": "https://raw.githubusercontent.com/aejontargaryen/DRGL-X/master/drgl-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2712001.0",
-        "discord": "https://discord.gg/5UJcJJg",
-        "repo": "https://github.com/ZirtysPerzys/DRGL",
-        "telegram": "https://t.me/DRGL_is_Dragonglass",
-        "twitter": "https://twitter.com/ZirtysPerzys",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2712001.0", 
+        "discord": "https://discord.gg/5UJcJJg", 
+        "repo": "https://github.com/ZirtysPerzys/DRGL", 
+        "telegram": "https://t.me/DRGL_is_Dragonglass", 
+        "twitter": "https://twitter.com/ZirtysPerzys", 
         "website": "https://zirtysperzys.org/"
-    },
-    "name": "Dragonglass"
+    }, 
+    "name": "Dragonglass", 
+    "startDate": "2017-12-27 00:01:12"
 }

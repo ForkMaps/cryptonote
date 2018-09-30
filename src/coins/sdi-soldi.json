@@ -1,13 +1,14 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "SDI",
-    "diffTarget": 60,
-    "forkedFrom": "bcn-bytecoin",
-    "icon" : "https://storage.googleapis.com/forkmaps/images/cryptonote/sdi-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "SDI", 
+    "diffTarget": 60, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/sdi-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3225185.0",
-        "repo": "https://github.com/bitsoldi/soldi",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3225185.0", 
+        "repo": "https://github.com/bitsoldi/soldi", 
         "website": "http://www.bitsoldi.com/"
-    },
-    "name": "Soldi"
+    }, 
+    "name": "Soldi", 
+    "startDate": "2018-03-21 18:45:47"
 }

@@ -1,18 +1,18 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "GDM",
-    "diffTarget": 60,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/gdm-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "GDM", 
+    "diffTarget": 60, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/gdm-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4413923.0",
-        "discord": "http://discord.gg/vBjwx6J",
-        "reddit": "http://www.reddit.com/r/geldum/",
-        "repo": "https://github.com/GeldumProject/geldum",
-        "telegram": "http://t.me/geldum",
-        "twitter": "http://twitter.com/geldumcoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4413923.0", 
+        "discord": "http://discord.gg/vBjwx6J", 
+        "reddit": "http://www.reddit.com/r/geldum/", 
+        "repo": "https://github.com/GeldumProject/geldum", 
+        "telegram": "http://t.me/geldum", 
+        "twitter": "http://twitter.com/geldumcoin", 
         "website": "http://www.geldum.org/"
-    },
-    "name": "Geldum",
-    "startDate": "2018-06-04"
+    }, 
+    "name": "Geldum", 
+    "startDate": "2018-04-07 15:04:05"
 }

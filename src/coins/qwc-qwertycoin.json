@@ -1,18 +1,23 @@
 {
-    "algorithm": "CryptoNight Heavy",
-    "coin": "QWC",
-    "diffTarget": 120,
-    "forkedFrom": ["krb-karbo", "xmr-monero", "xdn-digitalnote"],
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/qwc-icon.png",
+    "algorithm": "CryptoNight Heavy", 
+    "coin": "QWC", 
+    "diffTarget": 120, 
+    "forkedFrom": [
+        "krb-karbo", 
+        "xmr-monero", 
+        "xdn-digitalnote"
+    ], 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/qwc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2881418.0",
-        "discord": "https://discordapp.com/invite/U5amwCs",
-        "facebook": "https://www.facebook.com/Qwertycoin-422694361519282/",
-        "reddit": "https://www.reddit.com/r/QWERTYCOIN/",
-        "repo": "https://github.com/qwertycoin-org/qwertycoin",
-        "telegram": "https://t.me/qwertycoin",
-        "twitter": "https://twitter.com/Qwertycoin_QWC",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2881418.0", 
+        "discord": "https://discordapp.com/invite/U5amwCs", 
+        "facebook": "https://www.facebook.com/Qwertycoin-422694361519282/", 
+        "reddit": "https://www.reddit.com/r/QWERTYCOIN/", 
+        "repo": "https://github.com/qwertycoin-org/qwertycoin", 
+        "telegram": "https://t.me/qwertycoin", 
+        "twitter": "https://twitter.com/Qwertycoin_QWC", 
         "website": "https://qwertycoin.org/"
-    },
-    "name": "Qwertycoin"
+    }, 
+    "name": "Qwertycoin", 
+    "startDate": "2017-12-15 15:34:23"
 }

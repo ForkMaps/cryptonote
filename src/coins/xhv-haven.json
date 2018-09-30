@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight Haven",
-    "coin": "XHV",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/haven-icon.png",
+    "algorithm": "CryptoNight Haven", 
+    "coin": "XHV", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/haven-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2989487",
-        "discord": "https://discord.gg/vWQ2GZX",
-        "repo": "https://github.com/havenprotocol/haven",
-        "telegram": "https://t.me/Haven_Protocol",
-        "twitter": "https://twitter.com/HavenProtocol",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2989487", 
+        "discord": "https://discord.gg/vWQ2GZX", 
+        "repo": "https://github.com/havenprotocol/haven", 
+        "telegram": "https://t.me/Haven_Protocol", 
+        "twitter": "https://twitter.com/HavenProtocol", 
         "website": "https://havenprotocol.com"
-    },
-    "name": "Haven Protocol"
+    }, 
+    "name": "Haven Protocol", 
+    "startDate": "2018-01-14 10:56:05"
 }

@@ -1,18 +1,18 @@
 {
-    "algorithm": "CryptoNight Heavy",
-    "coin": "LOKI",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/loki-icon.png",
+    "algorithm": "CryptoNight Heavy", 
+    "coin": "LOKI", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/loki-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3016125.0",
-        "discord": "https://discord.gg/67GXfD6",
-        "reddit": "https://www.reddit.com/r/LokiProject/",
-        "repo": "https://github.com/loki-project/loki",
-        "telegram": "https://t.me/joinchat/DeNvR0JJ4JPn6TVSQjCsZQ",
-        "twitter": "https://twitter.com/loki_project",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3016125.0", 
+        "discord": "https://discord.gg/67GXfD6", 
+        "reddit": "https://www.reddit.com/r/LokiProject/", 
+        "repo": "https://github.com/loki-project/loki", 
+        "telegram": "https://t.me/joinchat/DeNvR0JJ4JPn6TVSQjCsZQ", 
+        "twitter": "https://twitter.com/loki_project", 
         "website": "https://loki.network"
-    },
-    "name": "Loki",
-    "startDate": "2018-04"
+    }, 
+    "name": "Loki", 
+    "startDate": "2018-01-15 22:50:09"
 }

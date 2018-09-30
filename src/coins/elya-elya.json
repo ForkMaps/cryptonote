@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "ELYA",
-    "diffTarget": 60,
-    "forkedFrom": "krb-karbo",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/elya-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "ELYA", 
+    "diffTarget": 60, 
+    "forkedFrom": "krb-karbo", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/elya-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3118732",
-        "discord": "https://discord.gg/4HZ6EpV",
-        "facebook": "https://www.facebook.com/Elyatel-262609767156322/",
-        "repo": "https://github.com/elyacoin/elyacoin",
-        "telegram": "https://t.me/joinchat/FQ-mtA6wjkcHknAl-hz5zg",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3118732", 
+        "discord": "https://discord.gg/4HZ6EpV", 
+        "facebook": "https://www.facebook.com/Elyatel-262609767156322/", 
+        "repo": "https://github.com/elyacoin/elyacoin", 
+        "telegram": "https://t.me/joinchat/FQ-mtA6wjkcHknAl-hz5zg", 
         "website": "https://elya.io/"
-    },
-    "name": "ELYA"
+    }, 
+    "name": "ELYA", 
+    "startDate": "2018-02-15 12:27:41"
 }

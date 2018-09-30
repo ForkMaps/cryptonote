@@ -1,12 +1,13 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "XMC",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xmc-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "XMC", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xmc-icon.png", 
     "links": {
-        "repo": "https://github.com/monero-classic",
+        "repo": "https://github.com/monero-classic", 
         "website": "https://monero.org/forks/"
-    },
-    "name": "Monero Classic"
+    }, 
+    "name": "Monero Classic", 
+    "startDate": "2013-08-15 21:54:22"
 }

@@ -1,12 +1,13 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "TVVC",
-    "diffTarget": 60,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/tvvc-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "TVVC", 
+    "diffTarget": 60, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/tvvc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4411116.0",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4411116.0", 
         "repo": "https://github.com/Tvvchainproject/Tvvchain"
-    },
-    "name": "TVVChain"
+    }, 
+    "name": "TVVChain", 
+    "startDate": "2018-06-03 07:13:52"
 }

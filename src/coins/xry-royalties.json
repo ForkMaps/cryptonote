@@ -1,14 +1,20 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "XRY",
-    "diffTarget": 120,
-    "forkedFrom": "bxc-bitcedi",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xry-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "XRY", 
+    "deadCoin": {
+        "endDate": "2018-01-15 00:00:00", 
+        "reason": "This coin traded on LTC on Cryptopia. Cryptopia closed DOGE base", 
+        "source": "https://deadcoins.com/entry/934/?gvid=1308"
+    }, 
+    "diffTarget": 120, 
+    "forkedFrom": "bxc-bitcedi", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xry-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2046563",
-        "repo": "https://github.com/Vetro7/RoyaltiesCLI",
-        "twitter": "https://twitter.com/RoyaltiesGroup",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2046563", 
+        "repo": "https://github.com/Vetro7/RoyaltiesCLI", 
+        "twitter": "https://twitter.com/RoyaltiesGroup", 
         "website": "https://xry.io/"
-    },
-    "name": "Royalties"
+    }, 
+    "name": "Royalties", 
+    "startDate": "2017-07-12 22:58:30"
 }

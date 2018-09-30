@@ -1,15 +1,16 @@
 {
-    "algorithm": "Wild Keccak",
-    "coin": "BBR",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bbr-icon.png",
+    "algorithm": "Wild Keccak", 
+    "coin": "BBR", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bbr-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=577267.0",
-        "reddit": "http://www.reddit.com/r/boolberry/",
-        "repo": "https://github.com/cryptozoidberg/boolberry/",
-        "twitter": "http://twitter.com/boolberryBBR",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=577267.0", 
+        "reddit": "http://www.reddit.com/r/boolberry/", 
+        "repo": "https://github.com/cryptozoidberg/boolberry/", 
+        "twitter": "http://twitter.com/boolberryBBR", 
         "website": "https://boolberry.com/"
-    },
-    "name": "Boolberry"
+    }, 
+    "name": "Boolberry", 
+    "startDate": "2014-04-19 13:36:40"
 }

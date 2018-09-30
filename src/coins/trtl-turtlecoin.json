@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "TRTL",
-    "diffTarget": 30,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/turtlecoin/brand/master/logo/web/icon/turtlecoin_icon_color%402x.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "TRTL", 
+    "diffTarget": 30, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://raw.githubusercontent.com/turtlecoin/brand/master/logo/web/icon/turtlecoin_icon_color%402x.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2872287.0",
-        "discord": "http://chat.turtlecoin.lol/",
-        "reddit": "https://www.reddit.com/r/TRTL/",
-        "repo": "https://github.com/turtlecoin/turtlecoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2872287.0", 
+        "discord": "http://chat.turtlecoin.lol/", 
+        "reddit": "https://www.reddit.com/r/TRTL/", 
+        "repo": "https://github.com/turtlecoin/turtlecoin", 
         "website": "https://turtlecoin.lol"
-    },
-    "name": "TurtleCoin"
+    }, 
+    "name": "TurtleCoin", 
+    "startDate": "2018-01-07 22:39:35"
 }

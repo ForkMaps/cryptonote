@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "NNC",
-    "diffTarget": 60,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nnc-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "NNC", 
+    "diffTarget": 60, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nnc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2664158.0",
-        "facebook": "https://www.facebook.com/profile.php?id=100015568710128",
-        "repo": "https://github.com/nicnaccoin/NicNacCoin",
-        "twitter": "https://twitter.com/nicnaccoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2664158.0", 
+        "facebook": "https://www.facebook.com/profile.php?id=100015568710128", 
+        "repo": "https://github.com/nicnaccoin/NicNacCoin", 
+        "twitter": "https://twitter.com/nicnaccoin", 
         "website": "https://nicnaccoins.com/crypto/www/"
-    },
-    "name": "Nicnac"
+    }, 
+    "name": "Nicnac", 
+    "startDate": "2017-02-25 19:20:32"
 }

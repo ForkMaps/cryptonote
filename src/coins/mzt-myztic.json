@@ -1,18 +1,19 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "MZT",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mzt-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "MZT", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mzt-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4445339",
-        "discord": "https://discord.gg/tzKSVTX",
-        "facebook": "https://www.facebook.com/myzticcash",
-        "reddit": "https://www.reddit.com/r/Myztic/",
-        "repo": "https://github.com/myztic-project/myztic",
-        "telegram": "https://t.me/myztic_cash",
-        "twitter": "https://twitter.com/myztic_cash",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4445339", 
+        "discord": "https://discord.gg/tzKSVTX", 
+        "facebook": "https://www.facebook.com/myzticcash", 
+        "reddit": "https://www.reddit.com/r/Myztic/", 
+        "repo": "https://github.com/myztic-project/myztic", 
+        "telegram": "https://t.me/myztic_cash", 
+        "twitter": "https://twitter.com/myztic_cash", 
         "website": "https://www.myztic.cash/"
-    },
-    "name": "Myztic"
+    }, 
+    "name": "Myztic", 
+    "startDate": "2018-02-21 18:36:49"
 }

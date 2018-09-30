@@ -1,18 +1,19 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "LTHN",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lthn-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "LTHN", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lthn-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2090765.0",
-        "discord": "https://discord.gg/BWkvj5u",
-        "facebook": "https://www.facebook.com/intensecoin/",
-        "reddit": "https://www.reddit.com/r/IntenseCoin/",
-        "repo": "https://github.com/valiant1x/intensecoin",
-        "telegram": "https://t.me/officialintensecoin",
-        "twitter": "https://twitter.com/intensecoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2090765.0", 
+        "discord": "https://discord.gg/BWkvj5u", 
+        "facebook": "https://www.facebook.com/intensecoin/", 
+        "reddit": "https://www.reddit.com/r/IntenseCoin/", 
+        "repo": "https://github.com/LetheanMovement/lethean", 
+        "telegram": "https://t.me/officialintensecoin", 
+        "twitter": "https://twitter.com/intensecoin", 
         "website": "https://intensecoin.com/2018/08/welcome-to-lethean/"
-    },
-    "name": "Lethean"
+    }, 
+    "name": "Lethean", 
+    "startDate": "2017-07-15 15:04:18"
 }

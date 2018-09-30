@@ -1,16 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "DSH",
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://raw.githubusercontent.com/dashcoin/dashcoin.github.io/master/assets/img/favicons/favicon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "DSH", 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://raw.githubusercontent.com/dashcoin/dashcoin.github.io/master/assets/img/favicons/favicon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=678232",
-        "reddit": "http://www.reddit.com/r/Dashcoin/",
-        "repo": "https://github.com/papaLazzarou/dashcoin",
-        "twitter": "http://twitter.com/dashcoins/",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=678232", 
+        "reddit": "http://www.reddit.com/r/Dashcoin/", 
+        "repo": "https://github.com/papaLazzarou/dashcoin", 
+        "twitter": "http://twitter.com/dashcoins/", 
         "website": "http://dashcoin.info/"
-    },
-    "logo": "https://raw.githubusercontent.com/dashcoin/dashcoin.github.io/master/assets/img/logo.png",
-    "name": "Dashcoin",
-    "startDate": "2014-07-05"
+    }, 
+    "logo": "https://raw.githubusercontent.com/dashcoin/dashcoin.github.io/master/assets/img/logo.png", 
+    "name": "Dashcoin", 
+    "startDate": "2014-06-13 11:18:57"
 }

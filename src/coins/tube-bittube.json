@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight Saber",
-    "coin": "TUBE",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://raw.githubusercontent.com/ipbc-dev/bittube-wallet-gui/master/images/bittubeIcon-trans84x84.png",
+    "algorithm": "CryptoNight Saber", 
+    "coin": "TUBE", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://raw.githubusercontent.com/ipbc-dev/bittube-wallet-gui/master/images/bittubeIcon-trans84x84.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2856278.0",
-        "discord": "https://discord.gg/5uBQmBH",
-        "facebook": "https://www.facebook.com/pg/bit.tube.official",
-        "repo": "https://github.com/ipbc-dev",
-        "telegram": "https://t.me/ipbcenglish",
-        "twitter": "https://twitter.com/BitTubeApp",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2856278.0", 
+        "discord": "https://discord.gg/5uBQmBH", 
+        "facebook": "https://www.facebook.com/pg/bit.tube.official", 
+        "repo": "https://github.com/ipbc-dev", 
+        "telegram": "https://t.me/ipbcenglish", 
+        "twitter": "https://twitter.com/BitTubeApp", 
         "website": "https://coin.bit.tube/"
-    },
-    "name": "Bittube"
+    }, 
+    "name": "Bittube", 
+    "startDate": "2017-12-12 11:44:45"
 }

@@ -1,16 +1,16 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "HYPE",
-    "diffTarget": 30,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/hype-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "HYPE", 
+    "diffTarget": 30, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/hype-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4541646",
-        "discord": "https://discord.gg/RPTeFK9",
-        "repo": "https://github.com/HazeDevelopment/HypeCoin",
-        "twitter": "https://twitter.com/HypeCoinOffici1",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4541646", 
+        "discord": "https://discord.gg/RPTeFK9", 
+        "repo": "https://github.com/HazeDevelopment/HypeCoin", 
+        "twitter": "https://twitter.com/HypeCoinOffici1", 
         "website": "http://hypecoin.foundation/"
-    },
-    "name": "HypeCoin",
-    "startDate": "2018-06-10"
+    }, 
+    "name": "HypeCoin", 
+    "startDate": "2018-06-03 13:42:18"
 }

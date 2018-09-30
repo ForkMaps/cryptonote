@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "TOKL",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/tokl-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "TOKL", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/tokl-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4552543.0",
-        "discord": "https://discordapp.com/invite/9GdqGdG",
-        "facebook": "https://www.facebook.com/TOKLIO",
-        "repo": "https://github.com/Toklio-project/Toklio",
-        "telegram": "https://t.me/Toklio",
-        "twitter": "https://twitter.com/ToklioCoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4552543.0", 
+        "discord": "https://discordapp.com/invite/9GdqGdG", 
+        "facebook": "https://www.facebook.com/TOKLIO", 
+        "repo": "https://github.com/Toklio-project/Toklio", 
+        "telegram": "https://t.me/Toklio", 
+        "twitter": "https://twitter.com/ToklioCoin", 
         "website": "https://tokl.io/"
-    },
-    "name": "Toklio"
+    }, 
+    "name": "Toklio", 
+    "startDate": "2018-04-26 09:46:52"
 }

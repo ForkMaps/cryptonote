@@ -1,18 +1,18 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "INC",
-    "diffTarget": 120,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/inc-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "INC", 
+    "diffTarget": 120, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/inc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3276900.0",
-        "discord": "https://discordapp.com/invite/4acvEuG",
-        "reddit": "https://www.reddit.com/r/IncognitoCurrency/",
-        "repo": "https://github.com/incognito-currency/incognito",
-        "telegram": "https://t.me/joinchat/IorfKg-O17vdgH2c8qd2Sg",
-        "twitter": "https://twitter.com/IncognitoCrypto",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3276900.0", 
+        "discord": "https://discordapp.com/invite/4acvEuG", 
+        "reddit": "https://www.reddit.com/r/IncognitoCurrency/", 
+        "repo": "https://github.com/incognito-currency/incognito", 
+        "telegram": "https://t.me/joinchat/IorfKg-O17vdgH2c8qd2Sg", 
+        "twitter": "https://twitter.com/IncognitoCrypto", 
         "website": "http://inc.ognito.org/"
-    },
-    "name": "Incognito",
-    "startDate": "2018-04-07"
+    }, 
+    "name": "Incognito", 
+    "startDate": "2018-04-07 16:06:10"
 }

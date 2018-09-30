@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "FML",
-    "diffTarget": 60,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fml-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "FML", 
+    "diffTarget": 60, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fml-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4621611",
-        "facebook": "https://www.facebook.com/FimflCoin/",
-        "repo": "https://github.com/FIMFL/FIMFL",
-        "twitter": "https://twitter.com/FimflCoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4621611", 
+        "facebook": "https://www.facebook.com/FimflCoin/", 
+        "repo": "https://github.com/FIMFL/FIMFL", 
+        "twitter": "https://twitter.com/FimflCoin", 
         "website": "https://www.fimfl.to/"
-    },
-    "name": "FIMFL"
+    }, 
+    "name": "FIMFL", 
+    "startDate": "2018-02-02 12:20:56"
 }

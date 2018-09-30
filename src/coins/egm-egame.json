@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "EGM",
-    "diffTarget": 240,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/egm-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "EGM", 
+    "diffTarget": 240, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/egm-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4458111.0",
-        "discord": "http://discord.gg/EmGDEQJ",
-        "facebook": "https://www.facebook.com/egamecash",
-        "repo": "https://github.com/egamecash",
-        "twitter": "https://twitter.com/egamecash",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4458111.0", 
+        "discord": "http://discord.gg/EmGDEQJ", 
+        "facebook": "https://www.facebook.com/egamecash", 
+        "repo": "https://github.com/egamecash", 
+        "twitter": "https://twitter.com/egamecash", 
         "website": "http://www.egamecash.org/"
-    },
-    "name": "eGame Cash"
+    }, 
+    "name": "eGame Cash", 
+    "startDate": "2018-03-11 12:14:48"
 }

@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight Fast",
-    "coin": "LOTTO",
-    "diffTarget": 120,
-    "forkedFrom": "msr-masari",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lotto-icon.png",
+    "algorithm": "CryptoNight Fast", 
+    "coin": "LOTTO", 
+    "diffTarget": 120, 
+    "forkedFrom": "msr-masari", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lotto-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4518300.0",
-        "discord": "https://discord.gg/Mtpynng",
-        "repo": "https://github.com/getlotto/lotto",
-        "twitter": "https://twitter.com/lotto_get",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4518300.0", 
+        "discord": "https://discord.gg/Mtpynng", 
+        "repo": "https://github.com/getlotto/lotto", 
+        "twitter": "https://twitter.com/lotto_get", 
         "website": "https://getlotto.io/"
-    },
-    "name": "Lotto"
+    }, 
+    "name": "Lotto", 
+    "startDate": "2018-06-22 10:55:48"
 }

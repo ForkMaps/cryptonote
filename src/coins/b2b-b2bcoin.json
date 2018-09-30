@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "B2B",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/b2bcoin-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "B2B", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/b2bcoin-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2098163.0",
-        "discord": "https://discord.gg/QwhhqPY",
-        "facebook": "https://www.facebook.com/b2beyond/",
-        "repo": "https://github.com/oliviersinnaeve/b2bcoin-wallet",
-        "telegram": "https://t.me/joinchat/Fxlb2Qw8ivAta7iYgM0Wiw",
-        "twitter": "https://twitter.com/CoinB2b",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2098163.0", 
+        "discord": "https://discord.gg/QwhhqPY", 
+        "facebook": "https://www.facebook.com/b2beyond/", 
+        "repo": "https://github.com/oliviersinnaeve/b2bcoin-wallet", 
+        "telegram": "https://t.me/joinchat/Fxlb2Qw8ivAta7iYgM0Wiw", 
+        "twitter": "https://twitter.com/CoinB2b", 
         "website": "https://b2bcoin.xyz/"
-    },
-    "name": "B2BCoin"
+    }, 
+    "name": "B2BCoin", 
+    "startDate": "2017-08-17 22:22:24"
 }

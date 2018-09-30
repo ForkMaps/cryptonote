@@ -1,18 +1,22 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "DROP",
-    "diffTarget": 120,
-    "forkedFrom": ["xdn-digitalnote", "trtl-turtlecoin"],
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xdrop-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "DROP", 
+    "diffTarget": 120, 
+    "forkedFrom": [
+        "xdn-digitalnote", 
+        "trtl-turtlecoin"
+    ], 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xdrop-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4556718.0",
-        "discord": "https://discord.gg/qMNag24",
-        "facebook": "https://fb.com/xDropProject",
-        "reddit": "https://reddit.com/r/xDrop",
-        "repo": "https://github.com/xDropProject/xDrop",
-        "telegram": "https://t.me/xDropProject",
-        "twitter": "https://twitter.com/xDropProject",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4556718.0", 
+        "discord": "https://discord.gg/qMNag24", 
+        "facebook": "https://fb.com/xDropProject", 
+        "reddit": "https://reddit.com/r/xDrop", 
+        "repo": "https://github.com/xDropProject/xDrop", 
+        "telegram": "https://t.me/xDropProject", 
+        "twitter": "https://twitter.com/xDropProject", 
         "website": "https://xdrop.io/"
-    },
-    "name": "xDrop"
+    }, 
+    "name": "xDrop", 
+    "startDate": "2018-06-27 23:13:48"
 }

@@ -1,13 +1,14 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "VEST",
-    "diffTarget": 60,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/vest-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "VEST", 
+    "diffTarget": 60, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/vest-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2939250.0",
-        "discord": "https://discord.gg/zEb2nVP",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2939250.0", 
+        "discord": "https://discord.gg/zEb2nVP", 
         "repo": "https://github.com/vesta-official/vesta"
-    },
-    "name": "Vesta"
+    }, 
+    "name": "Vesta", 
+    "startDate": "2018-02-12 07:42:52"
 }

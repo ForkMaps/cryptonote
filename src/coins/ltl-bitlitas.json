@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "LTL",
-    "diffTarget": 60,
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ltl-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "LTL", 
+    "diffTarget": 60, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ltl-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3262692",
-        "discord": "https://discord.gg/UXkwJfC",
-        "repo": "https://github.com/Bitlitas/bitlitas",
-        "twitter": "https://twitter.com/bitlitas",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3262692", 
+        "discord": "https://discord.gg/UXkwJfC", 
+        "repo": "https://github.com/Bitlitas/bitlitas", 
+        "twitter": "https://twitter.com/bitlitas", 
         "website": "https://bitlitas.lt/"
-    },
-    "name": "BitLitas"
+    }, 
+    "name": "BitLitas", 
+    "startDate": "2018-01-26 00:07:22"
 }

@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight Heavy",
-    "coin": "NBR",
-    "diffTarget": 240,
-    "forkedFrom": "krb-karbo",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nbr-icon.png",
+    "algorithm": "CryptoNight Heavy", 
+    "coin": "NBR", 
+    "diffTarget": 240, 
+    "forkedFrom": "krb-karbo", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nbr-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2912866.0",
-        "facebook": "https://www.facebook.com/niobio.cash",
-        "repo": "https://github.com/niobio-cash",
-        "twitter": "https://twitter.com/niobio_cash",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2912866.0", 
+        "facebook": "https://www.facebook.com/niobio.cash", 
+        "repo": "https://github.com/niobio-cash", 
+        "twitter": "https://twitter.com/niobio_cash", 
         "website": "https://niobiocash.org/"
-    },
-    "name": "Niobiocash"
+    }, 
+    "name": "Niobiocash", 
+    "startDate": "2017-12-09 01:08:58"
 }

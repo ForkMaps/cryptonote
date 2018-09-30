@@ -1,17 +1,17 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "LUK",
-    "diffTarget": 90,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/luka-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "LUK", 
+    "diffTarget": 90, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/luka-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2595241.0",
-        "facebook": "https://www.facebook.com/cryptoluka",
-        "repo": "https://github.com/cryptoluka/cryptoluka",
-        "telegram": "https://t.me/cryptoluka",
-        "twitter": "https://twitter.com/LukaCLP",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2595241.0", 
+        "facebook": "https://www.facebook.com/cryptoluka", 
+        "repo": "https://github.com/cryptoluka/cryptoluka", 
+        "telegram": "https://t.me/cryptoluka", 
+        "twitter": "https://twitter.com/LukaCLP", 
         "website": "http://www.cryptoluka.cl"
-    },
-    "name": "LuKa",
-    "startDate": "2018-02"
+    }, 
+    "name": "LuKa", 
+    "startDate": "2017-12-14 11:12:00"
 }

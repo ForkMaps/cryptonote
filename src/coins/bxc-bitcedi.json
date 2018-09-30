@@ -1,11 +1,17 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "BXC",
-    "forkedFrom": "xdn-digitalnote",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bxc-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "BXC", 
+    "deadCoin": {
+        "endDate": "2017-09-22 00:00:00", 
+        "reason": "Check the blockchain, check their website, chain is dead", 
+        "source": "https://deadcoins.com/entry/893/?gvid=1308"
+    }, 
+    "forkedFrom": "xdn-digitalnote", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bxc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1474935.0",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1474935.0", 
         "repo": "https://github.com/lulworm/bitcedi"
-    },
-    "name": "Bitcedi"
+    }, 
+    "name": "Bitcedi", 
+    "startDate": "2016-05-13 23:57:02"
 }

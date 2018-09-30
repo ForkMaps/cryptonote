@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "MTC",
-    "diffTarget": 60,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mtc-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "MTC", 
+    "diffTarget": 60, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mtc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2232302.0",
-        "discord": "https://discord.gg/4dTBUDQ",
-        "facebook": "https://www.facebook.com/manateecoin",
-        "repo": "http://git.mananet.net/manatails/manateecoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2232302.0", 
+        "discord": "https://discord.gg/4dTBUDQ", 
+        "facebook": "https://www.facebook.com/manateecoin", 
+        "repo": "http://git.mananet.net/manatails/manateecoin", 
         "twitter": "https://twitter.com/manateecoin"
-    },
-    "name": "ManateeCoin"
+    }, 
+    "name": "ManateeCoin", 
+    "startDate": "2017-10-03 04:31:15"
 }

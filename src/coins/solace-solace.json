@@ -1,16 +1,17 @@
 {
-    "algorithm": "CryptoNight Heavy",
-    "coin": "SOLACE",
-    "diffTarget": 60,
-    "forkedFrom": "sumo-sumocoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/solace-icon.png",
+    "algorithm": "CryptoNight Heavy", 
+    "coin": "SOLACE", 
+    "diffTarget": 60, 
+    "forkedFrom": "sumo-sumocoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/solace-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3297659.0",
-        "discord": "https://discord.gg/S7fVgc5",
-        "repo": "https://github.com/schmeckles22/SolaceCoin",
-        "telegram": "https://t.me/joinchat/IADkGw_DQDbL6HhnVzGYKg",
-        "twitter": "https://twitter.com/SolaceCoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3297659.0", 
+        "discord": "https://discord.gg/S7fVgc5", 
+        "repo": "https://github.com/schmeckles22/SolaceCoin", 
+        "telegram": "https://t.me/joinchat/IADkGw_DQDbL6HhnVzGYKg", 
+        "twitter": "https://twitter.com/SolaceCoin", 
         "website": "https://www.solace-coin.com/"
-    },
-    "name": "Solace Coin"
+    }, 
+    "name": "Solace Coin", 
+    "startDate": "2018-04-09 14:18:39"
 }

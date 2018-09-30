@@ -1,12 +1,14 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "ROTO2",
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/roto2-icon.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "ROTO2", 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/roto2-icon.png", 
     "links": {
-        "discord": "https://discord.gg/3qckWNg",
-        "repo": "https://github.com/Roto2coin/Roto2coin-project",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4989199.0", 
+        "discord": "https://discord.gg/3qckWNg", 
+        "repo": "https://github.com/Musil5/roto2coin-proyecto", 
         "telegram": "https://t.me/joinchat/GvlkOQsC7uNMllzzyIkbew"
-    },
-    "name": "Roto2coin"
+    }, 
+    "name": "Roto2coin", 
+    "startDate": "2018-08-28 00:53:23"
 }

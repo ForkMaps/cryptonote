@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "NERO",
-    "diffTarget": 10,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bitcoinnero-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "NERO", 
+    "diffTarget": 10, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bitcoinnero-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4693135",
-        "discord": "https://discord.gg/YHjgYRw",
-        "facebook": "https://www.facebook.com/bitcoinnero/",
-        "repo": "https://github.com/bitcoinnero",
-        "telegram": "https://t.me/bitcoinnero/",
-        "twitter": "https://twitter.com/BitcoinNero",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4693135", 
+        "discord": "https://discord.gg/YHjgYRw", 
+        "facebook": "https://www.facebook.com/bitcoinnero/", 
+        "repo": "https://github.com/bitcoinnero", 
+        "telegram": "https://t.me/bitcoinnero/", 
+        "twitter": "https://twitter.com/BitcoinNero", 
         "website": "http://btcnero.org/"
-    },
-    "name": "BitcoinNero"
+    }, 
+    "name": "BitcoinNero", 
+    "startDate": "2018-07-06 17:14:21"
 }

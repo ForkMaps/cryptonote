@@ -1,17 +1,18 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "DPR",
-    "diffTarget": 60,
-    "forkedFrom": "bxc-bitcedi",
-    "icon" : "https://storage.googleapis.com/forkmaps/images/cryptonote/dpr-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "DPR", 
+    "diffTarget": 60, 
+    "forkedFrom": "bxc-bitcedi", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/dpr-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4553663",
-        "discord": "https://discord.gg/vB3DnCR",
-        "facebook": "https://www.facebook.com/groups/2092517704348395/",
-        "repo": "https://github.com/dopplerX",
-        "telegram": "https://t.me/dprcomm",
-        "twitter": "https://twitter.com/DopplerDpr",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4553663", 
+        "discord": "https://discord.gg/vB3DnCR", 
+        "facebook": "https://www.facebook.com/groups/2092517704348395/", 
+        "repo": "https://github.com/dopplerX", 
+        "telegram": "https://t.me/dprcomm", 
+        "twitter": "https://twitter.com/DopplerDpr", 
         "website": "https://dopplersite.com/"
-    },
-    "name": "Doppler"
+    }, 
+    "name": "Doppler", 
+    "startDate": "2018-06-04 18:23:27"
 }

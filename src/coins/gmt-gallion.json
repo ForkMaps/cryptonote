@@ -1,16 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "GMT",
-    "diffTarget": 240,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/gmt-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "GMT", 
+    "diffTarget": 240, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/gmt-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3054182.0",
-        "discord": "http://discord.gg/mzkpRUa",
-        "facebook": "https://www.facebook.com/GallionsCrypto/",
-        "repo": "https://github.com/Gallion-crypto/Gallion",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3054182.0", 
+        "discord": "http://discord.gg/mzkpRUa", 
+        "facebook": "https://www.facebook.com/GallionsCrypto/", 
+        "repo": "https://github.com/Gallion-crypto/Gallion", 
         "website": "http://gallion.ddns.net/"
-    },
-    "name": "Gallion",
-    "startDate": "2018-02-08"
+    }, 
+    "name": "Gallion", 
+    "startDate": "2018-03-03 00:12:58"
 }

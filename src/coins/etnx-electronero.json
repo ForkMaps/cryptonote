@@ -1,18 +1,19 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "ETNX",
-    "diffTarget": 60,
-    "forkedFrom": "etn-electroneum",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/etnx-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "ETNX", 
+    "diffTarget": 60, 
+    "forkedFrom": "etn-electroneum", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/etnx-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3373837.0",
-        "discord": "https://discord.gg/Msy85Uz",
-        "facebook": "https://www.facebook.com/etxofficial",
-        "reddit": "https://www.reddit.com/r/Electronero_official/",
-        "repo": "https://github.com/electronero/electronero",
-        "telegram": "https://t.me/electronero",
-        "twitter": "https://twitter.com/_electronero",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3373837.0", 
+        "discord": "https://discord.gg/Msy85Uz", 
+        "facebook": "https://www.facebook.com/etxofficial", 
+        "reddit": "https://www.reddit.com/r/Electronero_official/", 
+        "repo": "https://github.com/electronero/electronero", 
+        "telegram": "https://t.me/electronero", 
+        "twitter": "https://twitter.com/_electronero", 
         "website": "https://electronero.org/"
-    },
-    "name": "Electronero"
+    }, 
+    "name": "Electronero", 
+    "startDate": "2018-03-05 19:55:29"
 }

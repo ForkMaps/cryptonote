@@ -1,16 +1,22 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "CREP",
-    "diffTarget": 240,
-    "forkedFrom": "krb-karbo",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/crep-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "CREP", 
+    "deadCoin": {
+        "endDate": "2018-05-26 00:00:00", 
+        "reason": "Website dead and bitcointalk comments",  
+        "source": "https://bitcointalk.org/index.php?topic=2638878.0"
+    }, 
+    "diffTarget": 240, 
+    "forkedFrom": "krb-karbo", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/crep-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2638878.0",
-        "discord": "https://discordapp.com/invite/qxbZMjX",
-        "repo": "https://github.com/crepcoin/crepcoin",
-        "telegram": "https://t.me/crepcoin",
-        "twitter": "https://twitter.com/crepcoin",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2638878.0", 
+        "discord": "https://discordapp.com/invite/qxbZMjX", 
+        "repo": "https://github.com/crepcoin/crepcoin", 
+        "telegram": "https://t.me/crepcoin", 
+        "twitter": "https://twitter.com/crepcoin", 
         "website": "https://www.crepcoin.org"
-    },
-    "name": "Crepcoin"
+    }, 
+    "name": "Crepcoin", 
+    "startDate": "2017-11-26 17:23:39"
 }

@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight",
-    "coin": "TYC",
-    "diffTarget": 120,
-    "forkedFrom": "bcn-bytecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/tyc-icon.png",
+    "algorithm": "CryptoNight", 
+    "coin": "TYC", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/tyc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2910750.0",
-        "discord": "https://discord.gg/hEjaXmR",
-        "repo": "https://github.com/blockchain-next/TycheCash",
-        "telegram": "https://t.me/tychecash",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2910750.0", 
+        "discord": "https://discord.gg/hEjaXmR", 
+        "repo": "https://github.com/blockchain-next/TycheCash", 
+        "telegram": "https://t.me/tychecash", 
         "website": "https://tyche.cash/"
-    },
-    "name": "Tychecash"
+    }, 
+    "name": "Tychecash", 
+    "startDate": "2018-02-07 15:34:04"
 }

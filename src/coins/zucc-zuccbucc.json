@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "ZUCC",
-    "diffTarget": 120,
-    "forkedFrom": "msr-masari",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/zucc-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "ZUCC", 
+    "diffTarget": 120, 
+    "forkedFrom": "msr-masari", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/zucc-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3761715.0",
-        "discord": "https://discord.gg/g6xbFrt",
-        "reddit": "https://www.reddit.com/r/Zuccbucc/",
-        "repo": "https://github.com/zuccbucc-project",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3761715.0", 
+        "discord": "https://discord.gg/g6xbFrt", 
+        "reddit": "https://www.reddit.com/r/Zuccbucc/", 
+        "repo": "https://github.com/zuccbucc-project", 
         "telegram": "https://t.me/joinchat/IwHrLEWkWBRCDCEBvdKXfA"
-    },
-    "name": "ZuccBucc"
+    }, 
+    "name": "ZuccBucc", 
+    "startDate": "2018-05-01 03:56:51"
 }

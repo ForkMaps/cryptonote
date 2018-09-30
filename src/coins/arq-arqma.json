@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "ARQ",
-    "diffTarget": 240,
-    "forkedFrom": "xmr-monero",
-    "icon" : "https://storage.googleapis.com/forkmaps/images/cryptonote/arqma-icon-fixed.png",
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "ARQ", 
+    "diffTarget": 240, 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/arqma-icon-fixed.png", 
     "links": {
-        "discord": "https://discord.gg/s9BQpJT",
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4474605",
-        "repo": "https://github.com/arqma",
-        "telegram": "https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4474605", 
+        "discord": "https://discord.gg/s9BQpJT", 
+        "repo": "https://github.com/arqma", 
+        "telegram": "https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw", 
         "website": "https://arqma.com/"
-    },
-    "name": "ArQmA"
+    }, 
+    "name": "ArQmA", 
+    "startDate": "2018-05-14 19:58:11"
 }

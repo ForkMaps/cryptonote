@@ -1,14 +1,15 @@
 {
-    "algorithm": "CryptoNight v7",
-    "coin": "XCA",
-    "forkedFrom": "xmr-monero",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xcash-icon.png",
+    "algorithm": "CryptoNight v7", 
+    "coin": "XCA", 
+    "forkedFrom": "xmr-monero", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xcash-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4781246",
-        "discord": "https://discord.gg/4CAahnd",
-        "repo": "https://github.com/X-CASH-official/X-CASH",
-        "telegram": "http://t.me/xcashglobal",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4781246", 
+        "discord": "https://discord.gg/4CAahnd", 
+        "repo": "https://github.com/X-CASH-official/X-CASH", 
+        "telegram": "http://t.me/xcashglobal", 
         "website": "https://x-cash.org/"
-    },
-    "name": "X-CASH"
+    }, 
+    "name": "X-CASH", 
+    "startDate": "2018-07-20 23:14:51"
 }
