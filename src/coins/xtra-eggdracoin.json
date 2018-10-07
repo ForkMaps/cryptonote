@@ -1,0 +1,14 @@
+{
+    "algorithm": "CryptoNight Lite v1", 
+    "coin": "XTRA", 
+    "diffTarget": 120, 
+    "forkedFrom": "trtl-turtlecoin", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/eggdracoin-icon.png", 
+    "links": { 
+        "discord": "https://discordapp.com/invite/3c8S6Eh", 
+        "repo": "https://github.com/ExtraHash/eggdracoin", 
+        "website": "https://eggdra.com"
+    }, 
+    "name": "eggdracoin", 
+    "startDate": "2018-09-29"
+}
