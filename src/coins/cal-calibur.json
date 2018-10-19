@@ -1,0 +1,15 @@
+{
+    "algorithm": "CryptoNight v8",
+    "coin": "CAL",
+    "forkedFrom": "xmr-monero",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cal-icon.png", 
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5052859.0",
+        "discord": "https://discord.gg/24gjv5f",
+        "repo": "https://github.com/caliber-cash",
+        "twitter": "https://twitter.com/calibercash?lang=en",
+        "website": "http://caliber.cash/"
+    },
+    "name": "Caliber",
+    "startDate": "2018-10-18 14:17:55"
+}
