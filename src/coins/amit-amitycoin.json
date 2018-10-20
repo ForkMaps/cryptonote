@@ -1,13 +1,12 @@
 {
-    "algorithm": "CryptoNight v7", 
+    "algorithm": "CryptoNight Soft Shell-Tweaked", 
     "coin": "AMIT", 
-    "diffTarget": 90, 
-    "forkedFrom": "bcn-bytecoin", 
+    "diffTarget": 120, 
+    "forkedFrom": "trtl-turtlecoin", 
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/amity-logo.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4971212", 
         "discord": "https://discord.gg/k2jYvBT", 
-        "repo": "https://github.com/AmityCore", 
+        "repo": "https://github.com/CalexCore", 
         "website": "https://amitycoin.tk"
     }, 
     "name": "Amitycoin", 
