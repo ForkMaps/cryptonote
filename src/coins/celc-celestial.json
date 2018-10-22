@@ -1,0 +1,15 @@
+{
+    "algorithm": "CryptoNight Soft Shell",
+    "coin": "CELC",
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/celc-icon.png",
+    "links": {
+        "discord": "https://discord.gg/9XT4S72",
+        "repo": "https://github.com/CelestialCash",
+        "telegram": "https://t.me/CelestialCash",
+        "twitter": "https://twitter.com/CelestialCash",
+        "website": "https://celestial.cash/"
+    },
+    "name": "Celestial",
+    "startDate": "2018-10-22"
+}
