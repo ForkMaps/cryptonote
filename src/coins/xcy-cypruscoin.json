@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight Lite v1",
+    "coin": "XCY",
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xcy-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5053829.0",
+        "discord": "https://discord.gg/fHd5Y3V",
+        "repo": "https://github.com/CyprusCoinClub",
+        "telegram": "https://t.me/CyprusCoin",
+        "twitter": "https://twitter.com/CyprusCoin",
+        "website": "http://cypruscoin.club/"
+    },
+    "name": "CyprusCoin",
+    "startDate": "2018-10-20 02:26:02"
+}
