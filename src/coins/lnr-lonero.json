@@ -1,14 +1,15 @@
 {
-    "algorithm": "CryptoNight", 
-    "coin": "LNR", 
-    "forkedFrom": "forknoted", 
-    "icon": "https://github.com/Lonero-Team/cryptonote/blob/master/src/images/lnr-icon.png", 
+    "algorithm": "CryptoNight",
+    "coin": "LNR",
+    "forkedFrom": "bcn-bytecoin",
+    "forknote": true,
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lnr-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4589577.0", 
-        "repo": "https://github.com/Lonero-Team/Lonero-Beta", 
-        "twitter": "https://twitter.com/lonerolnr", 
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4589577.0",
+        "repo": "https://github.com/Lonero-Team/Lonero-Beta",
+        "twitter": "https://twitter.com/lonerolnr",
         "website": "https://www.lonero.org/"
-    }, 
-    "name": "Lonero", 
+    },
+    "name": "Lonero",
     "startDate": "2018-08-20 15:42:18"
 }
