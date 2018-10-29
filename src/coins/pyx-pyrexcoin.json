@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight v7",
+    "coin": "PYX",
+    "forkedFrom": "xmr-monero",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/pyx-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2788839.0",
+        "discord": "https://discord.gg/xMWUAnN",
+        "repo": "https://github.com/pyrex-coin/Pyrex",
+        "telegram": "https://t.me/pyrexcoin",
+        "twitter": "https://twitter.com/pyrexcoin",
+        "website": "https://pyrexcoin.com/"
+    },
+    "name": "Pyrexcoin",
+    "startDate": "2018-01-20"
+}

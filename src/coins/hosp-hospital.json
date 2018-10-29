@@ -1,0 +1,17 @@
+{
+    "algorithm": "CryptoNight v7",
+    "coin": "HOSP",
+    "forkedFrom": "krb-karbo",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/hosp-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5041899.0",
+        "discord": "https://discord.gg/z3wAweU",
+        "repo": "https://github.com/HospitalCoin",
+        "telegram": "https://t.me/hospcoin",
+        "twitter": "https://twitter.com/HospitalCoin",
+        "website": "http://hospitalcoin.net/"
+    },
+    "name": "Hospital Coin",
+    "premine": 0.06,
+    "startDate": "2018-10-01"
+}

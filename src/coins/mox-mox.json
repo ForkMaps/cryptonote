@@ -1,0 +1,15 @@
+{
+    "algorithm": "CryptoNight Red v1",
+    "coin": "MOX",
+    "forkedFrom": "xmr-monero",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mox-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4724483.0",
+        "discord": "https://discord.gg/tkcPZVF",
+        "repo": "https://github.com/mox-project",
+        "twitter": "https://twitter.com/Project_MoX",
+        "website": "https://getmox.org/"
+    },
+    "name": "MoX",
+    "startDate": "2018-07-22"
+}
