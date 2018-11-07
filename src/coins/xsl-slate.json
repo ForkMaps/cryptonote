@@ -1,0 +1,12 @@
+{
+    "algorithm": "CryptoNight Adaptive",
+    "coin": "XSL",
+    "forkedFrom": "xnv-nerva",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/slate-icon.png",
+    "links": {
+        "discord": "https://discord.gg/3mCnx5s",
+        "repo": "https://bitbucket.org/nerva-project/slate"
+    },
+    "name": "Slate",
+    "startDate": "2018-11-03"
+}
