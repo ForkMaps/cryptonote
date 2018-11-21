@@ -1,0 +1,17 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "XNB",
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xnb-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5067655.0",
+        "discord": "https://discord.gg/HYcJPFG",
+        "facebook": "https://www.facebook.com/xeonbit",
+        "repo": "https://github.com/xeonbit-project",
+        "telegram": "https://t.me/xeonbitgroup",
+        "twitter": "https://twitter.com/xeonbit",
+        "website": "http://xeonbit.com/"
+    },
+    "name": "Xeonbit",
+    "startDate": "2018-11-12"
+}
