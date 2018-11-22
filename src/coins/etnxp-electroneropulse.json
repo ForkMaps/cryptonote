@@ -1,0 +1,13 @@
+{
+    "algorithm": "CryptoNight Fast",
+    "coin": "ETNX",
+    "forkedFrom": "etnx-electronero",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/etnxp-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4980455.0",
+        "repo": "https://github.com/electroneropulse", 
+        "telegram": "https://t.me/etnxp"
+    },
+    "name": "Electronero Pulse",
+    "startDate": "2018-08-30"
+}
