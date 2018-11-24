@@ -1,0 +1,14 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "FRED",
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/fred-logo.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5036632.0",
+        "discord": "https://discord.gg/uhAjg9w",
+        "repo": "https://github.com/fredenrg", 
+        "website": "http://fredenergy.org/"
+    },
+    "name": "FRED",
+    "startDate": "2018-09-24"
+}
