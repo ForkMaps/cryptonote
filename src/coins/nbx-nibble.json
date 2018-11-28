@@ -1,0 +1,13 @@
+{
+    "algorithm": "CryptoNight Lite v1",
+    "coin": "NBX",
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nbx-icon.png",
+    "links": {
+        "discord": "https://discord.gg/jzdt9Ck", 
+        "repo": "https://github.com/Sudosups/NBX",
+        "website": "https://www.nibble-nibble.com/"
+    },
+    "name": "NibbleClassic",
+    "startDate": "2018-11-12"
+}
