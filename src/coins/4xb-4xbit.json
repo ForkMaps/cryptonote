@@ -1,0 +1,17 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "4xB",
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/4xb-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5040706.0",
+        "discord": "https://discord.gg/E4MdN2",
+        "reddit": "https://www.reddit.com/user/MyBTCFx/",
+        "repo": "https://github.com/mybtcfx",
+        "telegram": "https://t.me/mybtcfx",
+        "twitter": "https://twitter.com/mybtcfx",
+        "website": "https://mybtcfx.com/"
+    },
+    "name": "4xBIT",
+    "startDate": "2018-09-29"
+}
