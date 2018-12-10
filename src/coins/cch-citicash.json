@@ -1,0 +1,19 @@
+{
+    "algorithm": "CryptoNight Heavy",
+    "coin": "CCH",
+    "diffTarget": 60,
+    "forkedFrom": "sumo-sumocoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cch-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4934645.0",
+        "discord": "https://discordapp.com/invite/q38e6SE",
+        "facebook": "https://www.facebook.com/citicash.io/",
+        "reddit": "https://www.reddit.com/r/CitiCash/",
+        "repo": "https://github.com/citicashio/citicash",
+        "telegram": "https://t.me/citicash",
+        "twitter": "https://twitter.com/CitiCash_io/",
+        "website": "https://www.citicash.io/"
+    },
+    "name": "CitiCash",
+    "startDate": "2018-08-21"
+}

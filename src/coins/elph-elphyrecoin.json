@@ -1,0 +1,15 @@
+{
+    "algorithm": "CryptoNight v7",
+    "coin": "ELPH",
+    "forkedFrom": "pars-parsicoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/elph-logo.png", 
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5054391.0",
+        "discord": "https://discord.gg/CaDPREb",
+        "repo": "https://github.com/elphyrecoin",
+        "telegram": "https://t.me/elphyrecoin",
+        "website": "https://www.elphyrecoin.xyz/"
+    },
+    "name": "Elphyrecoin",
+    "startDate": "2018-10-21"
+}

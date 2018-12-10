@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight Dark",
+    "coin": "XCN", 
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xcn-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3348502.0",
+        "discord": "https://discord.gg/gJTuZg5",
+        "reddit": "https://www.reddit.com/r/cryonote",
+        "repo": "https://github.com/xcn-project/cryonote",
+        "twitter": "https://twitter.com/cryonote",
+        "website": "https://cryonote.cash/"
+    },
+    "name": "CryoNote",
+    "startDate": "2018-02-16"
+}
