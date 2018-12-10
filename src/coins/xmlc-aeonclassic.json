@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight Lite v1",
     "coin": "XMLC",
     "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/aeonclassic-icon.png",
+    "icon": "https://raw.githubusercontent.com/Biolith/aeonclassic.org/master/AeonClassicLogo-256.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5081388.0",
         "discord": "https://discord.gg/d7sF6qR",
