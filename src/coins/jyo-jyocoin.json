@@ -1,0 +1,14 @@
+{
+    "algorithm": "CryptoNight v8",
+    "coin": "JYO",
+    "forkedFrom": "xmr-monero",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/jyo-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5076086.0",
+        "discord": "https://discord.gg/AbmaF6U",
+        "repo": "https://github.com/JyoCoin/JyoCoin",
+        "website": "http://jyocoin.cash/"
+    },
+    "name": "JyoCoin",
+    "startDate": "2018-11-26"
+}
