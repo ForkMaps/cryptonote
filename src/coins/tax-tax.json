@@ -1,0 +1,13 @@
+{
+    "algorithm": "CryptoNight AscendNight",
+    "coin": "TAX",
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/tax-icon.png",
+    "links": {
+        "discord": "https://discord.gg/rHHeVFG",
+        "repo": "https://github.com/Tax-Project",
+        "website": "http://clashproject.org/tax/"
+    },
+    "name": "Tax Project",
+    "startDate": "2018-11-18"
+}
