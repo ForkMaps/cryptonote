@@ -1,0 +1,14 @@
+{
+    "algorithm": "CryptoNight SuperFast",
+    "coin": "XWP",
+    "forkedFrom": "xmr-monero",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/swap-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5083455.0",
+        "discord": "https://discord.gg/egc4md9",
+        "repo": "https://github.com/swap-dev",
+        "website": "http://clashproject.org/tax/"
+    },
+    "name": "Swap",
+    "startDate": "2018-12-11"
+}
