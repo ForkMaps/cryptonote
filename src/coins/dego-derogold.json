@@ -1,0 +1,12 @@
+{
+    "algorithm": "CryptoNight Lite v1",
+    "coin": "DEGO",
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/dego-icon.png",
+    "links": {
+        "discord": "https://discord.gg/7DJYFqk",
+        "repo": "https://github.com/derogold/derogold"
+    },
+    "name": "Dero Gold",
+    "startDate": "2018-12-20"
+}
