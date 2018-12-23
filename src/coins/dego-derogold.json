@@ -4,6 +4,7 @@
     "forkedFrom": "trtl-turtlecoin",
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/dego-icon.png",
     "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5088519.0",
         "discord": "https://discord.gg/7DJYFqk",
         "reddit": "https://www.reddit.com/r/DeroGold",
         "repo": "https://github.com/derogold/derogold"
