@@ -1,0 +1,13 @@
+{
+    "algorithm": "CryptoNight Turtle",
+    "coin": "GBZ",
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/gbz-icon.jpeg",
+    "links": {
+        "discord": "https://discord.gg/wTcnbRZ",
+        "repo": "https://github.com/gbitzdotcom",
+        "twitter": "https://twitter.com/GalaxyBitzCoin"
+    },
+    "name": "GalaxyBitz",
+    "startDate": "2019-01-03"
+}
