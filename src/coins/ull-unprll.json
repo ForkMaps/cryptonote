@@ -1,0 +1,16 @@
+{
+    "algorithm": "RNJC",
+    "coin": "ULL",
+    "forkedFrom": "xmr-monero",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ull-unprll.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5077140.0",
+        "discord": "https://discord.gg/cnZdfKt",
+        "repo": "https://github.com/unprll-project",
+        "telegram": "https://t.me/unprll",
+        "twitter": "https://twitter.com/ctobiasull",
+        "website": "https://unprll.cash"
+    },
+    "name": "Unprll",
+    "startDate": "2018-11-28"
+}
