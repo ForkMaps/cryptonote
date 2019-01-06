@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight Adaptive", 
+    "coin": "BLCH", 
+    "forkedFrom": "xnv-nerva", 
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/blurrycash-icon.png", 
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5093533", 
+        "discord": "https://discord.gg/QU2DeEu", 
+        "repo": "https://github.com/bizshady/blurrycash", 
+        "telegram": "", 
+        "twitter": "", 
+        "website": "https://blurrycash.cash/"
+    }, 
+    "name": "Blurrycash", 
+    "startDate": "2018-05-15 11:13:11"
+}
