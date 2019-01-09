@@ -1,0 +1,15 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "EKP",
+    "forkedFrom": "pars-parsicoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ekp-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5093297.0",  
+        "repo": "https://github.com/Frontekip/ekipcoin",
+        "telegram": "https://t.me/ekipcoin",
+        "twitter": "https://twitter.com/ekipcoin",
+        "website": "https://ekipcoin.com/"
+    },
+    "name": "Ekipcoin",
+    "startDate": "2011-01-04"
+}

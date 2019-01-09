@@ -1,0 +1,13 @@
+{
+    "algorithm": "CryptoNight Heavy",
+    "coin": "BR1",
+    "forkedFrom": "ksn-koson",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/br1-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5094075.0",
+        "repo": "https://github.com/Camellia73/BlackRoseCoin", 
+        "website": "https://blackrosenetwork.space/"
+    },
+    "name": "BlackRoseCoin",
+    "startDate": "2019-01-07"
+}
