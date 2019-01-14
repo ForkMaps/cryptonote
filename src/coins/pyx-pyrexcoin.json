@@ -1,5 +1,5 @@
 {
-    "algorithm": "CryptoNight v7",
+    "algorithm": "CryptoNight v8",
     "coin": "PYX",
     "forkedFrom": "xmr-monero",
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/pyx-icon.png",
