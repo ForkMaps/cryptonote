@@ -1,5 +1,5 @@
 {
-    "algorithm": "CryptoNight",
+    "algorithm": "CryptoNight v8",
     "coin": "DRGL",
     "diffTarget": 81,
     "forkedFrom": [
@@ -9,7 +9,7 @@
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/drgl-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2712001.0",
-        "discord": "https://discord.gg/5UJcJJg",
+        "discord": "http://discord.drgl.info",
         "repo": "https://github.com/ZirtysPerzys",
         "telegram": "https://t.me/DRGL_is_Dragonglass",
         "twitter": "https://twitter.com/ZirtysPerzys",
