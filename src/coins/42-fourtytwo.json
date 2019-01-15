@@ -1,12 +1,7 @@
 {
-    "algorithm": "CryptoNight Lite v1", 
+    "algorithm": "CryptoNight v8", 
     "coin": "42", 
-    "deadCoin": {
-        "endDate": "2017-09-07 00:00:00", 
-        "reason": "", 
-        "source": "https://deadcoins.com/entry/992/?gvid=1308"
-    }, 
-    "forkedFrom": "trtl-turtlecoin", 
+    "forkedFrom": "xmr-monero", 
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/42-icon.png", 
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4694014.0", 
