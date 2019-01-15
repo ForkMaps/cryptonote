@@ -1,5 +1,5 @@
 {
-    "algorithm": "CryptoNight Lite v1", 
+    "algorithm": "CryptoNight v8", 
     "coin": "ZLS", 
     "forkedFrom": "bcn-bytecoin", 
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/zls-icon.png", 
