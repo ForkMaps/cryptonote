@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight Turtle",
+    "coin": "NXM",
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nxm-icon.jpeg",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5096285",
+        "discord": "https://discord.gg/hwFbShQ/",
+        "repo": "https://github.com/NXstream/",
+        "telegram": "https://t.me/nxstream_io/",
+        "twitter": "https://twitter.com/Nx_stream/",
+        "website": "https://nxstream.io"
+    },
+    "name": "NXStream",
+    "startDate": "2019-01-08"
+}
