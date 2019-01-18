@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight Turtle",
     "coin": "NXM",
     "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nxm-icon.jpeg",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nxm-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5096285",
         "discord": "https://discord.gg/hwFbShQ/",
