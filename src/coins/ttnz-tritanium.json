@@ -5,11 +5,12 @@
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/ttnz-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4632242.0",
+        "discord": "https://discord.gg/JsU23RK",
         "repo": "https://github.com/TritaniumCoin/TritaniumCoin",
         "telegram": "https://t.me/tritaniumico",
         "twitter": "https://twitter.com/TritaniumLabs",
         "website": "https://tritanium.io/"
-    }, 
+    },
     "name": "Tritanium",
     "startDate": "2018-07-09"
 }
