@@ -1,0 +1,15 @@
+{
+    "algorithm": "CryptoNight CUT",
+    "coin": "CUT",
+    "forkedFrom": "xmr-monero",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cut-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5087550.0",
+        "reddit": "https://www.reddit.com/user/cutcoin",
+        "repo": "https://github.com/cutcoin/cutcoin",
+        "twitter": "https://twitter.com/CUTc0in",
+        "website": "https://cutcoin.org/"
+    },
+    "name": "CUTcoin",
+    "startDate": "2018-12-20"
+}

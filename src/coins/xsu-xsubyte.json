@@ -1,0 +1,15 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "XSU",
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xsu-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5092760.0",
+        "discord": "https://discord.gg/FFNTcb8",
+        "repo": "https://github.com/XsuByte",
+        "telegram": "http://t.me/xsubyteofficial",
+        "website": "https://www.xsubyte.org/"
+    },
+    "name": "XsuByte",
+    "startDate": "2019-01-03"
+}
