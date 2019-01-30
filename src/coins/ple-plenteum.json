@@ -1,15 +1,15 @@
 {
-    "algorithm": "CryptoNight Lite v1", 
-    "coin": "PLE", 
-    "diffTarget": 120, 
-    "forkedFrom": "trtl-turtlecoin", 
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/plenteum-icon.png", 
+    "algorithm": "CryptoNight Turtle", 
+    "coin": "PLE",
+    "diffTarget": 120,
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/plenteum-icon.png",
     "links": {
-        "discord": "http://chat.plenteum.com/", 
-        "repo": "https://github.com/plenteum/plenteum", 
-        "twitter": "https://twitter.com/plenteum", 
+        "discord": "http://chat.plenteum.com/",
+        "repo": "https://github.com/plenteum/plenteum",
+        "twitter": "https://twitter.com/plenteum",
         "website": "https://www.plenteum.com/"
-    }, 
-    "name": "Plenteum", 
+    },
+    "name": "Plenteum",
     "startDate": "2018-04-17 07:21:12"
 }
