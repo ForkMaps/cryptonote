@@ -1,13 +1,14 @@
 {
-    "algorithm": "SCAM",
+    "algorithm": "CryptoNight Lite v1",
     "coin": "BTR",
     "forkedFrom": "trtl-turtlecoin",
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/btr-icon.png",
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5086402.0",
-        "discord": "https://discord.gg/NVTB5De",
-        "repo": "https://github.com/Btrcrypto"
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5098150.0",
+        "discord": "https://discord.gg/BxYkmJT",
+        "repo": "https://github.com/nthon/BitcoinRich"
     },
-    "name": "SCAM",
+    "name": "Bitcoin Rich",
+    "notes": "Original dev exitscammed",
     "startDate": "2018-12-18"
 }

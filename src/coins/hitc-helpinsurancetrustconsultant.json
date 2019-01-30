@@ -1,0 +1,14 @@
+{
+    "algorithm": "CryptoNight Turtle",
+    "coin": "HITC",
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/hitc-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5100032.0",
+        "discord": "https://discord.gg/3WEHfmr",
+        "repo": "https://github.com/HITHELPINSURANCETRUST",
+        "twitter": "https://mobile.twitter.com/Marshal66134534"
+    },
+    "name": "Help Insurance Trust Consultant",
+    "startDate": "2019-01-20"
+}
