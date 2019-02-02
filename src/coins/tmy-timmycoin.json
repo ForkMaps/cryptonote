@@ -1,0 +1,17 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "TMY",
+    "diffTarget": 120,
+    "forkedFrom": "pars-parsicoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/tmy-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5100223.0", 
+        "explorer": "http://explorer.timmycoin.net/",
+        "repo": "https://github.com/tmycoin/timmy",
+        "telegram": "https://t.me/tmycoin",
+        "twitter": "https://twitter.com/tmycoin",
+        "website": "https://www.timmycoin.net/"
+    },
+    "name": "Timmycoin",
+    "startDate": "2019-01-21"
+}
