@@ -1,0 +1,14 @@
+{
+    "algorithm": "CryptoNight Soft Shell",
+    "coin": "XLS",
+    "diffTarget": 60,
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xls-icon.png",
+    "links": {
+        "discord": "https://discord.gg/as3YzU",
+        "repo": "https://github.com/xlscoin",
+        "website": "https://xlscoin.info/"
+    },
+    "name": "Excelsior",
+    "startDate": "2019-02-03"
+}
