@@ -1,0 +1,15 @@
+{
+    "algorithm": "CryptoNight Turtle",
+    "coin": "BTCM",
+    "diffTarget": 50,
+    "forkedFrom": "dego-derogold",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/btcm-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5108216.0",
+        "discord": "https://discord.gg/4F8pjEK",
+        "repo": "https://github.com/bitcoinmono/bitcoinmono",
+        "website": "https://bitcoinmono.io"
+    },
+    "name": "Bitcoin Mono",
+    "startDate": "2019-02-10"
+}
