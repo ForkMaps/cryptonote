@@ -1,10 +1,11 @@
 {
     "algorithm": "CryptoNight Soft Shell",
     "coin": "XLS",
-    "diffTarget": 60,
+    "diffTarget": 45,
     "forkedFrom": "trtl-turtlecoin",
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xls-icon.png",
     "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5105599.0",
         "discord": "https://discord.gg/as3YzU",
         "repo": "https://github.com/xlscoin",
         "website": "https://xlscoin.info/"
