@@ -1,0 +1,15 @@
+{
+    "algorithm": "CryptoNight Lite v1",
+    "coin": "NaCa",
+    "diffTarget": 60,
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/naca-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5108764",
+        "discord": "https://discord.gg/eJZs35U",
+        "repo": "https://github.com/Nash-Cash",
+        "website": "https://nashcash.net/"
+    },
+    "name": "NashCash",
+    "startDate": "2019-02-06 18:00:00"
+}
