@@ -1,0 +1,19 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "ANX",
+    "diffTarget": 120,
+    "forkedFrom": "ccx-conceal",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/anx-logo.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5114934",
+        "discord": "https://discord.aluisyo.network",
+        "facebook": "https://facebook.com/aluisyonetwork",
+        "reddit": "https://www.reddit.com/r/aluisyonetwork",
+        "repo": "https://github.com/aluisyonetwork",
+        "telegram": "https://t.me/joinchat/I5RElgnalLDhSHTQBjSluA",
+        "twitter": "https://twitter.com/aluisyonetwork",
+        "website": "https://aluisyo.network/"
+    },
+    "name": "Aluisyo",
+    "startDate": "2019-02-25"
+}
