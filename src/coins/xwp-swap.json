@@ -1,14 +1,17 @@
 {
-    "algorithm": "CryptoNight SuperFast",
+    "algorithm": "Cuckaroo29s",
     "coin": "XWP",
     "forkedFrom": "xmr-monero",
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/swap-icon.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5083455.0",
         "discord": "https://discord.gg/egc4md9",
-        "repo": "https://github.com/swap-dev",
-        "website": "http://clashproject.org/tax/"
+        "facebook": "https://www.facebook.com/Swap-Project-626032644518401/",
+        "reddit": "https://www.reddit.com/r/SwapProject/",
+        "repo": "https://github.com/swap-dev/swap",
+        "twitter": "https://twitter.com/_realSwap",
+        "website": "https://swap.fyi"
     },
     "name": "Swap",
-    "startDate": "2018-12-11"
+    "startDate": "2018-16-11"
 }
