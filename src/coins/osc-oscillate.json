@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight Turtle",
+    "coin": "OSC",
+    "diffTarget": 60,
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/osc-logo.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5116182.0",
+        "discord": "https://discord.gg/b5JzwWa",
+        "repo": "https://github.com/oscillate-project",
+        "telegram": "https://t.me/Oscillate",
+        "website": "http://oscillate-coin.github.io"
+    },
+    "name": "Oscillate",
+    "startDate": "2019-03-02"
+} 

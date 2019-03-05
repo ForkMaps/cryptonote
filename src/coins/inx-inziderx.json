@@ -1,0 +1,19 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "INX",
+    "diffTarget": 120,
+    "forkedFrom": "spes-spescoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/inx-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4570492.msg41193984#msg41193984",
+        "discord": "https://discord.gg/TpSXDt2",
+        "facebook": "https://www.facebook.com/InziderX",
+        "reddit": "https://www.reddit.com/user/InziderX",
+        "repo": "https://github.com/InziderX",
+        "telegram": "https://t.me/inziderxgroup",
+        "twitter": "https://twitter.com/InziderX",
+        "website": "https://inziderx.io/"
+    },
+    "name": "InziderX",
+    "startDate": "2019-01-12"
+}
