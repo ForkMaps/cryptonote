@@ -2,8 +2,8 @@
     "algorithm": "CryptoNight X",
     "coin": "XIG",
     "diffTarget": 60,
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xi-icon.png", 
+    "forkedFrom": "amit-amitycoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xi-icon.png",
     "links": {
         "discord": "https://discord.gg/4u9qAE9",
         "repo": "https://gitlab.com/galaxia-project/blockchain/xi",
