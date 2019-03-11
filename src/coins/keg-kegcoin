@@ -3,7 +3,7 @@
     "coin": "KEG",
     "diffTarget": 30,
     "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://raw.githubusercontent.com/turtlecoin/brand/master/logo/web/icon/kegcoin_icon_color%402x.png",
+    "icon": "https://github.com/kegcoin-project/cryptonote/blob/master/src/images/kegcoin-icon.png",
     "links": {
         "bitcointalkAnn": "",
         "discord": "https://discord.gg/DzQMNJ7/",
