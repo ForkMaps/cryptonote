@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight Lite", 
+    "coin": "KEG",
+    "diffTarget": 30,
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://raw.githubusercontent.com/turtlecoin/brand/master/logo/web/icon/kegcoin_icon_color%402x.png",
+    "links": {
+        "bitcointalkAnn": "",
+        "discord": "https://discord.gg/DzQMNJ7/",
+        "reddit": "https://www.reddit.com/r/Kegcoin/",
+        "repo": "https://github.com/kegcoin-project/kegcoin-gold",
+        "website": "https://kegcoin.tk"
+    },
+    "name": "Kegcoin",
+    "startDate": "2019-01-01 00:00:00"
+}
