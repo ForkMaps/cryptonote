@@ -1,9 +1,9 @@
 {
-    "algorithm": "CryptoNight Lite", 
+    "algorithm": "CryptoNight Lite",
     "coin": "KEG",
     "diffTarget": 30,
     "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://github.com/kegcoin-project/cryptonote/blob/master/src/images/kegcoin-icon.png",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/kegcoin-icon.png",
     "links": {
         "bitcointalkAnn": "",
         "discord": "https://discord.gg/DzQMNJ7/",
