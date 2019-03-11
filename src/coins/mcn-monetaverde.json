@@ -1,20 +1,16 @@
 {
     "algorithm": "CryptoNight", 
-    "coin": "MCN", 
-    "deadCoin": {
-        "endDate": "2018-01-13 00:00:00", 
-        "reason": "", 
-        "source": "https://deadcoins.com/entry/932/?gvid=1308"
-    }, 
+    "coin": "MCN",
+    "diffTarget": 60, 
     "forkedFrom": "fcn-fantomcoin", 
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/mcn-icon.png", 
     "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=657820.0", 
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5069658",
+        "discord": "https://discord.gg/RGqymUj",
         "reddit": "https://www.reddit.com/r/MonetaVerde", 
-        "repo": "https://github.com/cryptomidnight/monetaverde", 
-        "telegram": "https://t.me/monetaverdeofficial", 
-        "twitter": "https://twitter.com/monetaverde_mcn", 
-        "website": "https://www.monetaverde.io/"
+        "repo": "https://github.com/mcnproject/monetaverde",  
+        "twitter": "https://twitter.com/monetaverde", 
+        "website": "https://mcn.green/"
     }, 
     "name": "MonetaVerde", 
     "startDate": "2014-05-29 16:43:58"
