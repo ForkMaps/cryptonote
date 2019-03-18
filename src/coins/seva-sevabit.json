@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight Heavy",
+    "coin": "SEVA",
+    "diffTarget": 120,
+    "forkedFrom": "loki-loki",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/seva-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5087151",
+        "discord": "https://discord.gg/MApcHzB",
+        "repo": "https://github.com/sevabit",
+        "telegram": "https://t.me/sevabit",
+        "twitter": "https://twitter.com/bitseva"
+    },
+    "name": "Sevabit",
+    "startDate": "2018-12-18"
+}
