@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight turtle",
+    "coin": "LSC",
+    "diffTarget": 1200,
+    "forkedFrom": "keg-kegcoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/loosercoin-icon.png",
+    "links": {
+        "bitcointalkAnn": "",
+        "discord": "https://discord.gg/7G5KJKk",
+        "reddit": "https://www.reddit.com/r/loosercoin/",
+        "repo": "https://github.com/loosercoin/loosercoin",
+        "website": "https://loosercoin.tk"
+    },
+    "name": "Kegcoin",
+    "startDate": "2019-03-04 13:00:00"
+}
