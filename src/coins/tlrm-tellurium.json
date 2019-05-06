@@ -1,0 +1,19 @@
+{
+    "algorithm": "CN Turtle",
+    "coin": "TLRM",
+    "endDate": "",
+    "forkedFrom": "TurtleCoin",
+    "icon": "https://github.com/TelluriumCoin/Assets/blob/master/logo.png",
+    "links": {
+        "bitcointalkAnn": https://bitcointalk.org/index.php?topic=5132724",
+        "discord": "https://discord.gg/VaXYX6z",
+        "facebook": "",
+        "reddit": "",
+        "repo": "https://github.com/TelluriumCoin/",
+        "telegram": "",
+        "twitter": "https://twitter.com/CoinTellurium",
+        "website": "http://www.tellurium.network/"
+    },
+    "name": "Tellurium",
+    "startDate": "2019-04-17"
+}
