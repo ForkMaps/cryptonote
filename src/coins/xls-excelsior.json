@@ -1,15 +1,16 @@
 {
-    "algorithm": "CryptoNight Soft Shell",
-    "coin": "XLS",
-    "diffTarget": 45,
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xls-icon.png",
-    "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5105599.0",
-        "discord": "https://discord.gg/as3YzU",
-        "repo": "https://github.com/xlscoin",
-        "website": "https://xlscoin.info/"
-    },
-    "name": "Excelsior",
-    "startDate": "2019-02-03"
+  "algorithm": "CryptoNight Soft Shell",
+  "coin": "XLS",
+  "diffTarget": 45,
+  "forkedFrom": "trtl-turtlecoin",
+  "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xls-icon.png",
+  "links": {
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5105599.0",
+    "discord": "https://discord.gg/as3YzU",
+    "repo": "https://github.com/xlscoin",
+    "twitter": "https://twitter.com/Excelsi69381320",
+    "website": "https://xlscoin.info/"
+  },
+  "name": "Excelsior",
+  "startDate": "2019-02-03"
 }
