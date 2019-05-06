@@ -1,0 +1,19 @@
+{
+    "algorithm": "CN Turtle",
+    "coin": "XKR",
+    "endDate": "",
+    "forkedFrom": "TurtleCoin",
+    "icon": "https://i.imgur.com/owD4CtE.png",
+    "links": {
+        "bitcointalkAnn": "",
+        "discord": "http://chat.kryptokrona.se/",
+        "facebook": "",
+        "reddit": "",
+        "repo": "https://github.com/kryptokrona/kryptokrona",
+        "telegram": "",
+        "twitter": "",
+        "website": "https://kryptokrona.se/"
+    },
+    "name": "Kryptokroma",
+    "startDate": "2019-04-02"
+}
