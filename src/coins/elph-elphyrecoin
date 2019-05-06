@@ -1,0 +1,19 @@
+{
+    "algorithm": "CN Turtle",
+    "coin": "ELPH",
+    "endDate": "",
+    "forkedFrom": "TurtleCoin",
+    "icon": "https://www.elphyrecoin.xyz/img/logo.png",
+    "links": {
+        "bitcointalkAnn": "",
+        "discord": "https://discord.gg/CaDPREb",
+        "facebook": "",
+        "reddit": "",
+        "repo": "https://github.com/elphyrecoin/elphyrecoin2",
+        "telegram": "https://web.telegram.org/#/im?p=g341463799",
+        "twitter": "https://twitter.com/elphyrecoin",
+        "website": "https://www.elphyrecoin.xyz/"
+    },
+    "name": "Elphyrecoin",
+    "startDate": " 2019-02-14"
+}
