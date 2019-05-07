@@ -1,13 +1,14 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "CX",
-    "forkedFrom": "trtl-turtlecoin",
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cx-icon.png",
-    "links": {
-        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5081758.0",
-        "discord": "https://discord.gg/VsAChev",
-        "repo": "https://github.com/dirtybits"
-    },
-    "name": "Catalyst",
-    "startDate": "2018-12-03"
+  "algorithm": "CryptoNight Lite v1",
+  "coin": "CX",
+  "forkedFrom": "trtl-turtlecoin",
+  "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cx-icon.png",
+  "links": {
+    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5081758.0",
+    "discord": "https://discord.gg/byKYDyb",
+    "repo": "https://github.com/dirtybits",
+    "website": "https://dirtybits.github.io/"
+  },
+  "name": "Catalyst",
+  "startDate": "2018-12-03"
 }
