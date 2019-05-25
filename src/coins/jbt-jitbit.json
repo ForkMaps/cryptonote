@@ -1,0 +1,16 @@
+{
+    "algorithm": "Cryptonight Turtle",
+    "coin": "JBT",
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/jitbit-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5143624",
+        "discord": "https://discord.gg/UJ2EGgK",
+        "reddit": "https://www.reddit.com/r/jitbit_coin/",
+        "repo": "https://github.com/jitbit-project",
+        "telegram": "https://t.me/jbtcoin",
+        "website": "http://jitbit.de"
+    },
+    "name": "JitBit",
+    "startDate": "2019-05-15"
+}
