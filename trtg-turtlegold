@@ -1,0 +1,13 @@
+{
+    "algorithm": "pow algorithm - Cryptonight Turtle",
+    "coin": "coin ticker symbol - TRTG",
+    "forkedFrom": "coin this was forked from - DeroGold (DEGO)",
+    "icon": "https://cdn.discordapp.com/attachments/564180290575007754/573871713146765313/20190402_233509.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5128809.0",
+        "discord": "https://discord.gg/vWVHkXh",
+        "repo": https://github.com/turtlegold/turtlegold",
+        "website": "https://turtlegold.xyz/"
+    },
+    "name": "coin name - TurtleGold",
+    "startDate": "coin launch date, format YYYY-MM-DD 2019-04-07"
