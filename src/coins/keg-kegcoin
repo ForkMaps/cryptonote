@@ -1,14 +1,14 @@
 {
-    "algorithm": "CryptoNight Heavy", 
+    "algorithm": "CryptoNight Turtle", 
     "coin": "KEG",
     "diffTarget": 300,
     "forkedFrom": "loki-loki",
     "icon": "https://github.com/kegcoin-project/cryptonote/blob/master/src/images/kegcoin-icon.png",
     "links": {
-        "bitcointalkAnn": "",
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5120650",
         "discord": "https://discord.gg/jc5Traq",
         "reddit": "https://www.reddit.com/r/Kegcoin/",
-        "repo": "https://github.com/kegcoin-project/kegcoin",
+        "repo": "https://github.com/kegcoin-foundation/kegcoin",
         "website": "https://kegcoin.tk"
     },
     "name": "Kegcoin",
