@@ -5,7 +5,7 @@
     "forkedFrom": [
         "bcn-bytecoin",
         "krb-karbo",
-        "xmr-monero",
+        "xmr-monero"
     ],
     "icon": "https://raw.githubusercontent.com/aejontargaryen/DRGL-X/master/FanG.png",
     "links": {
