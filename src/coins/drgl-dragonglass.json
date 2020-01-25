@@ -1,20 +1,21 @@
 {
     "algorithm": "CryptoNight v8",
-    "coin": "DRGL",
-    "diffTarget": 81,
+    "coin": "XFG",
+    "diffTarget": 480,
     "forkedFrom": [
         "bcn-bytecoin",
-        "krb-karbo"
+        "krb-karbo",
+        "xmr-monero",
     ],
-    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/drgl-icon.png",
+    "icon": "https://raw.githubusercontent.com/aejontargaryen/DRGL-X/master/FanG.png",
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2712001.0",
-        "discord": "http://discord.drgl.info",
-        "repo": "https://github.com/ZirtysPerzys",
+        "discord": "http://discord.fandom.gold",
+        "repo": "https://github.com/FandomGold",
         "telegram": "https://t.me/DRGL_is_Dragonglass",
-        "twitter": "https://twitter.com/ZirtysPerzys",
-        "website": "https://zirtysperzys.org/"
+        "twitter": "https://twitter.com/FandomGold",
+        "website": "https://fandom.gold/"
     },
-    "name": "Dragonglass",
-    "startDate": "2017-12-27 00:01:12"
+    "name": "Fandom GOLD",
+    "startDate": "2018-01-08 00:08:00"
 }
