@@ -1,0 +1,13 @@
+{
+    "algorithm": "CryptoNight Turtle", 
+    "coin": "EMP",
+    "diffTarget": 30,
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://cdn.discordapp.com/attachments/604564664692768768/604564700889612299/5d37c5316da7c-480x480.png",
+    "links": {
+        "discord": "https://discord.gg/qx7sZdb",
+        "repo": "https://github.com/the-emperium/empcoin2"
+    },
+    "name": "EmpCoin",
+    "startDate": "2019-07-26 23:00:00"
+}
