@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight Turtle", 
+    "coin": "CIRQ",
+    "diffTarget": 30,
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/cirq-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5219298",
+        "discord": "https://chat.cirquity.com/",
+        "repo": "https://github.com/cirquity",
+        "twitter": "https://twitter.com/cirquity",
+        "website": "https://cirquity.com/"
+    },
+    "name": "Cirquity",
+    "startDate": "2020-01-01"
+}
