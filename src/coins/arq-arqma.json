@@ -1,12 +1,12 @@
 {
-    "algorithm": "CryptoNight Lite v1", 
+    "algorithm": "RandomARQ", 
     "coin": "ARQ", 
-    "diffTarget": 240, 
+    "diffTarget": 120, 
     "forkedFrom": "xmr-monero", 
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/arqma-icon-fixed.png", 
     "links": {
         "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4474605", 
-        "discord": "https://discord.gg/s9BQpJT", 
+        "discord": "https://chat.arqma.com", 
         "repo": "https://github.com/arqma", 
         "telegram": "https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw", 
         "website": "https://arqma.com/"
