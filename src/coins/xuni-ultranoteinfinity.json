@@ -1,0 +1,17 @@
+{
+    "algorithm": "CryptoNight Conceal", 
+    "coin": "XUNI", 
+    "diffTarget": 120, 
+    "forkedFrom": "bcn-bytecoin", 
+    "icon": "https://www.ultranote.org/wp-content/uploads/2020/07/logo_512x512-e1594580991413.png", 
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5252476", 
+        "discord": "https://discord.com/invite/qHSNkH3", 
+        "reddit": "https://www.reddit.com/r/UltraNote/", 
+        "repo": "https://github.com/xun-project", 
+        "twitter": "https://twitter.com/ultranotecoin", 
+        "website": "https://ultranote.org/"
+    }, 
+    "name": "UltraNote Infinity", 
+    "startDate": "2020-04-20 05:29"
+}
