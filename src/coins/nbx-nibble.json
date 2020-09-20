@@ -1,13 +1,15 @@
 {
-    "algorithm": "CryptoNight Lite v1",
-    "coin": "NBX",
-    "forkedFrom": "trtl-turtlecoin",
+    "algorithm": "CryptoNight Conceal",
+    "coin": "NBXC",
+    "forkedFrom": "ccx-conceal",
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nbx-icon.png",
     "links": {
-        "discord": "https://discord.gg/jzdt9Ck", 
-        "repo": "https://github.com/Sudosups/NBX",
-        "website": "https://www.nibble-nibble.com/"
+        "discord": "https://discord.com/invite/BBwa4cY", 
+        "repo": "https://github.com/Nibble-Network",
+        "website": "https://www.nibble-nibble.com/", 
+        "telegram": "https://t.me/NibbleNBXC", 
+        "twitter": "https://twitter.com/NibbleNetwork"
     },
-    "name": "NibbleClassic",
+    "name": "Nibble",
     "startDate": "2018-11-12"
 }
