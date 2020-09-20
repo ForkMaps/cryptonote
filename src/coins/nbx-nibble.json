@@ -1,7 +1,7 @@
 {
     "algorithm": "CryptoNight Conceal",
     "coin": "NBXC",
-    "forkedFrom": "Conceal",
+    "forkedFrom": "ccx-conceal",
     "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/nbx-icon.png",
     "links": {
         "discord": "https://discord.com/invite/BBwa4cY", 
